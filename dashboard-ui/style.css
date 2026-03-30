@@ -1,0 +1,44 @@
+body {
+    background-color: #ffffff;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+#main {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+code {
+    display: block;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-size: 0.9em;
+}
+
+#statistics, #analyzer-events {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+#statistics > div, #analyzer-events > div {
+    flex: 1;
+    min-width: 300px;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+h3 {
+    color: #333;
+    margin-top: 0;
+}

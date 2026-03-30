@@ -1,0 +1,164 @@
+openapi: 3.0.3
+info:
+  title: Race Timing Analysis API
+  version: "1.0.0"
+  description: API for a race timing and scoring analysis for endurance motorsport events.
+  contact:
+    email: ncao5@my.bcit.ca
+paths:
+  /race/laps:
+    get:
+      summary: get new lap readings
+      operationId: app.get_lap_readings
+      parameters:
+        - name: start_timestamp
+          in: query
+          description: start of the timespan
+          schema:
+            type: string
+            format: date-time
+            example: "2026-01-21T09:12:33.001Z"
+        - name: end_timestamp
+          in: query
+          description: end of the timespan (exclusive)
+          schema:
+            type: string
+            format: date-time
+            example: "2026-01-21T09:12:33.001Z"
+      responses:
+        '200':
+          description: Successfully returned list of lap readings
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/LapItem'
+  /race/sectors:
+    get:
+      summary: get new sector readings
+      operationId: app.get_sector_readings
+      parameters:
+        - name: start_timestamp
+          in: query
+          description: start of the timespan
+          schema:
+            type: string
+            format: date-time
+            example: "2026-01-21T09:12:33.001Z"
+        - name: end_timestamp
+          in: query
+          description: end of the timespan (exclusive)
+          schema:
+            type: string
+            format: date-time
+            example: "2026-01-21T09:12:33.001Z"
+      responses:
+        '200':
+          description: Successfully returned list of sector readings
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/SectorItem'
+      
+components:
+  schemas:
+    LapItem:
+      additionalProperties: false
+      type: object
+      required:
+        - car_id
+        - batch_id
+        - stint_id
+        - batch_timestamp
+        - lap_number
+        - lap_time_seconds
+        - fuel_consumed_kg
+        - max_speed_kph
+        - trace_id
+      properties:
+        car_id:
+          type: string
+          example: "BMW_10"
+        batch_id:
+          type: string
+          format: uuid
+          example: "d290f1ee-6c54-4b01-90e6-d701748f0851"
+        stint_id:
+          type: string
+          example: "STINT_01"
+        batch_timestamp:
+          type: string
+          format: date-time
+          example: "2026-01-21T09:12:33.001Z"
+        lap_number:
+          type: integer
+          example: 10
+        lap_time_seconds:
+          type: number
+          example: 100.95
+        fuel_consumed_kg:
+          type: number
+          example: 20.50
+        max_speed_kph:
+          type: number
+          example: 255.55
+        trace_id:
+          type: string
+        date_created:
+          type: string
+          format: date-time
+          example: "2026-01-21T09:12:33.001Z"
+    
+    SectorItem:
+      additionalProperties: false
+      type: object
+      required:
+        - car_id
+        - batch_id
+        - stint_id
+        - batch_timestamp
+        - lap_number
+        - sector_id
+        - sector_time_seconds
+        - entry_speed_kph
+        - exit_speed_kph
+        - trace_id
+      properties:
+        car_id:
+          type: string
+          example: "BMW_10"
+        batch_id:
+          type: string
+          format: uuid
+          example: "d290f1ee-6c54-4b01-90e6-d701748f0851"
+        stint_id:
+          type: string
+          example: "STINT_01"
+        batch_timestamp:
+          type: string
+          format: date-time
+          example: "2026-01-21T09:12:33.001Z"
+        lap_number:
+          type: integer
+          example: 10
+        sector_id:
+          type: string
+          example: "SECTOR_01"
+        sector_time_seconds:
+          type: number
+          example: 20.26
+        entry_speed_kph:
+          type: number
+          example: 210.50
+        exit_speed_kph:
+          type: number
+          example: 155.10
+        trace_id:
+          type: string
+        date_created:
+          type: string
+          format: date-time
+          example: "2026-01-21T09:12:33.001Z"

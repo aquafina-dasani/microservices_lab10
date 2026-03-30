@@ -1,0 +1,1260 @@
+2026-03-30 21:30:24,024 - basicLogger - INFO - Received event add_lap with a trace id of d6623029-2957-46a1-a9b6-7426b20f1d62
+2026-03-30 21:30:24,024 - basicLogger - INFO - Received event add_lap with a trace id of 0327ea51-7f19-465e-83d9-923a1520f904
+2026-03-30 21:30:24,026 - basicLogger - INFO - Received event add_lap with a trace id of 54f07e7b-dc3f-4f8b-9184-d0df836db469
+2026-03-30 21:30:24,025 - basicLogger - INFO - Received event add_lap with a trace id of 1e767aa5-4949-4507-8ac4-9b919fcc9b4e
+2026-03-30 21:30:24,025 - basicLogger - INFO - Received event add_lap with a trace id of 87132be9-1552-492a-a81b-6969bc0ce04b
+2026-03-30 21:30:24,026 - basicLogger - INFO - Received event add_lap with a trace id of 5598e556-57b7-4aa6-9d31-fcbd55eb2bd7
+2026-03-30 21:30:24,032 - basicLogger - INFO - Received event add_lap with a trace id of 9f7206ed-8637-4177-ac4b-a5faa6e78d31
+2026-03-30 21:30:24,033 - basicLogger - INFO - Received event add_lap with a trace id of fe9e73c6-cb00-4674-9d5f-ac1fb9734c0b
+2026-03-30 21:30:24,033 - basicLogger - INFO - Received event add_lap with a trace id of c7551b07-d9f6-4d33-a68f-02bf52e1a9ac
+2026-03-30 21:30:24,034 - basicLogger - INFO - Received event add_lap with a trace id of 92e254a8-6dff-4746-93cb-3ec9b9372494
+2026-03-30 21:30:24,165 - basicLogger - INFO - Response for event add_lap (id: ba38d874-98e6-4110-9c41-681522d8fd10) has status 201 (via Kafka)
+2026-03-30 21:30:24,173 - basicLogger - INFO - Response for event add_lap (id: ba38d874-98e6-4110-9c41-681522d8fd10) has status 201 (via Kafka)
+2026-03-30 21:30:24,178 - basicLogger - INFO - Received event add_lap with a trace id of 0ece377c-3e21-4730-b18f-30d9bb787e60
+2026-03-30 21:30:24,183 - basicLogger - INFO - Response for event add_lap (id: d4df16f5-54bf-4a2f-9b78-d6ad84c8af2b) has status 201 (via Kafka)
+2026-03-30 21:30:24,187 - basicLogger - INFO - Response for event add_lap (id: d4df16f5-54bf-4a2f-9b78-d6ad84c8af2b) has status 201 (via Kafka)
+2026-03-30 21:30:24,191 - basicLogger - INFO - Received event add_lap with a trace id of c3e29f8e-1f19-4ec0-aa9a-dd92958ffb09
+2026-03-30 21:30:24,195 - basicLogger - INFO - Response for event add_lap (id: 9be70e9f-ec3a-4ab7-9afc-c8778f5036d2) has status 201 (via Kafka)
+2026-03-30 21:30:24,199 - basicLogger - INFO - Response for event add_lap (id: 9be70e9f-ec3a-4ab7-9afc-c8778f5036d2) has status 201 (via Kafka)
+2026-03-30 21:30:24,202 - basicLogger - INFO - Received event add_lap with a trace id of 13c78793-3090-4b38-9eb9-9860f8c901f3
+2026-03-30 21:30:24,209 - basicLogger - INFO - Response for event add_lap (id: 4769cb26-28bb-4146-af8b-d13fb8a4d7a1) has status 201 (via Kafka)
+2026-03-30 21:30:24,213 - basicLogger - INFO - Response for event add_lap (id: 4769cb26-28bb-4146-af8b-d13fb8a4d7a1) has status 201 (via Kafka)
+2026-03-30 21:30:24,217 - basicLogger - INFO - Received event add_lap with a trace id of b75b91b7-5a82-4b41-9531-9f8ee585353b
+2026-03-30 21:30:24,222 - basicLogger - INFO - Response for event add_lap (id: 626f1fc2-9ffb-4650-9b4b-393f17306818) has status 201 (via Kafka)
+2026-03-30 21:30:24,226 - basicLogger - INFO - Response for event add_lap (id: 626f1fc2-9ffb-4650-9b4b-393f17306818) has status 201 (via Kafka)
+2026-03-30 21:30:24,229 - basicLogger - INFO - Received event add_lap with a trace id of 3c53957a-5a83-4562-9fab-a4e88fa88b3f
+2026-03-30 21:30:24,235 - basicLogger - INFO - Response for event add_lap (id: b061a605-3fc2-4cff-8707-511fe873dcc8) has status 201 (via Kafka)
+2026-03-30 21:30:24,239 - basicLogger - INFO - Response for event add_lap (id: b061a605-3fc2-4cff-8707-511fe873dcc8) has status 201 (via Kafka)
+2026-03-30 21:30:24,243 - basicLogger - INFO - Received event add_lap with a trace id of e3b210ab-fa5c-4412-90c4-0741b65d34d8
+2026-03-30 21:30:24,247 - basicLogger - INFO - Response for event add_lap (id: 31172cf0-f49b-4ded-b40e-792a67dfed29) has status 201 (via Kafka)
+2026-03-30 21:30:24,250 - basicLogger - INFO - Response for event add_lap (id: 31172cf0-f49b-4ded-b40e-792a67dfed29) has status 201 (via Kafka)
+2026-03-30 21:30:24,253 - basicLogger - INFO - Received event add_lap with a trace id of 05d0774c-3940-4308-b78e-264c4d283bc6
+2026-03-30 21:30:24,258 - basicLogger - INFO - Response for event add_lap (id: 34608c8e-8d0a-47cb-be99-16a71b54958e) has status 201 (via Kafka)
+2026-03-30 21:30:24,263 - basicLogger - INFO - Response for event add_lap (id: 34608c8e-8d0a-47cb-be99-16a71b54958e) has status 201 (via Kafka)
+2026-03-30 21:30:24,268 - basicLogger - INFO - Received event add_lap with a trace id of d8c7b4a8-2341-42d1-a1a9-bf7b5b4e114a
+2026-03-30 21:30:24,275 - basicLogger - INFO - Response for event add_lap (id: 71d57a05-f467-476d-b793-e67da24719a4) has status 201 (via Kafka)
+2026-03-30 21:30:24,279 - basicLogger - INFO - Response for event add_lap (id: 71d57a05-f467-476d-b793-e67da24719a4) has status 201 (via Kafka)
+2026-03-30 21:30:24,282 - basicLogger - INFO - Received event add_lap with a trace id of 864b4272-455a-48a0-8396-a90f1de6212e
+2026-03-30 21:30:24,287 - basicLogger - INFO - Response for event add_lap (id: 385bb469-7812-4fae-856a-9e06c2faf891) has status 201 (via Kafka)
+2026-03-30 21:30:24,292 - basicLogger - INFO - Response for event add_lap (id: 385bb469-7812-4fae-856a-9e06c2faf891) has status 201 (via Kafka)
+2026-03-30 21:30:24,298 - basicLogger - INFO - Received event add_lap with a trace id of 89f45eff-5ee3-48bf-9d84-4f122ef117e6
+2026-03-30 21:30:24,303 - basicLogger - INFO - Response for event add_lap (id: 14479e00-d1bb-48e8-b13b-5b539f8773f0) has status 201 (via Kafka)
+2026-03-30 21:30:24,309 - basicLogger - INFO - Response for event add_lap (id: 14479e00-d1bb-48e8-b13b-5b539f8773f0) has status 201 (via Kafka)
+2026-03-30 21:30:24,315 - basicLogger - INFO - Received event add_lap with a trace id of 583a97e0-5b56-4b44-8ea3-39d8d88e4df6
+2026-03-30 21:30:24,321 - basicLogger - INFO - Response for event add_lap (id: 147d6ef5-0f9e-4ff7-98de-f05618e81e42) has status 201 (via Kafka)
+2026-03-30 21:30:24,325 - basicLogger - INFO - Response for event add_lap (id: 147d6ef5-0f9e-4ff7-98de-f05618e81e42) has status 201 (via Kafka)
+2026-03-30 21:30:24,329 - basicLogger - INFO - Received event add_lap with a trace id of 3b51aca2-6496-42da-8231-98da8a9f4ec2
+2026-03-30 21:30:24,334 - basicLogger - INFO - Response for event add_lap (id: e57fcde5-7477-48ed-9c79-2238d4a2bcb8) has status 201 (via Kafka)
+2026-03-30 21:30:24,340 - basicLogger - INFO - Response for event add_lap (id: e57fcde5-7477-48ed-9c79-2238d4a2bcb8) has status 201 (via Kafka)
+2026-03-30 21:30:24,344 - basicLogger - INFO - Received event add_lap with a trace id of 0c98f9d9-1540-4b5d-9840-b2ed11a5efc0
+2026-03-30 21:30:24,349 - basicLogger - INFO - Response for event add_lap (id: 19482f47-f273-4f63-bed3-8431456b11db) has status 201 (via Kafka)
+2026-03-30 21:30:24,352 - basicLogger - INFO - Response for event add_lap (id: 19482f47-f273-4f63-bed3-8431456b11db) has status 201 (via Kafka)
+2026-03-30 21:30:24,356 - basicLogger - INFO - Received event add_lap with a trace id of 9502093e-452b-449f-84a7-5c787c361fdd
+2026-03-30 21:30:24,360 - basicLogger - INFO - Response for event add_lap (id: b3d77130-ca00-4319-938e-36e7a15db0f1) has status 201 (via Kafka)
+2026-03-30 21:30:24,365 - basicLogger - INFO - Response for event add_lap (id: b3d77130-ca00-4319-938e-36e7a15db0f1) has status 201 (via Kafka)
+2026-03-30 21:30:24,369 - basicLogger - INFO - Received event add_lap with a trace id of eb88fb23-dc3f-4b8d-989e-c8a2a73047be
+2026-03-30 21:30:24,373 - basicLogger - INFO - Response for event add_lap (id: dee0177b-5dfd-4489-afcb-b467e2935694) has status 201 (via Kafka)
+2026-03-30 21:30:24,378 - basicLogger - INFO - Response for event add_lap (id: dee0177b-5dfd-4489-afcb-b467e2935694) has status 201 (via Kafka)
+2026-03-30 21:30:24,382 - basicLogger - INFO - Received event add_lap with a trace id of 0b54f71e-eb2e-4d13-aa3b-c4a56e7b5484
+2026-03-30 21:30:24,386 - basicLogger - INFO - Response for event add_lap (id: 31d39e93-131d-4dad-8cca-301d59b71390) has status 201 (via Kafka)
+2026-03-30 21:30:24,389 - basicLogger - INFO - Response for event add_lap (id: 31d39e93-131d-4dad-8cca-301d59b71390) has status 201 (via Kafka)
+2026-03-30 21:30:24,393 - basicLogger - INFO - Received event add_lap with a trace id of 4c9317fb-ba06-4dfc-8910-aca29301cb39
+2026-03-30 21:30:24,397 - basicLogger - INFO - Response for event add_lap (id: aac645b8-971d-4bad-9ba9-594978355bec) has status 201 (via Kafka)
+2026-03-30 21:30:24,401 - basicLogger - INFO - Response for event add_lap (id: aac645b8-971d-4bad-9ba9-594978355bec) has status 201 (via Kafka)
+2026-03-30 21:30:24,405 - basicLogger - INFO - Received event add_lap with a trace id of 032283ac-b480-4747-8460-5f16ea23150a
+2026-03-30 21:30:24,410 - basicLogger - INFO - Response for event add_lap (id: c4c18f95-433e-4dff-bc86-ff29cce2ae5b) has status 201 (via Kafka)
+2026-03-30 21:30:24,414 - basicLogger - INFO - Response for event add_lap (id: c4c18f95-433e-4dff-bc86-ff29cce2ae5b) has status 201 (via Kafka)
+2026-03-30 21:30:24,417 - basicLogger - INFO - Received event add_lap with a trace id of ce6558f6-70c2-46cb-ae2b-3da1c016241e
+2026-03-30 21:30:24,421 - basicLogger - INFO - Response for event add_lap (id: c91f2c5d-62a8-46cf-adee-2dd909f71586) has status 201 (via Kafka)
+2026-03-30 21:30:24,425 - basicLogger - INFO - Response for event add_lap (id: c91f2c5d-62a8-46cf-adee-2dd909f71586) has status 201 (via Kafka)
+2026-03-30 21:30:24,428 - basicLogger - INFO - Received event add_lap with a trace id of 202bb603-3b7b-4087-ba72-22e3fba44d1c
+2026-03-30 21:30:24,432 - basicLogger - INFO - Response for event add_lap (id: f7bae6e8-6141-400b-b7e3-6bb5011d1853) has status 201 (via Kafka)
+2026-03-30 21:30:24,435 - basicLogger - INFO - Response for event add_lap (id: f7bae6e8-6141-400b-b7e3-6bb5011d1853) has status 201 (via Kafka)
+2026-03-30 21:30:24,439 - basicLogger - INFO - Received event add_lap with a trace id of 97bef167-f76b-4fd3-bc4f-4e42c20f2b08
+2026-03-30 21:30:24,443 - basicLogger - INFO - Response for event add_lap (id: c20949c8-d565-4ad3-9b54-054bdffec71d) has status 201 (via Kafka)
+2026-03-30 21:30:24,445 - basicLogger - INFO - Response for event add_lap (id: c20949c8-d565-4ad3-9b54-054bdffec71d) has status 201 (via Kafka)
+2026-03-30 21:30:24,448 - basicLogger - INFO - Received event add_lap with a trace id of ac5249f6-5aae-4800-93d5-a3b470edd971
+2026-03-30 21:30:24,451 - basicLogger - INFO - Response for event add_lap (id: 8d49fa68-d048-44a9-8933-7858c8b7d133) has status 201 (via Kafka)
+2026-03-30 21:30:24,454 - basicLogger - INFO - Response for event add_lap (id: 8d49fa68-d048-44a9-8933-7858c8b7d133) has status 201 (via Kafka)
+2026-03-30 21:30:24,458 - basicLogger - INFO - Received event add_lap with a trace id of c38b1f14-4845-4205-8986-0240861f592c
+2026-03-30 21:30:24,461 - basicLogger - INFO - Response for event add_lap (id: 82e5c1f7-f24e-42a0-90cd-2c58309096bc) has status 201 (via Kafka)
+2026-03-30 21:30:24,464 - basicLogger - INFO - Response for event add_lap (id: 82e5c1f7-f24e-42a0-90cd-2c58309096bc) has status 201 (via Kafka)
+2026-03-30 21:30:24,467 - basicLogger - INFO - Received event add_lap with a trace id of 66a6e46b-74d9-4335-a7d8-64b6e361c4b1
+2026-03-30 21:30:24,471 - basicLogger - INFO - Response for event add_lap (id: 37ae1fd1-586e-4d4e-9030-deab07856d77) has status 201 (via Kafka)
+2026-03-30 21:30:24,473 - basicLogger - INFO - Response for event add_lap (id: 37ae1fd1-586e-4d4e-9030-deab07856d77) has status 201 (via Kafka)
+2026-03-30 21:30:24,477 - basicLogger - INFO - Received event add_lap with a trace id of a0ff45e3-3261-4865-9de4-0d9cd2fe5ffe
+2026-03-30 21:30:24,481 - basicLogger - INFO - Response for event add_lap (id: 6760500b-99ef-4e7a-862a-c1df74eeceb6) has status 201 (via Kafka)
+2026-03-30 21:30:24,484 - basicLogger - INFO - Response for event add_lap (id: 6760500b-99ef-4e7a-862a-c1df74eeceb6) has status 201 (via Kafka)
+2026-03-30 21:30:24,487 - basicLogger - INFO - Received event add_lap with a trace id of 7853ccc9-1ded-4e2e-ba14-68dc383831a4
+2026-03-30 21:30:24,491 - basicLogger - INFO - Response for event add_lap (id: fb9e4e92-d8c5-482b-828d-c83a0a0b93b9) has status 201 (via Kafka)
+2026-03-30 21:30:24,494 - basicLogger - INFO - Response for event add_lap (id: fb9e4e92-d8c5-482b-828d-c83a0a0b93b9) has status 201 (via Kafka)
+2026-03-30 21:30:24,497 - basicLogger - INFO - Received event add_lap with a trace id of 6ff4224f-4ffa-4a3e-ac8e-cfa44aab6b0d
+2026-03-30 21:30:24,502 - basicLogger - INFO - Response for event add_lap (id: d2e1d0f8-4b5c-4537-b538-4a7f7079a945) has status 201 (via Kafka)
+2026-03-30 21:30:24,509 - basicLogger - INFO - Response for event add_lap (id: d2e1d0f8-4b5c-4537-b538-4a7f7079a945) has status 201 (via Kafka)
+2026-03-30 21:30:24,514 - basicLogger - INFO - Received event add_lap with a trace id of 1d1e4288-ab7b-4eeb-a1b3-8e82b017946c
+2026-03-30 21:30:24,521 - basicLogger - INFO - Response for event add_lap (id: 4cb3b736-27d9-4f40-9e70-65b3b57baebd) has status 201 (via Kafka)
+2026-03-30 21:30:24,525 - basicLogger - INFO - Response for event add_lap (id: 4cb3b736-27d9-4f40-9e70-65b3b57baebd) has status 201 (via Kafka)
+2026-03-30 21:30:24,532 - basicLogger - INFO - Received event add_lap with a trace id of 2f031d94-9195-4a14-a1ae-381a91648222
+2026-03-30 21:30:24,538 - basicLogger - INFO - Response for event add_lap (id: 7c32c755-843c-4303-8872-06b5acf6bdfa) has status 201 (via Kafka)
+2026-03-30 21:30:24,542 - basicLogger - INFO - Response for event add_lap (id: 7c32c755-843c-4303-8872-06b5acf6bdfa) has status 201 (via Kafka)
+2026-03-30 21:30:24,546 - basicLogger - INFO - Received event add_lap with a trace id of 5c490f83-24b0-4287-b905-c53196b19b1e
+2026-03-30 21:30:24,549 - basicLogger - INFO - Response for event add_lap (id: ff988b54-b41e-43a8-ae3b-1a25c5ae67dd) has status 201 (via Kafka)
+2026-03-30 21:30:24,553 - basicLogger - INFO - Response for event add_lap (id: ff988b54-b41e-43a8-ae3b-1a25c5ae67dd) has status 201 (via Kafka)
+2026-03-30 21:30:24,556 - basicLogger - INFO - Received event add_lap with a trace id of b0f0d94f-a75c-47bf-bde6-c22082ab50e0
+2026-03-30 21:30:24,561 - basicLogger - INFO - Response for event add_lap (id: 0ce9aa8c-b0c7-47e4-9c71-47baa421d571) has status 201 (via Kafka)
+2026-03-30 21:30:24,564 - basicLogger - INFO - Response for event add_lap (id: 0ce9aa8c-b0c7-47e4-9c71-47baa421d571) has status 201 (via Kafka)
+2026-03-30 21:30:24,568 - basicLogger - INFO - Received event add_lap with a trace id of 18039949-4090-42f9-94be-84bffaf3d828
+2026-03-30 21:30:24,572 - basicLogger - INFO - Response for event add_lap (id: 99d72bef-5841-4450-9f85-6c82aff25311) has status 201 (via Kafka)
+2026-03-30 21:30:24,575 - basicLogger - INFO - Response for event add_lap (id: 99d72bef-5841-4450-9f85-6c82aff25311) has status 201 (via Kafka)
+2026-03-30 21:30:24,579 - basicLogger - INFO - Received event add_lap with a trace id of 411156a2-408f-4961-b537-b42800e763f1
+2026-03-30 21:30:24,582 - basicLogger - INFO - Response for event add_lap (id: 02ad0a0b-64ed-459e-98cf-9b5f4e862048) has status 201 (via Kafka)
+2026-03-30 21:30:24,585 - basicLogger - INFO - Response for event add_lap (id: 02ad0a0b-64ed-459e-98cf-9b5f4e862048) has status 201 (via Kafka)
+2026-03-30 21:30:24,589 - basicLogger - INFO - Received event add_lap with a trace id of ae74d3f1-52b5-40bb-a634-3c32e2bb6a81
+2026-03-30 21:30:24,592 - basicLogger - INFO - Response for event add_lap (id: 23340d06-1311-4df4-a850-0f6e930cd7ac) has status 201 (via Kafka)
+2026-03-30 21:30:24,595 - basicLogger - INFO - Response for event add_lap (id: 23340d06-1311-4df4-a850-0f6e930cd7ac) has status 201 (via Kafka)
+2026-03-30 21:30:24,599 - basicLogger - INFO - Received event add_lap with a trace id of 464129c9-92ae-4252-a905-94648ccd84f5
+2026-03-30 21:30:24,602 - basicLogger - INFO - Response for event add_lap (id: 9294c0f7-c395-4158-a249-a3c0edad8dda) has status 201 (via Kafka)
+2026-03-30 21:30:24,605 - basicLogger - INFO - Response for event add_lap (id: 9294c0f7-c395-4158-a249-a3c0edad8dda) has status 201 (via Kafka)
+2026-03-30 21:30:24,608 - basicLogger - INFO - Received event add_lap with a trace id of 3cee8630-a1d6-4a7c-bd07-d86ef4e9b6f5
+2026-03-30 21:30:24,612 - basicLogger - INFO - Response for event add_lap (id: 094a0a31-3737-4057-a403-aa887857d6b8) has status 201 (via Kafka)
+2026-03-30 21:30:24,614 - basicLogger - INFO - Response for event add_lap (id: 094a0a31-3737-4057-a403-aa887857d6b8) has status 201 (via Kafka)
+2026-03-30 21:30:24,618 - basicLogger - INFO - Received event add_lap with a trace id of 28903f07-e761-4aec-ac54-7b2e59dc6376
+2026-03-30 21:30:24,622 - basicLogger - INFO - Response for event add_lap (id: 054590ae-a272-4541-af25-369f058d7569) has status 201 (via Kafka)
+2026-03-30 21:30:24,625 - basicLogger - INFO - Response for event add_lap (id: 054590ae-a272-4541-af25-369f058d7569) has status 201 (via Kafka)
+2026-03-30 21:30:24,628 - basicLogger - INFO - Received event add_lap with a trace id of dcbffcea-ee45-43b2-9e5b-53f2ed92bd3d
+2026-03-30 21:30:24,632 - basicLogger - INFO - Response for event add_lap (id: 8d356a77-9904-4908-ac6a-e0902bae886c) has status 201 (via Kafka)
+2026-03-30 21:30:24,635 - basicLogger - INFO - Response for event add_lap (id: 8d356a77-9904-4908-ac6a-e0902bae886c) has status 201 (via Kafka)
+2026-03-30 21:30:24,639 - basicLogger - INFO - Received event add_lap with a trace id of dd84c4d6-75b3-44b3-8241-31a352b70867
+2026-03-30 21:30:24,643 - basicLogger - INFO - Response for event add_lap (id: bb7b87b4-6f6e-4138-abcd-8be1a3ca1098) has status 201 (via Kafka)
+2026-03-30 21:30:24,647 - basicLogger - INFO - Response for event add_lap (id: bb7b87b4-6f6e-4138-abcd-8be1a3ca1098) has status 201 (via Kafka)
+2026-03-30 21:30:24,651 - basicLogger - INFO - Received event add_lap with a trace id of a7c03908-76bb-44f5-8448-a3c269375e89
+2026-03-30 21:30:24,655 - basicLogger - INFO - Response for event add_lap (id: 3f005080-792c-47f3-ac21-c15089379fa5) has status 201 (via Kafka)
+2026-03-30 21:30:24,658 - basicLogger - INFO - Response for event add_lap (id: 3f005080-792c-47f3-ac21-c15089379fa5) has status 201 (via Kafka)
+2026-03-30 21:30:24,662 - basicLogger - INFO - Received event add_sector with a trace id of 5c0ca2d5-7263-4e7f-ab75-11cd7eeb64a5
+2026-03-30 21:30:24,666 - basicLogger - INFO - Response for event add_sector (id: b6ee5706-0d8b-4949-b64a-5ba28e9ed95e) has status 201 (via Kafka)
+2026-03-30 21:30:24,669 - basicLogger - INFO - Response for event add_sector (id: b6ee5706-0d8b-4949-b64a-5ba28e9ed95e) has status 201 (via Kafka)
+2026-03-30 21:30:24,672 - basicLogger - INFO - Received event add_sector with a trace id of d314cf3e-32a4-4979-b50f-86abd3ebe76b
+2026-03-30 21:30:24,677 - basicLogger - INFO - Response for event add_sector (id: 320ed76b-13e9-420b-abb8-ab546b66f297) has status 201 (via Kafka)
+2026-03-30 21:30:24,681 - basicLogger - INFO - Response for event add_sector (id: 320ed76b-13e9-420b-abb8-ab546b66f297) has status 201 (via Kafka)
+2026-03-30 21:30:24,684 - basicLogger - INFO - Received event add_sector with a trace id of 222ab6b4-5046-4979-9892-22186d925f82
+2026-03-30 21:30:24,687 - basicLogger - INFO - Response for event add_sector (id: 60f0d76e-8b08-41e8-b5bd-01cb7b99fa21) has status 201 (via Kafka)
+2026-03-30 21:30:24,691 - basicLogger - INFO - Response for event add_sector (id: 60f0d76e-8b08-41e8-b5bd-01cb7b99fa21) has status 201 (via Kafka)
+2026-03-30 21:30:24,694 - basicLogger - INFO - Received event add_sector with a trace id of 7793e0f2-91f5-4c3b-a856-ab0c3cdcded4
+2026-03-30 21:30:24,698 - basicLogger - INFO - Response for event add_sector (id: 07ddcf0d-52cb-454d-bf51-26479bebcbe7) has status 201 (via Kafka)
+2026-03-30 21:30:24,701 - basicLogger - INFO - Response for event add_sector (id: 07ddcf0d-52cb-454d-bf51-26479bebcbe7) has status 201 (via Kafka)
+2026-03-30 21:30:24,705 - basicLogger - INFO - Received event add_sector with a trace id of 824db83b-617e-4aa7-b5bb-3dbfc3f61893
+2026-03-30 21:30:24,709 - basicLogger - INFO - Response for event add_sector (id: 04afd941-b6b5-419f-86f3-e64b3fad68e2) has status 201 (via Kafka)
+2026-03-30 21:30:24,712 - basicLogger - INFO - Response for event add_sector (id: 04afd941-b6b5-419f-86f3-e64b3fad68e2) has status 201 (via Kafka)
+2026-03-30 21:30:24,715 - basicLogger - INFO - Received event add_sector with a trace id of 8092ac84-9c7c-4fd2-9d66-d07ee0bd1328
+2026-03-30 21:30:24,720 - basicLogger - INFO - Response for event add_sector (id: 33049a3e-908f-4ebf-92e3-c856c450b1a8) has status 201 (via Kafka)
+2026-03-30 21:30:24,723 - basicLogger - INFO - Response for event add_sector (id: 33049a3e-908f-4ebf-92e3-c856c450b1a8) has status 201 (via Kafka)
+2026-03-30 21:30:24,726 - basicLogger - INFO - Received event add_sector with a trace id of d9b21d6e-4b0f-4196-94f0-cacd4ebcf764
+2026-03-30 21:30:24,729 - basicLogger - INFO - Response for event add_sector (id: e2ed6126-6324-4d57-bd86-254a529c9f7f) has status 201 (via Kafka)
+2026-03-30 21:30:24,732 - basicLogger - INFO - Response for event add_sector (id: e2ed6126-6324-4d57-bd86-254a529c9f7f) has status 201 (via Kafka)
+2026-03-30 21:30:24,735 - basicLogger - INFO - Received event add_sector with a trace id of a33f405c-41d6-4f16-9541-31960d7f4111
+2026-03-30 21:30:24,738 - basicLogger - INFO - Response for event add_sector (id: 381208a4-efb2-47e2-8406-6fa46cd93d77) has status 201 (via Kafka)
+2026-03-30 21:30:24,741 - basicLogger - INFO - Response for event add_sector (id: 381208a4-efb2-47e2-8406-6fa46cd93d77) has status 201 (via Kafka)
+2026-03-30 21:30:24,745 - basicLogger - INFO - Received event add_sector with a trace id of 6586e253-cc60-4c95-acc6-59cb93842d1d
+2026-03-30 21:30:24,748 - basicLogger - INFO - Response for event add_sector (id: 12af0c49-0c1f-4c27-8cd3-1cac6526268f) has status 201 (via Kafka)
+2026-03-30 21:30:24,752 - basicLogger - INFO - Response for event add_sector (id: 12af0c49-0c1f-4c27-8cd3-1cac6526268f) has status 201 (via Kafka)
+2026-03-30 21:30:24,755 - basicLogger - INFO - Received event add_sector with a trace id of 7b579278-f0bc-4fa1-9dd8-51b08ed52f6a
+2026-03-30 21:30:24,759 - basicLogger - INFO - Response for event add_sector (id: cb225673-71a6-4635-ab99-0d96f2e8e739) has status 201 (via Kafka)
+2026-03-30 21:30:24,762 - basicLogger - INFO - Response for event add_sector (id: cb225673-71a6-4635-ab99-0d96f2e8e739) has status 201 (via Kafka)
+2026-03-30 21:30:24,765 - basicLogger - INFO - Received event add_sector with a trace id of d67d196a-2333-4231-943e-fc221bbc40fb
+2026-03-30 21:30:24,769 - basicLogger - INFO - Response for event add_sector (id: 1a511433-00ca-4320-ae50-5d9bb54456bb) has status 201 (via Kafka)
+2026-03-30 21:30:24,772 - basicLogger - INFO - Response for event add_sector (id: 1a511433-00ca-4320-ae50-5d9bb54456bb) has status 201 (via Kafka)
+2026-03-30 21:30:24,775 - basicLogger - INFO - Received event add_sector with a trace id of 5687e460-9753-42ae-8103-816a91695fb4
+2026-03-30 21:30:24,779 - basicLogger - INFO - Response for event add_sector (id: 20bf755f-195a-4858-ba00-a398b3abf7d3) has status 201 (via Kafka)
+2026-03-30 21:30:24,783 - basicLogger - INFO - Response for event add_sector (id: 20bf755f-195a-4858-ba00-a398b3abf7d3) has status 201 (via Kafka)
+2026-03-30 21:30:24,787 - basicLogger - INFO - Received event add_sector with a trace id of f9204aff-d12b-4f6d-b099-d517b0893c20
+2026-03-30 21:30:24,792 - basicLogger - INFO - Response for event add_sector (id: 10218f78-fe7e-48a9-b21d-7d2fb1e6a1ca) has status 201 (via Kafka)
+2026-03-30 21:30:24,795 - basicLogger - INFO - Response for event add_sector (id: 10218f78-fe7e-48a9-b21d-7d2fb1e6a1ca) has status 201 (via Kafka)
+2026-03-30 21:30:24,798 - basicLogger - INFO - Received event add_sector with a trace id of 6c2e0ec5-ac41-46c1-8a94-12bf73b7c7b5
+2026-03-30 21:30:24,802 - basicLogger - INFO - Response for event add_sector (id: a1dd5f30-a062-48be-bb28-4df82ea0670a) has status 201 (via Kafka)
+2026-03-30 21:30:24,805 - basicLogger - INFO - Response for event add_sector (id: a1dd5f30-a062-48be-bb28-4df82ea0670a) has status 201 (via Kafka)
+2026-03-30 21:30:24,808 - basicLogger - INFO - Received event add_sector with a trace id of 0678ba3b-299d-4ad1-b465-5b7733291037
+2026-03-30 21:30:24,812 - basicLogger - INFO - Response for event add_sector (id: b97e19a0-930f-4f12-8bb9-dafa7b05d3e9) has status 201 (via Kafka)
+2026-03-30 21:30:24,816 - basicLogger - INFO - Response for event add_sector (id: b97e19a0-930f-4f12-8bb9-dafa7b05d3e9) has status 201 (via Kafka)
+2026-03-30 21:30:24,819 - basicLogger - INFO - Received event add_sector with a trace id of 1afe365f-6f43-4af7-b137-8a9199eb0e33
+2026-03-30 21:30:24,823 - basicLogger - INFO - Response for event add_sector (id: e54d963e-a460-4b15-b8b1-f7121322e29a) has status 201 (via Kafka)
+2026-03-30 21:30:24,826 - basicLogger - INFO - Response for event add_sector (id: e54d963e-a460-4b15-b8b1-f7121322e29a) has status 201 (via Kafka)
+2026-03-30 21:30:24,830 - basicLogger - INFO - Received event add_sector with a trace id of 1d9225f1-8b4e-416b-a9f4-96ed78121e5c
+2026-03-30 21:30:24,833 - basicLogger - INFO - Response for event add_sector (id: 7cc5d8ee-b7ab-4dfb-8008-7deb4051a158) has status 201 (via Kafka)
+2026-03-30 21:30:24,836 - basicLogger - INFO - Response for event add_sector (id: 7cc5d8ee-b7ab-4dfb-8008-7deb4051a158) has status 201 (via Kafka)
+2026-03-30 21:30:24,839 - basicLogger - INFO - Received event add_sector with a trace id of 141df184-1d19-40e6-8ad4-ecd957939dd2
+2026-03-30 21:30:24,842 - basicLogger - INFO - Response for event add_sector (id: 5187586d-3c2a-4a99-acdd-9695eb05d31b) has status 201 (via Kafka)
+2026-03-30 21:30:24,845 - basicLogger - INFO - Response for event add_sector (id: 5187586d-3c2a-4a99-acdd-9695eb05d31b) has status 201 (via Kafka)
+2026-03-30 21:30:24,848 - basicLogger - INFO - Received event add_sector with a trace id of cd162b7a-a445-4a09-b6e6-8c75a67e4151
+2026-03-30 21:30:24,851 - basicLogger - INFO - Response for event add_sector (id: 3b50a007-2176-423c-bdb1-6b2f19da5f19) has status 201 (via Kafka)
+2026-03-30 21:30:24,853 - basicLogger - INFO - Response for event add_sector (id: 3b50a007-2176-423c-bdb1-6b2f19da5f19) has status 201 (via Kafka)
+2026-03-30 21:30:24,857 - basicLogger - INFO - Received event add_sector with a trace id of 7287355a-d458-47d7-8e4c-3cfa5cd5e131
+2026-03-30 21:30:24,860 - basicLogger - INFO - Response for event add_sector (id: 24d5d986-a15e-4743-bfbe-34d4d80e4c99) has status 201 (via Kafka)
+2026-03-30 21:30:24,862 - basicLogger - INFO - Response for event add_sector (id: 24d5d986-a15e-4743-bfbe-34d4d80e4c99) has status 201 (via Kafka)
+2026-03-30 21:30:24,865 - basicLogger - INFO - Received event add_sector with a trace id of 497467d4-b8a6-4164-abf2-f3049f6884fe
+2026-03-30 21:30:24,869 - basicLogger - INFO - Response for event add_sector (id: bff7995a-8228-42be-b03b-6a480502bdd6) has status 201 (via Kafka)
+2026-03-30 21:30:24,871 - basicLogger - INFO - Response for event add_sector (id: bff7995a-8228-42be-b03b-6a480502bdd6) has status 201 (via Kafka)
+2026-03-30 21:30:24,875 - basicLogger - INFO - Received event add_sector with a trace id of 6dac0dcf-7b2d-4c06-bb52-fbbfdcd9209d
+2026-03-30 21:30:24,879 - basicLogger - INFO - Response for event add_sector (id: 2a6b6734-0efc-4d87-9da1-04557d664047) has status 201 (via Kafka)
+2026-03-30 21:30:24,884 - basicLogger - INFO - Response for event add_sector (id: 2a6b6734-0efc-4d87-9da1-04557d664047) has status 201 (via Kafka)
+2026-03-30 21:30:24,889 - basicLogger - INFO - Received event add_sector with a trace id of e8f13945-1d68-40c0-bf13-436e16bd2c1a
+2026-03-30 21:30:24,895 - basicLogger - INFO - Response for event add_sector (id: 51d9ee6b-8359-4969-a589-d83c9efff7a9) has status 201 (via Kafka)
+2026-03-30 21:30:24,900 - basicLogger - INFO - Response for event add_sector (id: 51d9ee6b-8359-4969-a589-d83c9efff7a9) has status 201 (via Kafka)
+2026-03-30 21:30:24,906 - basicLogger - INFO - Received event add_sector with a trace id of 7af783f8-ce8a-4683-859c-8b52641aa5e9
+2026-03-30 21:30:24,913 - basicLogger - INFO - Response for event add_sector (id: e512aad8-f426-469a-a3d5-c4e2acf433e7) has status 201 (via Kafka)
+2026-03-30 21:30:24,917 - basicLogger - INFO - Response for event add_sector (id: e512aad8-f426-469a-a3d5-c4e2acf433e7) has status 201 (via Kafka)
+2026-03-30 21:30:24,923 - basicLogger - INFO - Received event add_sector with a trace id of 27ca9fa8-076d-4ced-ac3e-559a1aa14e25
+2026-03-30 21:30:24,929 - basicLogger - INFO - Response for event add_sector (id: fafe4d16-fcb3-4b2a-9bb3-bd1742a64521) has status 201 (via Kafka)
+2026-03-30 21:30:24,933 - basicLogger - INFO - Response for event add_sector (id: fafe4d16-fcb3-4b2a-9bb3-bd1742a64521) has status 201 (via Kafka)
+2026-03-30 21:30:24,939 - basicLogger - INFO - Received event add_sector with a trace id of 58e8aba2-fd36-4dbf-b44d-7f3d421b839d
+2026-03-30 21:30:24,944 - basicLogger - INFO - Response for event add_sector (id: 25cc0aa2-5617-4be9-b3e3-a9933b921870) has status 201 (via Kafka)
+2026-03-30 21:30:24,948 - basicLogger - INFO - Response for event add_sector (id: 25cc0aa2-5617-4be9-b3e3-a9933b921870) has status 201 (via Kafka)
+2026-03-30 21:30:24,952 - basicLogger - INFO - Received event add_sector with a trace id of 51da4639-179f-49f5-9780-0e6c98330b71
+2026-03-30 21:30:24,957 - basicLogger - INFO - Response for event add_sector (id: d55fa28d-b5bd-4cb7-b01f-cc92244cf7bc) has status 201 (via Kafka)
+2026-03-30 21:30:24,960 - basicLogger - INFO - Response for event add_sector (id: d55fa28d-b5bd-4cb7-b01f-cc92244cf7bc) has status 201 (via Kafka)
+2026-03-30 21:30:24,964 - basicLogger - INFO - Received event add_sector with a trace id of 06788a65-a268-4fb6-a2c0-37dfa994c3ae
+2026-03-30 21:30:24,968 - basicLogger - INFO - Response for event add_sector (id: e61dd495-77b6-44b2-aefc-2fdac27dca7d) has status 201 (via Kafka)
+2026-03-30 21:30:24,973 - basicLogger - INFO - Response for event add_sector (id: e61dd495-77b6-44b2-aefc-2fdac27dca7d) has status 201 (via Kafka)
+2026-03-30 21:30:24,977 - basicLogger - INFO - Received event add_sector with a trace id of afb73be4-84af-4484-b84b-1ee1692ca0b1
+2026-03-30 21:30:24,981 - basicLogger - INFO - Response for event add_sector (id: c6febc95-4404-47b6-a753-0b9849a7980c) has status 201 (via Kafka)
+2026-03-30 21:30:24,985 - basicLogger - INFO - Response for event add_sector (id: c6febc95-4404-47b6-a753-0b9849a7980c) has status 201 (via Kafka)
+2026-03-30 21:30:24,988 - basicLogger - INFO - Received event add_sector with a trace id of 4369ef58-7eb8-4df5-b678-2e6d874b5e7c
+2026-03-30 21:30:24,992 - basicLogger - INFO - Response for event add_sector (id: a63e9f38-af5d-4396-a5ac-44c2342d6e8b) has status 201 (via Kafka)
+2026-03-30 21:30:24,996 - basicLogger - INFO - Response for event add_sector (id: a63e9f38-af5d-4396-a5ac-44c2342d6e8b) has status 201 (via Kafka)
+2026-03-30 21:30:24,999 - basicLogger - INFO - Received event add_sector with a trace id of c0080047-0e41-49e1-bdca-1c2bd1e4cc88
+2026-03-30 21:30:25,033 - basicLogger - INFO - Response for event add_sector (id: eb4f8d59-dbd6-423b-a47a-f9b633621d23) has status 201 (via Kafka)
+2026-03-30 21:30:25,038 - basicLogger - INFO - Response for event add_sector (id: eb4f8d59-dbd6-423b-a47a-f9b633621d23) has status 201 (via Kafka)
+2026-03-30 21:30:25,043 - basicLogger - INFO - Received event add_sector with a trace id of df7ada14-2723-41d2-8c00-81b643d61fd2
+2026-03-30 21:30:25,047 - basicLogger - INFO - Response for event add_sector (id: 054ee87f-3900-4e2a-a65d-8b4d9fb21592) has status 201 (via Kafka)
+2026-03-30 21:30:25,050 - basicLogger - INFO - Response for event add_sector (id: 054ee87f-3900-4e2a-a65d-8b4d9fb21592) has status 201 (via Kafka)
+2026-03-30 21:30:25,054 - basicLogger - INFO - Received event add_sector with a trace id of d62dd08c-eba7-404c-b49c-3f8fa2972ff4
+2026-03-30 21:30:25,058 - basicLogger - INFO - Response for event add_sector (id: f31d2094-294b-4938-96a7-05c740512b10) has status 201 (via Kafka)
+2026-03-30 21:30:25,061 - basicLogger - INFO - Response for event add_sector (id: f31d2094-294b-4938-96a7-05c740512b10) has status 201 (via Kafka)
+2026-03-30 21:30:25,065 - basicLogger - INFO - Received event add_sector with a trace id of 7cbdf19f-5385-4b1d-a56d-ea4857007c41
+2026-03-30 21:30:25,069 - basicLogger - INFO - Response for event add_sector (id: d3e4b81a-6713-4eaf-b667-e5dc181e3cd1) has status 201 (via Kafka)
+2026-03-30 21:30:25,072 - basicLogger - INFO - Response for event add_sector (id: d3e4b81a-6713-4eaf-b667-e5dc181e3cd1) has status 201 (via Kafka)
+2026-03-30 21:30:25,076 - basicLogger - INFO - Received event add_sector with a trace id of 6d976726-c7f2-4266-a4ef-ffaf1c85bcbb
+2026-03-30 21:30:25,080 - basicLogger - INFO - Response for event add_sector (id: 1c01ab11-32bf-4f95-b91d-caf083fb9dad) has status 201 (via Kafka)
+2026-03-30 21:30:25,084 - basicLogger - INFO - Response for event add_sector (id: 1c01ab11-32bf-4f95-b91d-caf083fb9dad) has status 201 (via Kafka)
+2026-03-30 21:30:25,088 - basicLogger - INFO - Received event add_sector with a trace id of b2860308-e753-4d07-9b24-4af170a8f4f2
+2026-03-30 21:30:25,092 - basicLogger - INFO - Response for event add_sector (id: 30b5eed5-effb-4b9b-8f7c-ace9b3bcf3cf) has status 201 (via Kafka)
+2026-03-30 21:30:25,095 - basicLogger - INFO - Response for event add_sector (id: 30b5eed5-effb-4b9b-8f7c-ace9b3bcf3cf) has status 201 (via Kafka)
+2026-03-30 21:30:25,099 - basicLogger - INFO - Received event add_sector with a trace id of 70733db2-0374-435a-8800-fde01961d806
+2026-03-30 21:30:25,104 - basicLogger - INFO - Response for event add_sector (id: a330c6e2-f225-48ab-b737-2505c3ffc8ec) has status 201 (via Kafka)
+2026-03-30 21:30:25,107 - basicLogger - INFO - Response for event add_sector (id: a330c6e2-f225-48ab-b737-2505c3ffc8ec) has status 201 (via Kafka)
+2026-03-30 21:30:25,111 - basicLogger - INFO - Received event add_sector with a trace id of ad4da418-3212-4deb-b237-490033a3e27c
+2026-03-30 21:30:25,115 - basicLogger - INFO - Response for event add_sector (id: 41218a57-0788-430e-a31d-bc730386fc75) has status 201 (via Kafka)
+2026-03-30 21:30:25,118 - basicLogger - INFO - Response for event add_sector (id: 41218a57-0788-430e-a31d-bc730386fc75) has status 201 (via Kafka)
+2026-03-30 21:30:25,121 - basicLogger - INFO - Received event add_sector with a trace id of ac396fab-3b5f-4bc0-a1e1-557bdaecb9bd
+2026-03-30 21:30:25,125 - basicLogger - INFO - Response for event add_sector (id: d532d6e1-2af2-4f80-a464-fe1e6a39427a) has status 201 (via Kafka)
+2026-03-30 21:30:25,128 - basicLogger - INFO - Response for event add_sector (id: d532d6e1-2af2-4f80-a464-fe1e6a39427a) has status 201 (via Kafka)
+2026-03-30 21:30:25,131 - basicLogger - INFO - Received event add_sector with a trace id of 33a1ac98-f549-4c93-8126-3fd28eae0445
+2026-03-30 21:30:25,134 - basicLogger - INFO - Response for event add_sector (id: 682d6943-08e3-4ac5-87a5-be65df5e6e08) has status 201 (via Kafka)
+2026-03-30 21:30:25,136 - basicLogger - INFO - Response for event add_sector (id: 682d6943-08e3-4ac5-87a5-be65df5e6e08) has status 201 (via Kafka)
+2026-03-30 21:30:25,139 - basicLogger - INFO - Received event add_sector with a trace id of 097a9b42-aab6-4896-b6ca-e52a51e01d36
+2026-03-30 21:30:25,143 - basicLogger - INFO - Response for event add_sector (id: a0666348-1041-4097-9f1b-5af8ab527ec3) has status 201 (via Kafka)
+2026-03-30 21:30:25,145 - basicLogger - INFO - Response for event add_sector (id: a0666348-1041-4097-9f1b-5af8ab527ec3) has status 201 (via Kafka)
+2026-03-30 21:30:25,148 - basicLogger - INFO - Received event add_lap with a trace id of c25737fa-94b6-483c-b416-fb2ad885783b
+2026-03-30 21:30:25,151 - basicLogger - INFO - Response for event add_lap (id: b5114079-5de3-4e3e-85e4-c1dd51544e00) has status 201 (via Kafka)
+2026-03-30 21:30:25,153 - basicLogger - INFO - Response for event add_lap (id: b5114079-5de3-4e3e-85e4-c1dd51544e00) has status 201 (via Kafka)
+2026-03-30 21:30:25,157 - basicLogger - INFO - Received event add_lap with a trace id of c3fef615-ac86-4382-b23c-a5b57c12a534
+2026-03-30 21:30:25,160 - basicLogger - INFO - Response for event add_lap (id: 59caa1a6-5ddc-4f9c-b0ab-c7d16edb9bf5) has status 201 (via Kafka)
+2026-03-30 21:30:25,163 - basicLogger - INFO - Response for event add_lap (id: 59caa1a6-5ddc-4f9c-b0ab-c7d16edb9bf5) has status 201 (via Kafka)
+2026-03-30 21:30:25,165 - basicLogger - INFO - Received event add_lap with a trace id of 2a9f9152-cb78-46b0-97d0-32ccfc8b8a49
+2026-03-30 21:30:25,168 - basicLogger - INFO - Response for event add_lap (id: 199c4cf3-75d2-4165-b7ce-6967c7d15bb2) has status 201 (via Kafka)
+2026-03-30 21:30:25,171 - basicLogger - INFO - Response for event add_lap (id: 199c4cf3-75d2-4165-b7ce-6967c7d15bb2) has status 201 (via Kafka)
+2026-03-30 21:30:25,175 - basicLogger - INFO - Received event add_lap with a trace id of 76292052-d0a7-4b78-af08-5458c5ec4ff2
+2026-03-30 21:30:25,177 - basicLogger - INFO - Response for event add_lap (id: 8f697764-789d-4e9e-87d1-7215bed8d328) has status 201 (via Kafka)
+2026-03-30 21:30:25,180 - basicLogger - INFO - Response for event add_lap (id: 8f697764-789d-4e9e-87d1-7215bed8d328) has status 201 (via Kafka)
+2026-03-30 21:30:25,182 - basicLogger - INFO - Received event add_lap with a trace id of 4ea70fe9-f983-42d0-8494-5d3b8e7c0aba
+2026-03-30 21:30:25,185 - basicLogger - INFO - Response for event add_lap (id: 320dbed9-3ddb-4725-95f7-2dc367b32898) has status 201 (via Kafka)
+2026-03-30 21:30:25,189 - basicLogger - INFO - Response for event add_lap (id: 320dbed9-3ddb-4725-95f7-2dc367b32898) has status 201 (via Kafka)
+2026-03-30 21:30:25,192 - basicLogger - INFO - Received event add_lap with a trace id of f133c2a8-e7b2-41dd-b7b7-40ccd5d03eed
+2026-03-30 21:30:25,195 - basicLogger - INFO - Response for event add_lap (id: 778522f8-9e9e-475b-b67e-389ef297c202) has status 201 (via Kafka)
+2026-03-30 21:30:25,197 - basicLogger - INFO - Response for event add_lap (id: 778522f8-9e9e-475b-b67e-389ef297c202) has status 201 (via Kafka)
+2026-03-30 21:30:25,200 - basicLogger - INFO - Received event add_lap with a trace id of ddd00081-8cd3-4eb9-a161-72cbac282407
+2026-03-30 21:30:25,204 - basicLogger - INFO - Response for event add_lap (id: 0d8d38ba-0c09-46d4-819a-4fa40bd9ef9b) has status 201 (via Kafka)
+2026-03-30 21:30:25,207 - basicLogger - INFO - Response for event add_lap (id: 0d8d38ba-0c09-46d4-819a-4fa40bd9ef9b) has status 201 (via Kafka)
+2026-03-30 21:30:25,210 - basicLogger - INFO - Received event add_lap with a trace id of d4d5b507-db18-493c-a457-25d4b695847c
+2026-03-30 21:30:25,213 - basicLogger - INFO - Response for event add_lap (id: ef5d98ea-cf09-4702-a8c8-e2261854852e) has status 201 (via Kafka)
+2026-03-30 21:30:25,216 - basicLogger - INFO - Response for event add_lap (id: ef5d98ea-cf09-4702-a8c8-e2261854852e) has status 201 (via Kafka)
+2026-03-30 21:30:25,220 - basicLogger - INFO - Received event add_lap with a trace id of 7cb48be0-33f7-49f5-b1f2-9267fb86d65d
+2026-03-30 21:30:25,224 - basicLogger - INFO - Response for event add_lap (id: b39a0705-d7c3-4cf2-9bde-9c0209d38c4f) has status 201 (via Kafka)
+2026-03-30 21:30:25,226 - basicLogger - INFO - Response for event add_lap (id: b39a0705-d7c3-4cf2-9bde-9c0209d38c4f) has status 201 (via Kafka)
+2026-03-30 21:30:25,230 - basicLogger - INFO - Received event add_lap with a trace id of 50b91fde-9d47-45f7-9eaf-e86820b97eee
+2026-03-30 21:30:25,233 - basicLogger - INFO - Response for event add_lap (id: 97a06ca1-7173-4698-8f0a-01953d8481e3) has status 201 (via Kafka)
+2026-03-30 21:30:25,235 - basicLogger - INFO - Response for event add_lap (id: 97a06ca1-7173-4698-8f0a-01953d8481e3) has status 201 (via Kafka)
+2026-03-30 21:30:25,238 - basicLogger - INFO - Received event add_lap with a trace id of 0f566143-b9b1-4983-9217-4343fae8896c
+2026-03-30 21:30:25,242 - basicLogger - INFO - Response for event add_lap (id: 6e21f148-16ba-4f4e-9e34-71d0dfe6397f) has status 201 (via Kafka)
+2026-03-30 21:30:25,245 - basicLogger - INFO - Response for event add_lap (id: 6e21f148-16ba-4f4e-9e34-71d0dfe6397f) has status 201 (via Kafka)
+2026-03-30 21:30:25,249 - basicLogger - INFO - Received event add_lap with a trace id of 845ba2a2-d959-40ce-81c7-e300383eb561
+2026-03-30 21:30:25,252 - basicLogger - INFO - Response for event add_lap (id: 99577fed-a38b-462a-bb97-f29bfe6a21b7) has status 201 (via Kafka)
+2026-03-30 21:30:25,255 - basicLogger - INFO - Response for event add_lap (id: 99577fed-a38b-462a-bb97-f29bfe6a21b7) has status 201 (via Kafka)
+2026-03-30 21:30:25,258 - basicLogger - INFO - Received event add_lap with a trace id of 1a833bd7-9595-4334-b20a-951d62df1468
+2026-03-30 21:30:25,261 - basicLogger - INFO - Response for event add_lap (id: f8af68c6-faba-4675-92b2-32210dc6590b) has status 201 (via Kafka)
+2026-03-30 21:30:25,264 - basicLogger - INFO - Response for event add_lap (id: f8af68c6-faba-4675-92b2-32210dc6590b) has status 201 (via Kafka)
+2026-03-30 21:30:25,267 - basicLogger - INFO - Received event add_lap with a trace id of fb257052-6a2f-43a5-b788-11ab4f9c6252
+2026-03-30 21:30:25,271 - basicLogger - INFO - Response for event add_lap (id: 23a57fcc-6640-4a17-b91a-1593feaab245) has status 201 (via Kafka)
+2026-03-30 21:30:25,275 - basicLogger - INFO - Response for event add_lap (id: 23a57fcc-6640-4a17-b91a-1593feaab245) has status 201 (via Kafka)
+2026-03-30 21:30:25,280 - basicLogger - INFO - Received event add_lap with a trace id of 85760090-3deb-4da4-9ac8-5fd8722eeebd
+2026-03-30 21:30:25,284 - basicLogger - INFO - Response for event add_lap (id: 049cc595-a21a-409b-b523-2625c0fdccd5) has status 201 (via Kafka)
+2026-03-30 21:30:25,288 - basicLogger - INFO - Response for event add_lap (id: 049cc595-a21a-409b-b523-2625c0fdccd5) has status 201 (via Kafka)
+2026-03-30 21:30:25,292 - basicLogger - INFO - Received event add_lap with a trace id of ac2d8396-9975-404b-8661-271cd9f41dab
+2026-03-30 21:30:25,296 - basicLogger - INFO - Response for event add_lap (id: a77ca8a4-9866-4f74-a732-ba8ea17d11bb) has status 201 (via Kafka)
+2026-03-30 21:30:25,299 - basicLogger - INFO - Response for event add_lap (id: a77ca8a4-9866-4f74-a732-ba8ea17d11bb) has status 201 (via Kafka)
+2026-03-30 21:30:25,303 - basicLogger - INFO - Received event add_lap with a trace id of cf55496a-411f-4d6d-bee9-eea14ce242c1
+2026-03-30 21:30:25,306 - basicLogger - INFO - Response for event add_lap (id: aa2339e3-7c7a-42a7-b4e6-62cc0d9f7307) has status 201 (via Kafka)
+2026-03-30 21:30:25,310 - basicLogger - INFO - Response for event add_lap (id: aa2339e3-7c7a-42a7-b4e6-62cc0d9f7307) has status 201 (via Kafka)
+2026-03-30 21:30:25,314 - basicLogger - INFO - Received event add_lap with a trace id of 911fd921-b9d8-4613-8481-c1ee23c56c2a
+2026-03-30 21:30:25,317 - basicLogger - INFO - Response for event add_lap (id: 4c20df79-d0ac-4211-af66-b97f1c48ffec) has status 201 (via Kafka)
+2026-03-30 21:30:25,320 - basicLogger - INFO - Response for event add_lap (id: 4c20df79-d0ac-4211-af66-b97f1c48ffec) has status 201 (via Kafka)
+2026-03-30 21:30:25,323 - basicLogger - INFO - Received event add_lap with a trace id of 8e13fbd2-4786-4392-8c3f-dd6978d0c2d5
+2026-03-30 21:30:25,327 - basicLogger - INFO - Response for event add_lap (id: 834388a3-f02c-4b57-9e1f-daba327fde53) has status 201 (via Kafka)
+2026-03-30 21:30:25,330 - basicLogger - INFO - Response for event add_lap (id: 834388a3-f02c-4b57-9e1f-daba327fde53) has status 201 (via Kafka)
+2026-03-30 21:30:25,333 - basicLogger - INFO - Received event add_lap with a trace id of 9d8571d7-b96e-4fac-a4cc-f7b6bec4ad6b
+2026-03-30 21:30:25,336 - basicLogger - INFO - Response for event add_lap (id: b045a9b7-fcef-4c18-936f-ac91bd44642b) has status 201 (via Kafka)
+2026-03-30 21:30:25,339 - basicLogger - INFO - Response for event add_lap (id: b045a9b7-fcef-4c18-936f-ac91bd44642b) has status 201 (via Kafka)
+2026-03-30 21:30:25,346 - basicLogger - INFO - Received event add_lap with a trace id of 0759393b-1320-4093-8891-fb685c2305b1
+2026-03-30 21:30:25,349 - basicLogger - INFO - Response for event add_lap (id: c29b42b1-5f93-4528-80ac-b444b3525260) has status 201 (via Kafka)
+2026-03-30 21:30:25,352 - basicLogger - INFO - Response for event add_lap (id: c29b42b1-5f93-4528-80ac-b444b3525260) has status 201 (via Kafka)
+2026-03-30 21:30:25,355 - basicLogger - INFO - Received event add_lap with a trace id of 78d10341-5f6e-47c3-8370-caa321112c6b
+2026-03-30 21:30:25,359 - basicLogger - INFO - Response for event add_lap (id: 47eb723d-3b8c-4acd-a25e-9bcc9a69a33e) has status 201 (via Kafka)
+2026-03-30 21:30:25,362 - basicLogger - INFO - Response for event add_lap (id: 47eb723d-3b8c-4acd-a25e-9bcc9a69a33e) has status 201 (via Kafka)
+2026-03-30 21:30:25,365 - basicLogger - INFO - Received event add_lap with a trace id of d81de57b-2544-44e8-be35-5dafe9e53b83
+2026-03-30 21:30:25,369 - basicLogger - INFO - Response for event add_lap (id: bbc86417-f168-43c3-bef3-0b314431239f) has status 201 (via Kafka)
+2026-03-30 21:30:25,372 - basicLogger - INFO - Response for event add_lap (id: bbc86417-f168-43c3-bef3-0b314431239f) has status 201 (via Kafka)
+2026-03-30 21:30:25,376 - basicLogger - INFO - Received event add_lap with a trace id of 32b9464e-4c0f-422f-a375-8ea3ea229e2f
+2026-03-30 21:30:25,379 - basicLogger - INFO - Response for event add_lap (id: 0fb98f7e-29b0-4b98-b695-9dab591f5530) has status 201 (via Kafka)
+2026-03-30 21:30:25,382 - basicLogger - INFO - Response for event add_lap (id: 0fb98f7e-29b0-4b98-b695-9dab591f5530) has status 201 (via Kafka)
+2026-03-30 21:30:25,385 - basicLogger - INFO - Received event add_lap with a trace id of 112d9bf4-7dbe-49b9-ab5b-78e13e65c757
+2026-03-30 21:30:25,388 - basicLogger - INFO - Response for event add_lap (id: 6d591aca-bdb7-4945-ac25-786efeaaba76) has status 201 (via Kafka)
+2026-03-30 21:30:25,391 - basicLogger - INFO - Response for event add_lap (id: 6d591aca-bdb7-4945-ac25-786efeaaba76) has status 201 (via Kafka)
+2026-03-30 21:30:25,394 - basicLogger - INFO - Received event add_lap with a trace id of a37f27fc-6681-4059-8b8b-348b87982b69
+2026-03-30 21:30:25,397 - basicLogger - INFO - Response for event add_lap (id: bdb5df49-3750-4e7c-9c61-1458dc1a148c) has status 201 (via Kafka)
+2026-03-30 21:30:25,400 - basicLogger - INFO - Response for event add_lap (id: bdb5df49-3750-4e7c-9c61-1458dc1a148c) has status 201 (via Kafka)
+2026-03-30 21:30:25,403 - basicLogger - INFO - Received event add_lap with a trace id of 5bf5663a-6340-4afd-ac54-7ca643d0ab9a
+2026-03-30 21:30:25,407 - basicLogger - INFO - Response for event add_lap (id: 32c4c9a3-cd64-4ae3-8f2d-e25a27d3f6c9) has status 201 (via Kafka)
+2026-03-30 21:30:25,409 - basicLogger - INFO - Response for event add_lap (id: 32c4c9a3-cd64-4ae3-8f2d-e25a27d3f6c9) has status 201 (via Kafka)
+2026-03-30 21:30:25,412 - basicLogger - INFO - Received event add_lap with a trace id of 14769433-cb2b-4af1-885a-a612b309a49e
+2026-03-30 21:30:25,415 - basicLogger - INFO - Response for event add_lap (id: ff8080c7-2b9d-4c84-a642-21db6ea8f1fb) has status 201 (via Kafka)
+2026-03-30 21:30:25,418 - basicLogger - INFO - Response for event add_lap (id: ff8080c7-2b9d-4c84-a642-21db6ea8f1fb) has status 201 (via Kafka)
+2026-03-30 21:30:25,421 - basicLogger - INFO - Received event add_lap with a trace id of 714f3b71-5ffc-43e1-8088-323f570e29d9
+2026-03-30 21:30:25,424 - basicLogger - INFO - Response for event add_lap (id: aa821308-f767-4aa2-8d52-98dfaa8b1aef) has status 201 (via Kafka)
+2026-03-30 21:30:25,426 - basicLogger - INFO - Response for event add_lap (id: aa821308-f767-4aa2-8d52-98dfaa8b1aef) has status 201 (via Kafka)
+2026-03-30 21:30:25,429 - basicLogger - INFO - Received event add_lap with a trace id of fec87c6a-b51a-4873-8aa2-7652a37c586f
+2026-03-30 21:30:25,432 - basicLogger - INFO - Response for event add_lap (id: bd5b097a-54b3-4e9d-a8b4-32759419c7be) has status 201 (via Kafka)
+2026-03-30 21:30:25,434 - basicLogger - INFO - Response for event add_lap (id: bd5b097a-54b3-4e9d-a8b4-32759419c7be) has status 201 (via Kafka)
+2026-03-30 21:30:25,437 - basicLogger - INFO - Received event add_lap with a trace id of c9b94946-9887-402c-bea7-a80c361f6786
+2026-03-30 21:30:25,440 - basicLogger - INFO - Response for event add_lap (id: e2808c17-7f42-4bea-9180-c186380812f4) has status 201 (via Kafka)
+2026-03-30 21:30:25,442 - basicLogger - INFO - Response for event add_lap (id: e2808c17-7f42-4bea-9180-c186380812f4) has status 201 (via Kafka)
+2026-03-30 21:30:25,445 - basicLogger - INFO - Received event add_lap with a trace id of c2411640-0bc0-4726-8288-334e9d429116
+2026-03-30 21:30:25,448 - basicLogger - INFO - Response for event add_lap (id: 1ad0836b-83f2-4ba2-b250-eb3472ecbe08) has status 201 (via Kafka)
+2026-03-30 21:30:25,450 - basicLogger - INFO - Response for event add_lap (id: 1ad0836b-83f2-4ba2-b250-eb3472ecbe08) has status 201 (via Kafka)
+2026-03-30 21:30:25,453 - basicLogger - INFO - Received event add_lap with a trace id of 91f4b34b-8e6d-45f7-bfc4-1a8f976c58fd
+2026-03-30 21:30:25,457 - basicLogger - INFO - Response for event add_lap (id: e859f144-8ad3-4bed-a425-775fd2244d0c) has status 201 (via Kafka)
+2026-03-30 21:30:25,459 - basicLogger - INFO - Response for event add_lap (id: e859f144-8ad3-4bed-a425-775fd2244d0c) has status 201 (via Kafka)
+2026-03-30 21:30:25,462 - basicLogger - INFO - Received event add_lap with a trace id of 8ee75164-fd87-4e7a-a965-078946401794
+2026-03-30 21:30:25,465 - basicLogger - INFO - Response for event add_lap (id: 1583346b-1758-4624-8a1e-c1bebef59f48) has status 201 (via Kafka)
+2026-03-30 21:30:25,468 - basicLogger - INFO - Response for event add_lap (id: 1583346b-1758-4624-8a1e-c1bebef59f48) has status 201 (via Kafka)
+2026-03-30 21:30:25,471 - basicLogger - INFO - Received event add_lap with a trace id of de718d38-8993-41e8-8cd2-f0cdab5a1031
+2026-03-30 21:30:25,474 - basicLogger - INFO - Response for event add_lap (id: ee080af0-735d-4226-8a9e-fccfd7b71e7f) has status 201 (via Kafka)
+2026-03-30 21:30:25,476 - basicLogger - INFO - Response for event add_lap (id: ee080af0-735d-4226-8a9e-fccfd7b71e7f) has status 201 (via Kafka)
+2026-03-30 21:30:25,479 - basicLogger - INFO - Received event add_lap with a trace id of aa8e5be5-cf39-45bf-8a0c-bf5c9148d7c0
+2026-03-30 21:30:25,482 - basicLogger - INFO - Response for event add_lap (id: fad52594-659e-431f-9d5a-1b5eb8b4a55c) has status 201 (via Kafka)
+2026-03-30 21:30:25,485 - basicLogger - INFO - Response for event add_lap (id: fad52594-659e-431f-9d5a-1b5eb8b4a55c) has status 201 (via Kafka)
+2026-03-30 21:30:25,488 - basicLogger - INFO - Received event add_lap with a trace id of 15796f84-5529-47f3-a528-5a13d83e0eba
+2026-03-30 21:30:25,491 - basicLogger - INFO - Response for event add_lap (id: 054d8e81-d9ba-4df2-97d9-53b81b0d0c7e) has status 201 (via Kafka)
+2026-03-30 21:30:25,493 - basicLogger - INFO - Response for event add_lap (id: 054d8e81-d9ba-4df2-97d9-53b81b0d0c7e) has status 201 (via Kafka)
+2026-03-30 21:30:25,496 - basicLogger - INFO - Received event add_lap with a trace id of 447c9dbd-7f45-4bc3-bdb0-5627f7a7934c
+2026-03-30 21:30:25,499 - basicLogger - INFO - Response for event add_lap (id: 2c90890e-0c78-460d-8ef9-a4050dbb2748) has status 201 (via Kafka)
+2026-03-30 21:30:25,501 - basicLogger - INFO - Response for event add_lap (id: 2c90890e-0c78-460d-8ef9-a4050dbb2748) has status 201 (via Kafka)
+2026-03-30 21:30:25,504 - basicLogger - INFO - Received event add_lap with a trace id of 6f1aee0d-b73b-46d6-ad21-1bcb83822b41
+2026-03-30 21:30:25,507 - basicLogger - INFO - Response for event add_lap (id: 66dbffe5-61a8-4689-935f-f245947d297f) has status 201 (via Kafka)
+2026-03-30 21:30:25,509 - basicLogger - INFO - Response for event add_lap (id: 66dbffe5-61a8-4689-935f-f245947d297f) has status 201 (via Kafka)
+2026-03-30 21:30:25,512 - basicLogger - INFO - Received event add_lap with a trace id of a07ee245-2dc0-4a9c-bd20-ddba9360eafd
+2026-03-30 21:30:25,515 - basicLogger - INFO - Response for event add_lap (id: 1853ce3e-f737-4198-bfc5-cb744d1f1d33) has status 201 (via Kafka)
+2026-03-30 21:30:25,517 - basicLogger - INFO - Response for event add_lap (id: 1853ce3e-f737-4198-bfc5-cb744d1f1d33) has status 201 (via Kafka)
+2026-03-30 21:30:25,520 - basicLogger - INFO - Received event add_lap with a trace id of 9836e6bd-09ff-4a8e-8d10-bb11b0755775
+2026-03-30 21:30:25,523 - basicLogger - INFO - Response for event add_lap (id: f426cb6a-e33b-4aac-8726-eafd9b194599) has status 201 (via Kafka)
+2026-03-30 21:30:25,526 - basicLogger - INFO - Response for event add_lap (id: f426cb6a-e33b-4aac-8726-eafd9b194599) has status 201 (via Kafka)
+2026-03-30 21:30:25,529 - basicLogger - INFO - Received event add_sector with a trace id of fd94a19e-fceb-4d93-9cb0-3c2c0097c08f
+2026-03-30 21:30:25,532 - basicLogger - INFO - Response for event add_sector (id: 81f76168-f6af-47d9-ae0b-d0af4abcf314) has status 201 (via Kafka)
+2026-03-30 21:30:25,534 - basicLogger - INFO - Response for event add_sector (id: 81f76168-f6af-47d9-ae0b-d0af4abcf314) has status 201 (via Kafka)
+2026-03-30 21:30:25,536 - basicLogger - INFO - Received event add_sector with a trace id of 689e2326-50b3-4c68-96b4-42a36c0c02f9
+2026-03-30 21:30:25,540 - basicLogger - INFO - Response for event add_sector (id: db54d0ea-72b2-43b1-bc51-4f7d06a6130b) has status 201 (via Kafka)
+2026-03-30 21:30:25,543 - basicLogger - INFO - Response for event add_sector (id: db54d0ea-72b2-43b1-bc51-4f7d06a6130b) has status 201 (via Kafka)
+2026-03-30 21:30:25,545 - basicLogger - INFO - Received event add_sector with a trace id of 0dadcd15-cc4d-459c-8353-fad59dc80c4e
+2026-03-30 21:30:25,549 - basicLogger - INFO - Response for event add_sector (id: de89882a-c2cf-4b8a-9f6d-b30c21c8c6d3) has status 201 (via Kafka)
+2026-03-30 21:30:25,551 - basicLogger - INFO - Response for event add_sector (id: de89882a-c2cf-4b8a-9f6d-b30c21c8c6d3) has status 201 (via Kafka)
+2026-03-30 21:30:25,554 - basicLogger - INFO - Received event add_sector with a trace id of bd88210a-0bda-49fa-bf83-893fdc24b34e
+2026-03-30 21:30:25,557 - basicLogger - INFO - Response for event add_sector (id: 9565f95e-0814-4760-9ca4-2f2d1421912c) has status 201 (via Kafka)
+2026-03-30 21:30:25,561 - basicLogger - INFO - Response for event add_sector (id: 9565f95e-0814-4760-9ca4-2f2d1421912c) has status 201 (via Kafka)
+2026-03-30 21:30:25,564 - basicLogger - INFO - Received event add_sector with a trace id of 255ecb8c-8c19-4ce5-a119-998b5d0c5c82
+2026-03-30 21:30:25,569 - basicLogger - INFO - Response for event add_sector (id: 723668d6-c7aa-4eaa-a5bd-56e79523af02) has status 201 (via Kafka)
+2026-03-30 21:30:25,575 - basicLogger - INFO - Response for event add_sector (id: 723668d6-c7aa-4eaa-a5bd-56e79523af02) has status 201 (via Kafka)
+2026-03-30 21:30:25,579 - basicLogger - INFO - Received event add_sector with a trace id of dc233553-a594-4818-9407-149271329fed
+2026-03-30 21:30:25,584 - basicLogger - INFO - Response for event add_sector (id: fc688ec7-2c84-4757-b1e9-208039b37607) has status 201 (via Kafka)
+2026-03-30 21:30:25,586 - basicLogger - INFO - Response for event add_sector (id: fc688ec7-2c84-4757-b1e9-208039b37607) has status 201 (via Kafka)
+2026-03-30 21:30:25,590 - basicLogger - INFO - Received event add_sector with a trace id of c23403b5-196e-41bd-b236-a75e31ee4f27
+2026-03-30 21:30:25,593 - basicLogger - INFO - Response for event add_sector (id: 6d2534d4-7fe3-4a0b-b384-8da8800fefa7) has status 201 (via Kafka)
+2026-03-30 21:30:25,595 - basicLogger - INFO - Response for event add_sector (id: 6d2534d4-7fe3-4a0b-b384-8da8800fefa7) has status 201 (via Kafka)
+2026-03-30 21:30:25,598 - basicLogger - INFO - Received event add_sector with a trace id of 6d36992a-86d2-4ee3-a4d1-f6b2f69cde85
+2026-03-30 21:30:25,601 - basicLogger - INFO - Response for event add_sector (id: d1603202-f56d-4bba-a755-b754647b37be) has status 201 (via Kafka)
+2026-03-30 21:30:25,604 - basicLogger - INFO - Response for event add_sector (id: d1603202-f56d-4bba-a755-b754647b37be) has status 201 (via Kafka)
+2026-03-30 21:30:25,606 - basicLogger - INFO - Received event add_sector with a trace id of 77a7ea43-d86e-433a-b120-b3ba52b89343
+2026-03-30 21:30:25,609 - basicLogger - INFO - Response for event add_sector (id: 65173a4c-becd-4d76-acd5-48a95f0ffbca) has status 201 (via Kafka)
+2026-03-30 21:30:25,611 - basicLogger - INFO - Response for event add_sector (id: 65173a4c-becd-4d76-acd5-48a95f0ffbca) has status 201 (via Kafka)
+2026-03-30 21:30:25,614 - basicLogger - INFO - Received event add_sector with a trace id of 5c3c68d5-cb8f-4658-b94f-b6d2a48e1d05
+2026-03-30 21:30:25,617 - basicLogger - INFO - Response for event add_sector (id: 1f7d3850-3b2c-4aa0-ba37-31001ab6948f) has status 201 (via Kafka)
+2026-03-30 21:30:25,619 - basicLogger - INFO - Response for event add_sector (id: 1f7d3850-3b2c-4aa0-ba37-31001ab6948f) has status 201 (via Kafka)
+2026-03-30 21:30:25,621 - basicLogger - INFO - Received event add_sector with a trace id of cc842496-36b9-4306-98b9-f9618a8db75a
+2026-03-30 21:30:25,624 - basicLogger - INFO - Response for event add_sector (id: 3a76f6da-dd19-4138-8d6f-d5b5c72d4f12) has status 201 (via Kafka)
+2026-03-30 21:30:25,626 - basicLogger - INFO - Response for event add_sector (id: 3a76f6da-dd19-4138-8d6f-d5b5c72d4f12) has status 201 (via Kafka)
+2026-03-30 21:30:25,628 - basicLogger - INFO - Received event add_sector with a trace id of 9efa27c6-6f73-4bfe-a692-d241d9ddca22
+2026-03-30 21:30:25,631 - basicLogger - INFO - Response for event add_sector (id: a475a43a-0800-4c4a-8a89-5499750b1f34) has status 201 (via Kafka)
+2026-03-30 21:30:25,633 - basicLogger - INFO - Response for event add_sector (id: a475a43a-0800-4c4a-8a89-5499750b1f34) has status 201 (via Kafka)
+2026-03-30 21:30:25,635 - basicLogger - INFO - Received event add_sector with a trace id of c1a6ec89-c3c8-4cb3-b055-401dc7a1dc64
+2026-03-30 21:30:25,638 - basicLogger - INFO - Response for event add_sector (id: e63557c6-9bf0-4240-bf8c-765d02da05bc) has status 201 (via Kafka)
+2026-03-30 21:30:25,640 - basicLogger - INFO - Response for event add_sector (id: e63557c6-9bf0-4240-bf8c-765d02da05bc) has status 201 (via Kafka)
+2026-03-30 21:30:25,643 - basicLogger - INFO - Received event add_sector with a trace id of 716ecf1f-bb18-4065-8884-68bab25e225f
+2026-03-30 21:30:25,645 - basicLogger - INFO - Response for event add_sector (id: a006926d-f8ac-44c3-a9eb-6aaebd68f836) has status 201 (via Kafka)
+2026-03-30 21:30:25,648 - basicLogger - INFO - Response for event add_sector (id: a006926d-f8ac-44c3-a9eb-6aaebd68f836) has status 201 (via Kafka)
+2026-03-30 21:30:25,651 - basicLogger - INFO - Received event add_sector with a trace id of 1c3f16ae-5834-4f0b-90f0-8381f75060a1
+2026-03-30 21:30:25,654 - basicLogger - INFO - Response for event add_sector (id: 35dd6114-a76b-4914-b225-802603cc6335) has status 201 (via Kafka)
+2026-03-30 21:30:25,656 - basicLogger - INFO - Response for event add_sector (id: 35dd6114-a76b-4914-b225-802603cc6335) has status 201 (via Kafka)
+2026-03-30 21:30:25,659 - basicLogger - INFO - Received event add_sector with a trace id of 17497f81-2b33-487f-8ae9-4a5e8bca520b
+2026-03-30 21:30:25,662 - basicLogger - INFO - Response for event add_sector (id: 1a721029-b9de-4976-bb0a-44a26d2c77cc) has status 201 (via Kafka)
+2026-03-30 21:30:25,664 - basicLogger - INFO - Response for event add_sector (id: 1a721029-b9de-4976-bb0a-44a26d2c77cc) has status 201 (via Kafka)
+2026-03-30 21:30:25,668 - basicLogger - INFO - Received event add_sector with a trace id of 107d72ee-d698-40f9-b465-d875d40f27f7
+2026-03-30 21:30:25,672 - basicLogger - INFO - Response for event add_sector (id: 5bfe11a9-881b-461e-b069-875ce7ed3d6d) has status 201 (via Kafka)
+2026-03-30 21:30:25,674 - basicLogger - INFO - Response for event add_sector (id: 5bfe11a9-881b-461e-b069-875ce7ed3d6d) has status 201 (via Kafka)
+2026-03-30 21:30:25,677 - basicLogger - INFO - Received event add_sector with a trace id of 192af71f-540c-4468-a2a8-c22295970fae
+2026-03-30 21:30:25,681 - basicLogger - INFO - Response for event add_sector (id: 9197f3dc-626c-4e5c-a15b-3473c0a58acf) has status 201 (via Kafka)
+2026-03-30 21:30:25,684 - basicLogger - INFO - Response for event add_sector (id: 9197f3dc-626c-4e5c-a15b-3473c0a58acf) has status 201 (via Kafka)
+2026-03-30 21:30:25,687 - basicLogger - INFO - Received event add_sector with a trace id of 161cf51b-5a4b-49fb-a144-409eec7dba12
+2026-03-30 21:30:25,690 - basicLogger - INFO - Response for event add_sector (id: 9654309d-f58a-42d9-928a-41c2c1f85775) has status 201 (via Kafka)
+2026-03-30 21:30:25,693 - basicLogger - INFO - Response for event add_sector (id: 9654309d-f58a-42d9-928a-41c2c1f85775) has status 201 (via Kafka)
+2026-03-30 21:30:25,697 - basicLogger - INFO - Received event add_sector with a trace id of 15e9f200-889f-41ac-a3f9-c3a1f70706c4
+2026-03-30 21:30:25,700 - basicLogger - INFO - Response for event add_sector (id: b5d72b67-5aa7-4a13-ab8b-10cc0df3fe8b) has status 201 (via Kafka)
+2026-03-30 21:30:25,703 - basicLogger - INFO - Response for event add_sector (id: b5d72b67-5aa7-4a13-ab8b-10cc0df3fe8b) has status 201 (via Kafka)
+2026-03-30 21:30:25,705 - basicLogger - INFO - Received event add_sector with a trace id of 9e31e5d6-51b1-494a-9e3d-0eda5eb23cb8
+2026-03-30 21:30:25,709 - basicLogger - INFO - Response for event add_sector (id: 844ea044-6daa-4b57-adf0-ff5d88eddff0) has status 201 (via Kafka)
+2026-03-30 21:30:25,712 - basicLogger - INFO - Response for event add_sector (id: 844ea044-6daa-4b57-adf0-ff5d88eddff0) has status 201 (via Kafka)
+2026-03-30 21:30:25,714 - basicLogger - INFO - Received event add_sector with a trace id of 896d4727-abd1-4a96-9cab-f83513762c87
+2026-03-30 21:30:25,717 - basicLogger - INFO - Response for event add_sector (id: ff75dec9-c16b-4a10-af56-284e25f5ddb3) has status 201 (via Kafka)
+2026-03-30 21:30:25,720 - basicLogger - INFO - Response for event add_sector (id: ff75dec9-c16b-4a10-af56-284e25f5ddb3) has status 201 (via Kafka)
+2026-03-30 21:30:25,722 - basicLogger - INFO - Received event add_sector with a trace id of 96540b8a-f2af-4496-8d25-84ca7b0536eb
+2026-03-30 21:30:25,725 - basicLogger - INFO - Response for event add_sector (id: 5906f7c2-b96b-4ede-aeec-189a41cfcd91) has status 201 (via Kafka)
+2026-03-30 21:30:25,727 - basicLogger - INFO - Response for event add_sector (id: 5906f7c2-b96b-4ede-aeec-189a41cfcd91) has status 201 (via Kafka)
+2026-03-30 21:30:25,730 - basicLogger - INFO - Received event add_sector with a trace id of d5bf3765-06cc-4ec7-9122-efa100e694ff
+2026-03-30 21:30:25,733 - basicLogger - INFO - Response for event add_sector (id: cc2b7f4b-01cb-4ae7-8af7-96b04b616701) has status 201 (via Kafka)
+2026-03-30 21:30:25,735 - basicLogger - INFO - Response for event add_sector (id: cc2b7f4b-01cb-4ae7-8af7-96b04b616701) has status 201 (via Kafka)
+2026-03-30 21:30:25,737 - basicLogger - INFO - Received event add_sector with a trace id of 011f5d23-1f24-4e65-aadf-bc6afdd404a0
+2026-03-30 21:30:25,740 - basicLogger - INFO - Response for event add_sector (id: 0fd15620-0aab-4a27-b922-e806488b691d) has status 201 (via Kafka)
+2026-03-30 21:30:25,743 - basicLogger - INFO - Response for event add_sector (id: 0fd15620-0aab-4a27-b922-e806488b691d) has status 201 (via Kafka)
+2026-03-30 21:30:25,746 - basicLogger - INFO - Received event add_sector with a trace id of 2b1ea8e4-1fec-4157-825d-6d19fdb20524
+2026-03-30 21:30:25,749 - basicLogger - INFO - Response for event add_sector (id: 73cabc4e-802f-445c-a2e9-d46fcdb00c98) has status 201 (via Kafka)
+2026-03-30 21:30:25,751 - basicLogger - INFO - Response for event add_sector (id: 73cabc4e-802f-445c-a2e9-d46fcdb00c98) has status 201 (via Kafka)
+2026-03-30 21:30:25,754 - basicLogger - INFO - Received event add_sector with a trace id of 0f94c465-b15b-41dd-a414-7f5fc1396fef
+2026-03-30 21:30:25,757 - basicLogger - INFO - Response for event add_sector (id: 783e1de7-8b1a-4990-abc5-3615d525a7fa) has status 201 (via Kafka)
+2026-03-30 21:30:25,759 - basicLogger - INFO - Response for event add_sector (id: 783e1de7-8b1a-4990-abc5-3615d525a7fa) has status 201 (via Kafka)
+2026-03-30 21:30:25,762 - basicLogger - INFO - Received event add_sector with a trace id of 94350edd-8473-4073-952e-d237c8f13257
+2026-03-30 21:30:25,765 - basicLogger - INFO - Response for event add_sector (id: d368c12a-e66b-42c8-928b-1571c43e949f) has status 201 (via Kafka)
+2026-03-30 21:30:25,768 - basicLogger - INFO - Response for event add_sector (id: d368c12a-e66b-42c8-928b-1571c43e949f) has status 201 (via Kafka)
+2026-03-30 21:30:25,770 - basicLogger - INFO - Received event add_sector with a trace id of cf41d708-91c8-47a9-86eb-7e5882e405c8
+2026-03-30 21:30:25,773 - basicLogger - INFO - Response for event add_sector (id: 63d6335f-1429-4089-8d83-b200401ea3d2) has status 201 (via Kafka)
+2026-03-30 21:30:25,776 - basicLogger - INFO - Response for event add_sector (id: 63d6335f-1429-4089-8d83-b200401ea3d2) has status 201 (via Kafka)
+2026-03-30 21:30:25,778 - basicLogger - INFO - Received event add_sector with a trace id of 587a80da-c681-46c1-872d-301352fa5f20
+2026-03-30 21:30:25,781 - basicLogger - INFO - Response for event add_sector (id: dc143beb-6751-4ede-8433-cdf1491eff6c) has status 201 (via Kafka)
+2026-03-30 21:30:25,783 - basicLogger - INFO - Response for event add_sector (id: dc143beb-6751-4ede-8433-cdf1491eff6c) has status 201 (via Kafka)
+2026-03-30 21:30:25,785 - basicLogger - INFO - Received event add_sector with a trace id of 76d241d4-b09d-4a30-a4d4-edbe0857240f
+2026-03-30 21:30:25,788 - basicLogger - INFO - Response for event add_sector (id: c7f8fc37-5b23-4059-928b-36233d1b596e) has status 201 (via Kafka)
+2026-03-30 21:30:25,791 - basicLogger - INFO - Response for event add_sector (id: c7f8fc37-5b23-4059-928b-36233d1b596e) has status 201 (via Kafka)
+2026-03-30 21:30:25,795 - basicLogger - INFO - Received event add_sector with a trace id of 9c418aad-658f-49cb-aa8e-7f096de35450
+2026-03-30 21:30:25,799 - basicLogger - INFO - Response for event add_sector (id: 8100133e-146d-46a1-b369-a2d69ec4bf27) has status 201 (via Kafka)
+2026-03-30 21:30:25,802 - basicLogger - INFO - Response for event add_sector (id: 8100133e-146d-46a1-b369-a2d69ec4bf27) has status 201 (via Kafka)
+2026-03-30 21:30:25,805 - basicLogger - INFO - Received event add_sector with a trace id of 72074ed8-baaf-4250-b866-1a5766f3395f
+2026-03-30 21:30:25,808 - basicLogger - INFO - Response for event add_sector (id: 8ac9402b-47a7-497e-a341-305522a69bd8) has status 201 (via Kafka)
+2026-03-30 21:30:25,810 - basicLogger - INFO - Response for event add_sector (id: 8ac9402b-47a7-497e-a341-305522a69bd8) has status 201 (via Kafka)
+2026-03-30 21:30:25,813 - basicLogger - INFO - Received event add_sector with a trace id of ed501af4-4dae-4f8a-8c56-8a5ee3213b25
+2026-03-30 21:30:25,817 - basicLogger - INFO - Response for event add_sector (id: 5a1b9271-e7dc-4382-b2f2-3847372e069b) has status 201 (via Kafka)
+2026-03-30 21:30:25,819 - basicLogger - INFO - Response for event add_sector (id: 5a1b9271-e7dc-4382-b2f2-3847372e069b) has status 201 (via Kafka)
+2026-03-30 21:30:25,822 - basicLogger - INFO - Received event add_sector with a trace id of f6b739b6-76b1-43b1-a2ef-7be7109a99dc
+2026-03-30 21:30:25,825 - basicLogger - INFO - Response for event add_sector (id: 1d10744f-bf42-4a45-ad00-b31dd6b4aa07) has status 201 (via Kafka)
+2026-03-30 21:30:25,828 - basicLogger - INFO - Response for event add_sector (id: 1d10744f-bf42-4a45-ad00-b31dd6b4aa07) has status 201 (via Kafka)
+2026-03-30 21:30:25,830 - basicLogger - INFO - Received event add_sector with a trace id of 4c336858-e82c-444e-92d4-d646b8f3182e
+2026-03-30 21:30:25,833 - basicLogger - INFO - Response for event add_sector (id: 82226558-8e46-4287-9e29-2dd04636063d) has status 201 (via Kafka)
+2026-03-30 21:30:25,836 - basicLogger - INFO - Response for event add_sector (id: 82226558-8e46-4287-9e29-2dd04636063d) has status 201 (via Kafka)
+2026-03-30 21:30:25,838 - basicLogger - INFO - Received event add_sector with a trace id of 2823faad-8d28-4679-8a38-0b4f98024494
+2026-03-30 21:30:25,841 - basicLogger - INFO - Response for event add_sector (id: 97ce3805-9dc7-41b7-b6c3-61cb714e6222) has status 201 (via Kafka)
+2026-03-30 21:30:25,843 - basicLogger - INFO - Response for event add_sector (id: 97ce3805-9dc7-41b7-b6c3-61cb714e6222) has status 201 (via Kafka)
+2026-03-30 21:30:25,846 - basicLogger - INFO - Received event add_sector with a trace id of eb79113e-f354-4747-ac58-faadf49dc389
+2026-03-30 21:30:25,849 - basicLogger - INFO - Response for event add_sector (id: 17470b6e-f183-4f8b-bb95-b99a4abebe0b) has status 201 (via Kafka)
+2026-03-30 21:30:25,851 - basicLogger - INFO - Response for event add_sector (id: 17470b6e-f183-4f8b-bb95-b99a4abebe0b) has status 201 (via Kafka)
+2026-03-30 21:30:25,854 - basicLogger - INFO - Received event add_sector with a trace id of b3487de5-2712-4dff-a57b-f00c239f89a4
+2026-03-30 21:30:25,856 - basicLogger - INFO - Response for event add_sector (id: 72fe48aa-bbe0-4f5b-abb9-89fd02671338) has status 201 (via Kafka)
+2026-03-30 21:30:25,858 - basicLogger - INFO - Response for event add_sector (id: 72fe48aa-bbe0-4f5b-abb9-89fd02671338) has status 201 (via Kafka)
+2026-03-30 21:30:25,861 - basicLogger - INFO - Received event add_sector with a trace id of 9b6af6dd-24c7-4a72-830d-11b975d5d0b2
+2026-03-30 21:30:25,864 - basicLogger - INFO - Response for event add_sector (id: c5ad2d3b-560e-4bdb-a5a9-16d4bcac6538) has status 201 (via Kafka)
+2026-03-30 21:30:25,866 - basicLogger - INFO - Response for event add_sector (id: c5ad2d3b-560e-4bdb-a5a9-16d4bcac6538) has status 201 (via Kafka)
+2026-03-30 21:30:25,868 - basicLogger - INFO - Received event add_sector with a trace id of 8377daa1-bc37-4281-bba7-0e0d79aebf19
+2026-03-30 21:30:25,871 - basicLogger - INFO - Response for event add_sector (id: 0063c4f0-0593-441e-a27e-304729899c29) has status 201 (via Kafka)
+2026-03-30 21:30:25,873 - basicLogger - INFO - Response for event add_sector (id: 0063c4f0-0593-441e-a27e-304729899c29) has status 201 (via Kafka)
+2026-03-30 21:30:25,876 - basicLogger - INFO - Received event add_lap with a trace id of 546f1e1b-1cd5-4af2-b1fd-33ebb8aab439
+2026-03-30 21:30:25,880 - basicLogger - INFO - Response for event add_lap (id: e341e7db-011b-4d35-b760-013b733245dc) has status 201 (via Kafka)
+2026-03-30 21:30:25,882 - basicLogger - INFO - Response for event add_lap (id: e341e7db-011b-4d35-b760-013b733245dc) has status 201 (via Kafka)
+2026-03-30 21:30:25,885 - basicLogger - INFO - Received event add_lap with a trace id of 7cdf5f1a-a0b8-4c46-9f67-15ad47406705
+2026-03-30 21:30:25,888 - basicLogger - INFO - Response for event add_lap (id: 078c66f9-906a-47ed-97fa-c9bb91853091) has status 201 (via Kafka)
+2026-03-30 21:30:25,890 - basicLogger - INFO - Response for event add_lap (id: 078c66f9-906a-47ed-97fa-c9bb91853091) has status 201 (via Kafka)
+2026-03-30 21:30:25,894 - basicLogger - INFO - Received event add_lap with a trace id of 6edee53b-2248-4a91-878e-fd379c9be3cd
+2026-03-30 21:30:25,897 - basicLogger - INFO - Response for event add_lap (id: 078336c3-ef99-41cd-9086-ef1c67ba8e7c) has status 201 (via Kafka)
+2026-03-30 21:30:25,899 - basicLogger - INFO - Response for event add_lap (id: 078336c3-ef99-41cd-9086-ef1c67ba8e7c) has status 201 (via Kafka)
+2026-03-30 21:30:25,902 - basicLogger - INFO - Received event add_lap with a trace id of 6d797120-0954-47c5-9c30-190c91c5ef6e
+2026-03-30 21:30:25,906 - basicLogger - INFO - Response for event add_lap (id: 933f6260-7fa2-4aa3-8d90-80db7fd21534) has status 201 (via Kafka)
+2026-03-30 21:30:25,909 - basicLogger - INFO - Response for event add_lap (id: 933f6260-7fa2-4aa3-8d90-80db7fd21534) has status 201 (via Kafka)
+2026-03-30 21:30:25,912 - basicLogger - INFO - Received event add_lap with a trace id of 28627a11-f1fd-4807-964f-ce5371d37893
+2026-03-30 21:30:25,915 - basicLogger - INFO - Response for event add_lap (id: 665efce4-9437-4b61-9fd7-7a7bfe15909f) has status 201 (via Kafka)
+2026-03-30 21:30:25,918 - basicLogger - INFO - Response for event add_lap (id: 665efce4-9437-4b61-9fd7-7a7bfe15909f) has status 201 (via Kafka)
+2026-03-30 21:30:25,921 - basicLogger - INFO - Received event add_lap with a trace id of 04b65237-5ce2-4977-8d4c-76725acddbbe
+2026-03-30 21:30:25,924 - basicLogger - INFO - Response for event add_lap (id: ab951a10-8cb1-4912-b068-3bf1f7a2d095) has status 201 (via Kafka)
+2026-03-30 21:30:25,927 - basicLogger - INFO - Response for event add_lap (id: ab951a10-8cb1-4912-b068-3bf1f7a2d095) has status 201 (via Kafka)
+2026-03-30 21:30:25,931 - basicLogger - INFO - Received event add_lap with a trace id of 2dd3d96e-6881-41d3-8c1c-0f98666fd711
+2026-03-30 21:30:25,934 - basicLogger - INFO - Response for event add_lap (id: e4a0f14b-f06d-4bdb-b28a-04e16b0ddc18) has status 201 (via Kafka)
+2026-03-30 21:30:25,937 - basicLogger - INFO - Response for event add_lap (id: e4a0f14b-f06d-4bdb-b28a-04e16b0ddc18) has status 201 (via Kafka)
+2026-03-30 21:30:25,940 - basicLogger - INFO - Received event add_lap with a trace id of 5ab72ea8-ea9e-460a-84dd-25eb4ec02dcd
+2026-03-30 21:30:25,943 - basicLogger - INFO - Response for event add_lap (id: 38e8780d-c2a8-4465-8ea6-735dab7b54f7) has status 201 (via Kafka)
+2026-03-30 21:30:25,946 - basicLogger - INFO - Response for event add_lap (id: 38e8780d-c2a8-4465-8ea6-735dab7b54f7) has status 201 (via Kafka)
+2026-03-30 21:30:25,949 - basicLogger - INFO - Received event add_lap with a trace id of ef8e5206-5e37-4a2b-87cf-07490ec76941
+2026-03-30 21:30:25,952 - basicLogger - INFO - Response for event add_lap (id: e4175303-df9e-42c2-b637-fa3ae67e2782) has status 201 (via Kafka)
+2026-03-30 21:30:25,954 - basicLogger - INFO - Response for event add_lap (id: e4175303-df9e-42c2-b637-fa3ae67e2782) has status 201 (via Kafka)
+2026-03-30 21:30:25,957 - basicLogger - INFO - Received event add_lap with a trace id of c72231a2-9726-4b86-9341-aabd420926b0
+2026-03-30 21:30:25,960 - basicLogger - INFO - Response for event add_lap (id: ca61b435-ea62-415c-ba02-9a0ff3828d83) has status 201 (via Kafka)
+2026-03-30 21:30:25,963 - basicLogger - INFO - Response for event add_lap (id: ca61b435-ea62-415c-ba02-9a0ff3828d83) has status 201 (via Kafka)
+2026-03-30 21:30:25,966 - basicLogger - INFO - Received event add_lap with a trace id of 2f82c0eb-c85b-47c1-946a-f0b77e4d1bb3
+2026-03-30 21:30:25,969 - basicLogger - INFO - Response for event add_lap (id: 908ed86f-4beb-48ad-bec6-eeecb717410b) has status 201 (via Kafka)
+2026-03-30 21:30:25,971 - basicLogger - INFO - Response for event add_lap (id: 908ed86f-4beb-48ad-bec6-eeecb717410b) has status 201 (via Kafka)
+2026-03-30 21:30:25,974 - basicLogger - INFO - Received event add_lap with a trace id of f616064c-0ea9-4f27-b23b-9bb914ed3961
+2026-03-30 21:30:25,978 - basicLogger - INFO - Response for event add_lap (id: 3382fec0-5a8b-4a2a-8135-8575a5334ef8) has status 201 (via Kafka)
+2026-03-30 21:30:25,980 - basicLogger - INFO - Response for event add_lap (id: 3382fec0-5a8b-4a2a-8135-8575a5334ef8) has status 201 (via Kafka)
+2026-03-30 21:30:25,984 - basicLogger - INFO - Received event add_lap with a trace id of 5e23441a-6bd9-4e12-8fbb-29696066b634
+2026-03-30 21:30:25,987 - basicLogger - INFO - Response for event add_lap (id: 8faaab3b-36a9-4b50-8eeb-00ba75fa5641) has status 201 (via Kafka)
+2026-03-30 21:30:25,989 - basicLogger - INFO - Response for event add_lap (id: 8faaab3b-36a9-4b50-8eeb-00ba75fa5641) has status 201 (via Kafka)
+2026-03-30 21:30:25,992 - basicLogger - INFO - Received event add_lap with a trace id of e9e534ae-7fd4-4539-85b1-8723885aa230
+2026-03-30 21:30:25,995 - basicLogger - INFO - Response for event add_lap (id: c4b33eb2-b0a4-4ea8-a5b0-50c0efda3931) has status 201 (via Kafka)
+2026-03-30 21:30:25,998 - basicLogger - INFO - Response for event add_lap (id: c4b33eb2-b0a4-4ea8-a5b0-50c0efda3931) has status 201 (via Kafka)
+2026-03-30 21:30:26,001 - basicLogger - INFO - Received event add_lap with a trace id of 6288c457-713a-4b2e-a15e-a3b4578b8725
+2026-03-30 21:30:26,004 - basicLogger - INFO - Response for event add_lap (id: 6ab856c4-4fb2-441e-86dc-333ef9dd8a92) has status 201 (via Kafka)
+2026-03-30 21:30:26,006 - basicLogger - INFO - Response for event add_lap (id: 6ab856c4-4fb2-441e-86dc-333ef9dd8a92) has status 201 (via Kafka)
+2026-03-30 21:30:26,009 - basicLogger - INFO - Received event add_lap with a trace id of fed89a35-d970-488d-8012-07b735a16221
+2026-03-30 21:30:26,013 - basicLogger - INFO - Response for event add_lap (id: 8eedd6ef-f5db-4f7c-8bc0-913fcb7f76bb) has status 201 (via Kafka)
+2026-03-30 21:30:26,015 - basicLogger - INFO - Response for event add_lap (id: 8eedd6ef-f5db-4f7c-8bc0-913fcb7f76bb) has status 201 (via Kafka)
+2026-03-30 21:30:26,018 - basicLogger - INFO - Received event add_lap with a trace id of 1495f4ba-1c0e-4e56-aef8-930edcf15a5e
+2026-03-30 21:30:26,021 - basicLogger - INFO - Response for event add_lap (id: 900b1ea6-d751-44aa-8107-0be3893b26d4) has status 201 (via Kafka)
+2026-03-30 21:30:26,024 - basicLogger - INFO - Response for event add_lap (id: 900b1ea6-d751-44aa-8107-0be3893b26d4) has status 201 (via Kafka)
+2026-03-30 21:30:26,027 - basicLogger - INFO - Received event add_lap with a trace id of ca04cad6-3541-4951-8336-407fc41eb630
+2026-03-30 21:30:26,030 - basicLogger - INFO - Response for event add_lap (id: 7ea697d4-7a00-4047-99bc-5e34dc3e687b) has status 201 (via Kafka)
+2026-03-30 21:30:26,033 - basicLogger - INFO - Response for event add_lap (id: 7ea697d4-7a00-4047-99bc-5e34dc3e687b) has status 201 (via Kafka)
+2026-03-30 21:30:26,036 - basicLogger - INFO - Received event add_lap with a trace id of 93e58d60-0b05-4210-84ed-c44d906e5090
+2026-03-30 21:30:26,041 - basicLogger - INFO - Response for event add_lap (id: 4a6a308c-d247-4e5b-8482-4d87ff3ba109) has status 201 (via Kafka)
+2026-03-30 21:30:26,044 - basicLogger - INFO - Response for event add_lap (id: 4a6a308c-d247-4e5b-8482-4d87ff3ba109) has status 201 (via Kafka)
+2026-03-30 21:30:26,049 - basicLogger - INFO - Received event add_lap with a trace id of d6a023b8-291c-429c-8b58-150ff7d049dd
+2026-03-30 21:30:26,053 - basicLogger - INFO - Response for event add_lap (id: 7c396288-12bc-433e-812c-56b79e0bfb46) has status 201 (via Kafka)
+2026-03-30 21:30:26,055 - basicLogger - INFO - Response for event add_lap (id: 7c396288-12bc-433e-812c-56b79e0bfb46) has status 201 (via Kafka)
+2026-03-30 21:30:26,058 - basicLogger - INFO - Received event add_lap with a trace id of 3b14f8ac-bac9-4342-89f1-64786b4e29bb
+2026-03-30 21:30:26,061 - basicLogger - INFO - Response for event add_lap (id: f3c76c2a-ab8f-4713-b719-d4fa2f6eda4d) has status 201 (via Kafka)
+2026-03-30 21:30:26,063 - basicLogger - INFO - Response for event add_lap (id: f3c76c2a-ab8f-4713-b719-d4fa2f6eda4d) has status 201 (via Kafka)
+2026-03-30 21:30:26,066 - basicLogger - INFO - Received event add_lap with a trace id of cdb1b332-b489-41e0-9b84-551fa1102306
+2026-03-30 21:30:26,069 - basicLogger - INFO - Response for event add_lap (id: a8a440bf-d83b-415f-8da7-41559f6a7d6a) has status 201 (via Kafka)
+2026-03-30 21:30:26,071 - basicLogger - INFO - Response for event add_lap (id: a8a440bf-d83b-415f-8da7-41559f6a7d6a) has status 201 (via Kafka)
+2026-03-30 21:30:26,074 - basicLogger - INFO - Received event add_lap with a trace id of fc4808f8-ada5-4763-80cd-7520f0e8c403
+2026-03-30 21:30:26,076 - basicLogger - INFO - Response for event add_lap (id: 1a48425a-a62c-4593-ac59-05a96e33229f) has status 201 (via Kafka)
+2026-03-30 21:30:26,078 - basicLogger - INFO - Response for event add_lap (id: 1a48425a-a62c-4593-ac59-05a96e33229f) has status 201 (via Kafka)
+2026-03-30 21:30:26,081 - basicLogger - INFO - Received event add_lap with a trace id of ed47e7b6-6e11-4514-b3b6-e8f5739eaaec
+2026-03-30 21:30:26,084 - basicLogger - INFO - Response for event add_lap (id: 9138e4f7-0364-4f52-8a7c-916516188345) has status 201 (via Kafka)
+2026-03-30 21:30:26,087 - basicLogger - INFO - Response for event add_lap (id: 9138e4f7-0364-4f52-8a7c-916516188345) has status 201 (via Kafka)
+2026-03-30 21:30:26,091 - basicLogger - INFO - Received event add_lap with a trace id of 3b4239a1-dc37-492e-a153-9b842870a004
+2026-03-30 21:30:26,095 - basicLogger - INFO - Response for event add_lap (id: 5dda57ea-0df2-4c69-9f0a-9a8e561a8933) has status 201 (via Kafka)
+2026-03-30 21:30:26,098 - basicLogger - INFO - Response for event add_lap (id: 5dda57ea-0df2-4c69-9f0a-9a8e561a8933) has status 201 (via Kafka)
+2026-03-30 21:30:26,101 - basicLogger - INFO - Received event add_lap with a trace id of cb12a4e4-f730-44fa-b890-8baf8016bc1a
+2026-03-30 21:30:26,104 - basicLogger - INFO - Response for event add_lap (id: c2f89a98-54a0-4087-a9a9-8432ea43779b) has status 201 (via Kafka)
+2026-03-30 21:30:26,106 - basicLogger - INFO - Response for event add_lap (id: c2f89a98-54a0-4087-a9a9-8432ea43779b) has status 201 (via Kafka)
+2026-03-30 21:30:26,110 - basicLogger - INFO - Received event add_lap with a trace id of cbf55c65-ab67-458c-bfa1-76660e602411
+2026-03-30 21:30:26,114 - basicLogger - INFO - Response for event add_lap (id: bcaf3c36-091c-4d4d-9f5f-5a9f1609a72f) has status 201 (via Kafka)
+2026-03-30 21:30:26,117 - basicLogger - INFO - Response for event add_lap (id: bcaf3c36-091c-4d4d-9f5f-5a9f1609a72f) has status 201 (via Kafka)
+2026-03-30 21:30:26,120 - basicLogger - INFO - Received event add_lap with a trace id of a4aa7a56-cf7b-4ab5-9693-7a409ff583a5
+2026-03-30 21:30:26,123 - basicLogger - INFO - Response for event add_lap (id: e1fe67f1-6346-4b37-8d02-a7b32e4a69c2) has status 201 (via Kafka)
+2026-03-30 21:30:26,126 - basicLogger - INFO - Response for event add_lap (id: e1fe67f1-6346-4b37-8d02-a7b32e4a69c2) has status 201 (via Kafka)
+2026-03-30 21:30:26,130 - basicLogger - INFO - Received event add_lap with a trace id of 66dc76a6-e1ee-48d0-bf60-139b57fe622e
+2026-03-30 21:30:26,135 - basicLogger - INFO - Response for event add_lap (id: ea7ab8bf-6dfa-44a1-a2ee-2bf706fd3ba3) has status 201 (via Kafka)
+2026-03-30 21:30:26,139 - basicLogger - INFO - Response for event add_lap (id: ea7ab8bf-6dfa-44a1-a2ee-2bf706fd3ba3) has status 201 (via Kafka)
+2026-03-30 21:30:26,142 - basicLogger - INFO - Received event add_lap with a trace id of 9009d540-a029-4b24-a73c-44cfc00812f3
+2026-03-30 21:30:26,146 - basicLogger - INFO - Response for event add_lap (id: 918bb26b-65f2-4cb1-9490-d19632578e41) has status 201 (via Kafka)
+2026-03-30 21:30:26,148 - basicLogger - INFO - Response for event add_lap (id: 918bb26b-65f2-4cb1-9490-d19632578e41) has status 201 (via Kafka)
+2026-03-30 21:30:26,152 - basicLogger - INFO - Received event add_lap with a trace id of f2aaa073-2d51-4561-901d-b31b4d8aa1b5
+2026-03-30 21:30:26,155 - basicLogger - INFO - Response for event add_lap (id: 7e034e9c-67cf-4ed8-b373-7a8b6dcdd4ae) has status 201 (via Kafka)
+2026-03-30 21:30:26,157 - basicLogger - INFO - Response for event add_lap (id: 7e034e9c-67cf-4ed8-b373-7a8b6dcdd4ae) has status 201 (via Kafka)
+2026-03-30 21:30:26,161 - basicLogger - INFO - Received event add_lap with a trace id of 28fe0497-b728-4b67-8bf7-c6030fd8a9ec
+2026-03-30 21:30:26,164 - basicLogger - INFO - Response for event add_lap (id: a09b386b-2702-4bee-adef-36720e4487fe) has status 201 (via Kafka)
+2026-03-30 21:30:26,166 - basicLogger - INFO - Response for event add_lap (id: a09b386b-2702-4bee-adef-36720e4487fe) has status 201 (via Kafka)
+2026-03-30 21:30:26,169 - basicLogger - INFO - Received event add_lap with a trace id of 943978f8-4cd4-4010-9b21-9b731f38b175
+2026-03-30 21:30:26,172 - basicLogger - INFO - Response for event add_lap (id: 80054bd1-eb21-4475-9d2c-912ad0839fc7) has status 201 (via Kafka)
+2026-03-30 21:30:26,174 - basicLogger - INFO - Response for event add_lap (id: 80054bd1-eb21-4475-9d2c-912ad0839fc7) has status 201 (via Kafka)
+2026-03-30 21:30:26,177 - basicLogger - INFO - Received event add_lap with a trace id of 3f9723e5-a421-4fe6-8260-747d7a08fc88
+2026-03-30 21:30:26,180 - basicLogger - INFO - Response for event add_lap (id: fa13df35-04b4-46d0-aa2d-efb4074af232) has status 201 (via Kafka)
+2026-03-30 21:30:26,182 - basicLogger - INFO - Response for event add_lap (id: fa13df35-04b4-46d0-aa2d-efb4074af232) has status 201 (via Kafka)
+2026-03-30 21:30:26,185 - basicLogger - INFO - Received event add_lap with a trace id of 6adddead-e673-470b-b14f-a1645b4879f7
+2026-03-30 21:30:26,188 - basicLogger - INFO - Response for event add_lap (id: da023ec5-2832-4ae7-a914-275fb3abe6c4) has status 201 (via Kafka)
+2026-03-30 21:30:26,190 - basicLogger - INFO - Response for event add_lap (id: da023ec5-2832-4ae7-a914-275fb3abe6c4) has status 201 (via Kafka)
+2026-03-30 21:30:26,193 - basicLogger - INFO - Received event add_lap with a trace id of 740bd960-ed4c-4163-bfde-3c5afa2e1513
+2026-03-30 21:30:26,196 - basicLogger - INFO - Response for event add_lap (id: e4088edd-48af-4267-9b03-ce2cb12ba328) has status 201 (via Kafka)
+2026-03-30 21:30:26,198 - basicLogger - INFO - Response for event add_lap (id: e4088edd-48af-4267-9b03-ce2cb12ba328) has status 201 (via Kafka)
+2026-03-30 21:30:26,201 - basicLogger - INFO - Received event add_lap with a trace id of defe1ea9-e9a8-4be5-bd76-70b74a52fcd3
+2026-03-30 21:30:26,204 - basicLogger - INFO - Response for event add_lap (id: 15558040-cf1e-4cc7-b312-2d3879be0ed0) has status 201 (via Kafka)
+2026-03-30 21:30:26,206 - basicLogger - INFO - Response for event add_lap (id: 15558040-cf1e-4cc7-b312-2d3879be0ed0) has status 201 (via Kafka)
+2026-03-30 21:30:26,209 - basicLogger - INFO - Received event add_lap with a trace id of 1f45a39f-de85-457b-87ba-388a3a6b5ae0
+2026-03-30 21:30:26,212 - basicLogger - INFO - Response for event add_lap (id: da07dda7-f384-4421-b900-c0a8eee70ecb) has status 201 (via Kafka)
+2026-03-30 21:30:26,214 - basicLogger - INFO - Response for event add_lap (id: da07dda7-f384-4421-b900-c0a8eee70ecb) has status 201 (via Kafka)
+2026-03-30 21:30:26,217 - basicLogger - INFO - Received event add_lap with a trace id of 650579cb-4dcc-4466-bd3b-b8bc33113ff5
+2026-03-30 21:30:26,219 - basicLogger - INFO - Response for event add_lap (id: 18206f39-f10e-446b-86a1-c50e0cd0a94a) has status 201 (via Kafka)
+2026-03-30 21:30:26,222 - basicLogger - INFO - Response for event add_lap (id: 18206f39-f10e-446b-86a1-c50e0cd0a94a) has status 201 (via Kafka)
+2026-03-30 21:30:26,224 - basicLogger - INFO - Received event add_lap with a trace id of f0ae97cf-9c1d-4bd1-bce9-b423af3d5f07
+2026-03-30 21:30:26,228 - basicLogger - INFO - Response for event add_lap (id: d6352a4e-b0f1-4ce0-bfa1-ac95e959e83e) has status 201 (via Kafka)
+2026-03-30 21:30:26,230 - basicLogger - INFO - Response for event add_lap (id: d6352a4e-b0f1-4ce0-bfa1-ac95e959e83e) has status 201 (via Kafka)
+2026-03-30 21:30:26,233 - basicLogger - INFO - Received event add_lap with a trace id of 2aca383b-c92c-47d0-9fc1-35c658cbfc36
+2026-03-30 21:30:26,235 - basicLogger - INFO - Response for event add_lap (id: ae5840a1-096a-4f13-a566-5743bf28b523) has status 201 (via Kafka)
+2026-03-30 21:30:26,238 - basicLogger - INFO - Response for event add_lap (id: ae5840a1-096a-4f13-a566-5743bf28b523) has status 201 (via Kafka)
+2026-03-30 21:30:26,241 - basicLogger - INFO - Received event add_sector with a trace id of af64f1e6-13db-4cfe-bb98-7dc482b27e8d
+2026-03-30 21:30:26,245 - basicLogger - INFO - Response for event add_sector (id: 6ff7f418-a838-419d-ab45-5b421b03bf4b) has status 201 (via Kafka)
+2026-03-30 21:30:26,247 - basicLogger - INFO - Response for event add_sector (id: 6ff7f418-a838-419d-ab45-5b421b03bf4b) has status 201 (via Kafka)
+2026-03-30 21:30:26,250 - basicLogger - INFO - Received event add_sector with a trace id of 01a28093-59e6-4a8c-94aa-27c52b927898
+2026-03-30 21:30:26,252 - basicLogger - INFO - Response for event add_sector (id: 265c1c61-8f92-4b4d-ace6-b776d4f9f3d3) has status 201 (via Kafka)
+2026-03-30 21:30:26,256 - basicLogger - INFO - Response for event add_sector (id: 265c1c61-8f92-4b4d-ace6-b776d4f9f3d3) has status 201 (via Kafka)
+2026-03-30 21:30:26,259 - basicLogger - INFO - Received event add_sector with a trace id of 7a62758e-47a4-4b16-9d79-2c9335bab11c
+2026-03-30 21:30:26,263 - basicLogger - INFO - Response for event add_sector (id: ae3e3a2a-917c-4391-8e1a-518eb65d6bba) has status 201 (via Kafka)
+2026-03-30 21:30:26,266 - basicLogger - INFO - Response for event add_sector (id: ae3e3a2a-917c-4391-8e1a-518eb65d6bba) has status 201 (via Kafka)
+2026-03-30 21:30:26,269 - basicLogger - INFO - Received event add_sector with a trace id of ab48257d-34c7-4165-86a2-a45330e73867
+2026-03-30 21:30:26,273 - basicLogger - INFO - Response for event add_sector (id: 208689f6-340f-48f1-862b-0d54b87ac189) has status 201 (via Kafka)
+2026-03-30 21:30:26,275 - basicLogger - INFO - Response for event add_sector (id: 208689f6-340f-48f1-862b-0d54b87ac189) has status 201 (via Kafka)
+2026-03-30 21:30:26,278 - basicLogger - INFO - Received event add_sector with a trace id of 3d661564-4dec-48a9-98f0-21e8f15739ca
+2026-03-30 21:30:26,281 - basicLogger - INFO - Response for event add_sector (id: 35763ef9-01a8-4669-a2cf-1cedae2cdc4b) has status 201 (via Kafka)
+2026-03-30 21:30:26,284 - basicLogger - INFO - Response for event add_sector (id: 35763ef9-01a8-4669-a2cf-1cedae2cdc4b) has status 201 (via Kafka)
+2026-03-30 21:30:26,287 - basicLogger - INFO - Received event add_sector with a trace id of ce81dff4-13cb-40fc-adbb-5aa1836350ca
+2026-03-30 21:30:26,289 - basicLogger - INFO - Response for event add_sector (id: ff373094-5d3a-48ee-b982-7be48a3002f9) has status 201 (via Kafka)
+2026-03-30 21:30:26,292 - basicLogger - INFO - Response for event add_sector (id: ff373094-5d3a-48ee-b982-7be48a3002f9) has status 201 (via Kafka)
+2026-03-30 21:30:26,295 - basicLogger - INFO - Received event add_sector with a trace id of a164a1c9-120f-4e5c-8768-6b23806986d6
+2026-03-30 21:30:26,297 - basicLogger - INFO - Response for event add_sector (id: c87d4cb0-6c3c-45b5-9fa5-01adf48a2f8c) has status 201 (via Kafka)
+2026-03-30 21:30:26,300 - basicLogger - INFO - Response for event add_sector (id: c87d4cb0-6c3c-45b5-9fa5-01adf48a2f8c) has status 201 (via Kafka)
+2026-03-30 21:30:26,303 - basicLogger - INFO - Received event add_sector with a trace id of 3aa410ac-6da7-4a9c-8dc2-4bbd9b305bea
+2026-03-30 21:30:26,307 - basicLogger - INFO - Response for event add_sector (id: f9be5dbf-e156-4c17-a58a-4f9653e382c9) has status 201 (via Kafka)
+2026-03-30 21:30:26,309 - basicLogger - INFO - Response for event add_sector (id: f9be5dbf-e156-4c17-a58a-4f9653e382c9) has status 201 (via Kafka)
+2026-03-30 21:30:26,313 - basicLogger - INFO - Received event add_sector with a trace id of cae3b2f9-7bf5-455d-81b2-d52b3018be75
+2026-03-30 21:30:26,316 - basicLogger - INFO - Response for event add_sector (id: 0c9cf5bb-49e6-4e9f-a219-ca5e1cb5b19f) has status 201 (via Kafka)
+2026-03-30 21:30:26,318 - basicLogger - INFO - Response for event add_sector (id: 0c9cf5bb-49e6-4e9f-a219-ca5e1cb5b19f) has status 201 (via Kafka)
+2026-03-30 21:30:26,321 - basicLogger - INFO - Received event add_sector with a trace id of fe37d874-1f13-427e-bb05-d660f016b3e8
+2026-03-30 21:30:26,324 - basicLogger - INFO - Response for event add_sector (id: 07a87a3b-a058-40bf-829a-e00dbd8af0b2) has status 201 (via Kafka)
+2026-03-30 21:30:26,328 - basicLogger - INFO - Response for event add_sector (id: 07a87a3b-a058-40bf-829a-e00dbd8af0b2) has status 201 (via Kafka)
+2026-03-30 21:30:26,331 - basicLogger - INFO - Received event add_sector with a trace id of 9f5d5399-29d7-45a8-8fab-8ae0b927fb30
+2026-03-30 21:30:26,334 - basicLogger - INFO - Response for event add_sector (id: fb67f1e8-7815-47aa-bc1d-aad3cb4bad52) has status 201 (via Kafka)
+2026-03-30 21:30:26,336 - basicLogger - INFO - Response for event add_sector (id: fb67f1e8-7815-47aa-bc1d-aad3cb4bad52) has status 201 (via Kafka)
+2026-03-30 21:30:26,338 - basicLogger - INFO - Received event add_sector with a trace id of fc865314-82af-4ffd-862a-51d2662320f6
+2026-03-30 21:30:26,341 - basicLogger - INFO - Response for event add_sector (id: 1e7b1320-59ee-41a8-a9d1-944ecded2837) has status 201 (via Kafka)
+2026-03-30 21:30:26,343 - basicLogger - INFO - Response for event add_sector (id: 1e7b1320-59ee-41a8-a9d1-944ecded2837) has status 201 (via Kafka)
+2026-03-30 21:30:26,348 - basicLogger - INFO - Received event add_sector with a trace id of 2bfbb2db-fde1-4ac9-81ff-296ded599070
+2026-03-30 21:30:26,351 - basicLogger - INFO - Response for event add_sector (id: 6a25cbf0-3634-448c-9c89-878e9e2383aa) has status 201 (via Kafka)
+2026-03-30 21:30:26,353 - basicLogger - INFO - Response for event add_sector (id: 6a25cbf0-3634-448c-9c89-878e9e2383aa) has status 201 (via Kafka)
+2026-03-30 21:30:26,356 - basicLogger - INFO - Received event add_sector with a trace id of 59934e24-9178-4993-8083-38d5b0c1c025
+2026-03-30 21:30:26,359 - basicLogger - INFO - Response for event add_sector (id: 9ae98a4f-785c-481a-8669-86fee1c1dd89) has status 201 (via Kafka)
+2026-03-30 21:30:26,361 - basicLogger - INFO - Response for event add_sector (id: 9ae98a4f-785c-481a-8669-86fee1c1dd89) has status 201 (via Kafka)
+2026-03-30 21:30:26,365 - basicLogger - INFO - Received event add_sector with a trace id of b51fdbda-7790-4707-8ae7-a3e212da01c3
+2026-03-30 21:30:26,368 - basicLogger - INFO - Response for event add_sector (id: 800a20a8-5a97-4aaf-ad8d-824851e11002) has status 201 (via Kafka)
+2026-03-30 21:30:26,370 - basicLogger - INFO - Response for event add_sector (id: 800a20a8-5a97-4aaf-ad8d-824851e11002) has status 201 (via Kafka)
+2026-03-30 21:30:26,373 - basicLogger - INFO - Received event add_sector with a trace id of a36d3d00-14db-4f3e-bcf2-ce1b2e9aea7a
+2026-03-30 21:30:26,376 - basicLogger - INFO - Response for event add_sector (id: c7ba740b-8273-4bb7-8c77-84ce0afe8a0c) has status 201 (via Kafka)
+2026-03-30 21:30:26,378 - basicLogger - INFO - Response for event add_sector (id: c7ba740b-8273-4bb7-8c77-84ce0afe8a0c) has status 201 (via Kafka)
+2026-03-30 21:30:26,381 - basicLogger - INFO - Received event add_sector with a trace id of 29240156-31b8-402c-b13d-f393d5a225a7
+2026-03-30 21:30:26,384 - basicLogger - INFO - Response for event add_sector (id: 811a89a8-efaa-4b2d-9f2f-d6bbfc5b25af) has status 201 (via Kafka)
+2026-03-30 21:30:26,386 - basicLogger - INFO - Response for event add_sector (id: 811a89a8-efaa-4b2d-9f2f-d6bbfc5b25af) has status 201 (via Kafka)
+2026-03-30 21:30:26,389 - basicLogger - INFO - Received event add_sector with a trace id of 7ad16cb9-31b5-4ad6-911b-2a1360457de5
+2026-03-30 21:30:26,391 - basicLogger - INFO - Response for event add_sector (id: 3f7666fe-92f5-44ad-b52a-f3866f66c527) has status 201 (via Kafka)
+2026-03-30 21:30:26,393 - basicLogger - INFO - Response for event add_sector (id: 3f7666fe-92f5-44ad-b52a-f3866f66c527) has status 201 (via Kafka)
+2026-03-30 21:30:26,396 - basicLogger - INFO - Received event add_sector with a trace id of b479096a-2ae5-4c53-ae17-36533192aa5e
+2026-03-30 21:30:26,399 - basicLogger - INFO - Response for event add_sector (id: fe805872-6089-49d1-aa77-832d0a640b7d) has status 201 (via Kafka)
+2026-03-30 21:30:26,401 - basicLogger - INFO - Response for event add_sector (id: fe805872-6089-49d1-aa77-832d0a640b7d) has status 201 (via Kafka)
+2026-03-30 21:30:26,404 - basicLogger - INFO - Received event add_sector with a trace id of a21d452b-de2d-4ea3-b5c3-f0f10fa87d44
+2026-03-30 21:30:26,407 - basicLogger - INFO - Response for event add_sector (id: 3359844a-afc2-4cd8-b3f0-f09b2aabec4e) has status 201 (via Kafka)
+2026-03-30 21:30:26,409 - basicLogger - INFO - Response for event add_sector (id: 3359844a-afc2-4cd8-b3f0-f09b2aabec4e) has status 201 (via Kafka)
+2026-03-30 21:30:26,412 - basicLogger - INFO - Received event add_sector with a trace id of 90eed4db-40a5-47e7-8a5a-906d398335f2
+2026-03-30 21:30:26,414 - basicLogger - INFO - Response for event add_sector (id: 52b12dbc-8f88-4457-8d3a-b9ceedd16142) has status 201 (via Kafka)
+2026-03-30 21:30:26,417 - basicLogger - INFO - Response for event add_sector (id: 52b12dbc-8f88-4457-8d3a-b9ceedd16142) has status 201 (via Kafka)
+2026-03-30 21:30:26,420 - basicLogger - INFO - Received event add_sector with a trace id of 1fa8c7e9-6abe-42b6-a5ff-8fb115f6b52b
+2026-03-30 21:30:26,422 - basicLogger - INFO - Response for event add_sector (id: 6c68fb35-95c4-4dde-9384-39cd60afcdbe) has status 201 (via Kafka)
+2026-03-30 21:30:26,425 - basicLogger - INFO - Response for event add_sector (id: 6c68fb35-95c4-4dde-9384-39cd60afcdbe) has status 201 (via Kafka)
+2026-03-30 21:30:26,428 - basicLogger - INFO - Received event add_sector with a trace id of 11ce841c-e8e7-4926-ac81-0924493123de
+2026-03-30 21:30:26,431 - basicLogger - INFO - Response for event add_sector (id: 0f0e65e0-d7ab-4783-a94f-6a0438f099d0) has status 201 (via Kafka)
+2026-03-30 21:30:26,433 - basicLogger - INFO - Response for event add_sector (id: 0f0e65e0-d7ab-4783-a94f-6a0438f099d0) has status 201 (via Kafka)
+2026-03-30 21:30:26,436 - basicLogger - INFO - Received event add_sector with a trace id of 6baba537-8be1-40df-adc6-95052bd2cce8
+2026-03-30 21:30:26,439 - basicLogger - INFO - Response for event add_sector (id: ac3bc59b-ace8-4fb5-bb32-ddbf4f8b2b6a) has status 201 (via Kafka)
+2026-03-30 21:30:26,441 - basicLogger - INFO - Response for event add_sector (id: ac3bc59b-ace8-4fb5-bb32-ddbf4f8b2b6a) has status 201 (via Kafka)
+2026-03-30 21:30:26,444 - basicLogger - INFO - Received event add_sector with a trace id of 652727fc-77cf-429b-80bf-651c7e46b366
+2026-03-30 21:30:26,447 - basicLogger - INFO - Response for event add_sector (id: 4b5a3536-3ae1-48b1-ae4e-50c19f05063f) has status 201 (via Kafka)
+2026-03-30 21:30:26,449 - basicLogger - INFO - Response for event add_sector (id: 4b5a3536-3ae1-48b1-ae4e-50c19f05063f) has status 201 (via Kafka)
+2026-03-30 21:30:26,452 - basicLogger - INFO - Received event add_sector with a trace id of 98efb7a5-e457-4bcd-911c-ef9fda207af6
+2026-03-30 21:30:26,455 - basicLogger - INFO - Response for event add_sector (id: 74954445-e84e-49b1-81f3-0c6a366dd8de) has status 201 (via Kafka)
+2026-03-30 21:30:26,457 - basicLogger - INFO - Response for event add_sector (id: 74954445-e84e-49b1-81f3-0c6a366dd8de) has status 201 (via Kafka)
+2026-03-30 21:30:26,461 - basicLogger - INFO - Received event add_sector with a trace id of 2cc61232-efc7-4316-87b3-7dfa48c30bfb
+2026-03-30 21:30:26,464 - basicLogger - INFO - Response for event add_sector (id: 3ce72760-ab0b-4579-8120-8fe4d79682c1) has status 201 (via Kafka)
+2026-03-30 21:30:26,466 - basicLogger - INFO - Response for event add_sector (id: 3ce72760-ab0b-4579-8120-8fe4d79682c1) has status 201 (via Kafka)
+2026-03-30 21:30:26,469 - basicLogger - INFO - Received event add_sector with a trace id of f36b6a29-f257-478f-9a6f-d9dbf910a73c
+2026-03-30 21:30:26,471 - basicLogger - INFO - Response for event add_sector (id: 8b5ef744-145f-4321-979c-04f478aa8f9b) has status 201 (via Kafka)
+2026-03-30 21:30:26,473 - basicLogger - INFO - Response for event add_sector (id: 8b5ef744-145f-4321-979c-04f478aa8f9b) has status 201 (via Kafka)
+2026-03-30 21:30:26,476 - basicLogger - INFO - Received event add_sector with a trace id of 2f49ed1c-ce8b-493c-9a23-774dcbf22833
+2026-03-30 21:30:26,478 - basicLogger - INFO - Response for event add_sector (id: e3e475f7-7a1c-43f9-bbdd-d7cd83d1a9be) has status 201 (via Kafka)
+2026-03-30 21:30:26,480 - basicLogger - INFO - Response for event add_sector (id: e3e475f7-7a1c-43f9-bbdd-d7cd83d1a9be) has status 201 (via Kafka)
+2026-03-30 21:30:26,483 - basicLogger - INFO - Received event add_sector with a trace id of 36e6fd47-d439-4cbc-9759-0c16cab1d935
+2026-03-30 21:30:26,486 - basicLogger - INFO - Response for event add_sector (id: 737de6e6-3426-423b-a93a-01b942eb2d7f) has status 201 (via Kafka)
+2026-03-30 21:30:26,489 - basicLogger - INFO - Response for event add_sector (id: 737de6e6-3426-423b-a93a-01b942eb2d7f) has status 201 (via Kafka)
+2026-03-30 21:30:26,492 - basicLogger - INFO - Received event add_sector with a trace id of 0845396c-9a50-4356-8826-002093acfafe
+2026-03-30 21:30:26,494 - basicLogger - INFO - Response for event add_sector (id: d399d669-4058-48e2-afcd-59415bc79e35) has status 201 (via Kafka)
+2026-03-30 21:30:26,496 - basicLogger - INFO - Response for event add_sector (id: d399d669-4058-48e2-afcd-59415bc79e35) has status 201 (via Kafka)
+2026-03-30 21:30:26,499 - basicLogger - INFO - Received event add_sector with a trace id of a80e44aa-8fbb-4e3d-a7d0-261a3c8e944c
+2026-03-30 21:30:26,502 - basicLogger - INFO - Response for event add_sector (id: 0d955813-3046-4690-bc5d-232d928d14d6) has status 201 (via Kafka)
+2026-03-30 21:30:26,504 - basicLogger - INFO - Response for event add_sector (id: 0d955813-3046-4690-bc5d-232d928d14d6) has status 201 (via Kafka)
+2026-03-30 21:30:26,507 - basicLogger - INFO - Received event add_sector with a trace id of c5d18698-93ee-493a-9379-a74013fd9806
+2026-03-30 21:30:26,510 - basicLogger - INFO - Response for event add_sector (id: 4244fadf-31c1-4028-9fb9-b9f3937397a8) has status 201 (via Kafka)
+2026-03-30 21:30:26,512 - basicLogger - INFO - Response for event add_sector (id: 4244fadf-31c1-4028-9fb9-b9f3937397a8) has status 201 (via Kafka)
+2026-03-30 21:30:26,515 - basicLogger - INFO - Received event add_sector with a trace id of 45fa499a-2f08-4be4-9ee8-025acc50fc54
+2026-03-30 21:30:26,517 - basicLogger - INFO - Response for event add_sector (id: 9ec159ca-5b7a-4e7b-99a9-a9c86a94640c) has status 201 (via Kafka)
+2026-03-30 21:30:26,520 - basicLogger - INFO - Response for event add_sector (id: 9ec159ca-5b7a-4e7b-99a9-a9c86a94640c) has status 201 (via Kafka)
+2026-03-30 21:30:26,523 - basicLogger - INFO - Received event add_sector with a trace id of e7bc29af-617b-4d46-9061-a6ebae770204
+2026-03-30 21:30:26,526 - basicLogger - INFO - Response for event add_sector (id: 61c9f1e1-3ecd-4283-9dac-22db19a393f7) has status 201 (via Kafka)
+2026-03-30 21:30:26,528 - basicLogger - INFO - Response for event add_sector (id: 61c9f1e1-3ecd-4283-9dac-22db19a393f7) has status 201 (via Kafka)
+2026-03-30 21:30:26,531 - basicLogger - INFO - Received event add_sector with a trace id of 36fa31a6-f79c-4840-a2be-bf121eec53e4
+2026-03-30 21:30:26,534 - basicLogger - INFO - Response for event add_sector (id: fd31ab47-4525-4401-87d8-f9aadc02fba5) has status 201 (via Kafka)
+2026-03-30 21:30:26,536 - basicLogger - INFO - Response for event add_sector (id: fd31ab47-4525-4401-87d8-f9aadc02fba5) has status 201 (via Kafka)
+2026-03-30 21:30:26,539 - basicLogger - INFO - Received event add_sector with a trace id of ad2e2f9e-7b13-4ee6-a5a9-b840a7df6b28
+2026-03-30 21:30:26,541 - basicLogger - INFO - Response for event add_sector (id: b62189ed-ded3-47c1-ade1-c084c1fe35a2) has status 201 (via Kafka)
+2026-03-30 21:30:26,544 - basicLogger - INFO - Response for event add_sector (id: b62189ed-ded3-47c1-ade1-c084c1fe35a2) has status 201 (via Kafka)
+2026-03-30 21:30:26,547 - basicLogger - INFO - Received event add_sector with a trace id of 7d06948c-668b-4e6f-8d4a-c7892cdd284c
+2026-03-30 21:30:26,551 - basicLogger - INFO - Response for event add_sector (id: 43edb11f-a596-49cc-9fc8-6b0f1ff2f817) has status 201 (via Kafka)
+2026-03-30 21:30:26,553 - basicLogger - INFO - Response for event add_sector (id: 43edb11f-a596-49cc-9fc8-6b0f1ff2f817) has status 201 (via Kafka)
+2026-03-30 21:30:26,556 - basicLogger - INFO - Received event add_sector with a trace id of cd8386c1-0938-4019-b1e5-ca08582c404a
+2026-03-30 21:30:26,559 - basicLogger - INFO - Response for event add_sector (id: 5fa8c8e0-3d3b-403b-bc47-5d5259be1a97) has status 201 (via Kafka)
+2026-03-30 21:30:26,561 - basicLogger - INFO - Response for event add_sector (id: 5fa8c8e0-3d3b-403b-bc47-5d5259be1a97) has status 201 (via Kafka)
+2026-03-30 21:30:26,564 - basicLogger - INFO - Received event add_sector with a trace id of 616d5c43-7fad-43a6-9c26-fc3b641c9028
+2026-03-30 21:30:26,567 - basicLogger - INFO - Response for event add_sector (id: 3909e9b2-67f5-447b-96dc-ddf9aa03e2a7) has status 201 (via Kafka)
+2026-03-30 21:30:26,570 - basicLogger - INFO - Response for event add_sector (id: 3909e9b2-67f5-447b-96dc-ddf9aa03e2a7) has status 201 (via Kafka)
+2026-03-30 21:30:26,573 - basicLogger - INFO - Received event add_sector with a trace id of 79edcf9b-243c-40ce-81d8-653da4b86bd9
+2026-03-30 21:30:26,577 - basicLogger - INFO - Response for event add_sector (id: 72e3fe52-a9c1-4a35-ab3f-cddb2430e191) has status 201 (via Kafka)
+2026-03-30 21:30:26,581 - basicLogger - INFO - Response for event add_sector (id: 72e3fe52-a9c1-4a35-ab3f-cddb2430e191) has status 201 (via Kafka)
+2026-03-30 21:30:26,584 - basicLogger - INFO - Received event add_lap with a trace id of afb5a269-9f36-4864-9472-71b404da1f17
+2026-03-30 21:30:26,588 - basicLogger - INFO - Response for event add_lap (id: 53a378aa-8818-49cc-8851-3b18cb04d08e) has status 201 (via Kafka)
+2026-03-30 21:30:26,591 - basicLogger - INFO - Response for event add_lap (id: 53a378aa-8818-49cc-8851-3b18cb04d08e) has status 201 (via Kafka)
+2026-03-30 21:30:26,594 - basicLogger - INFO - Received event add_lap with a trace id of 148df94b-4d4e-45ae-b6a0-23a0973f4512
+2026-03-30 21:30:26,597 - basicLogger - INFO - Response for event add_lap (id: bbf3d210-85d4-48fb-92e7-6959e23b496f) has status 201 (via Kafka)
+2026-03-30 21:30:26,599 - basicLogger - INFO - Response for event add_lap (id: bbf3d210-85d4-48fb-92e7-6959e23b496f) has status 201 (via Kafka)
+2026-03-30 21:30:26,602 - basicLogger - INFO - Received event add_lap with a trace id of 67e75815-b713-4482-86db-c3bb618404a4
+2026-03-30 21:30:26,605 - basicLogger - INFO - Response for event add_lap (id: e93f3f3b-5a17-4b4d-821c-519d0a0ba644) has status 201 (via Kafka)
+2026-03-30 21:30:26,607 - basicLogger - INFO - Response for event add_lap (id: e93f3f3b-5a17-4b4d-821c-519d0a0ba644) has status 201 (via Kafka)
+2026-03-30 21:30:26,611 - basicLogger - INFO - Received event add_lap with a trace id of bec4ddee-c357-4671-be47-99e5d88f2c13
+2026-03-30 21:30:26,614 - basicLogger - INFO - Response for event add_lap (id: b410d2d3-739a-4a61-b554-e46fec630dde) has status 201 (via Kafka)
+2026-03-30 21:30:26,616 - basicLogger - INFO - Response for event add_lap (id: b410d2d3-739a-4a61-b554-e46fec630dde) has status 201 (via Kafka)
+2026-03-30 21:30:26,619 - basicLogger - INFO - Received event add_lap with a trace id of ae006558-7b16-406a-91e5-8107a99ceb29
+2026-03-30 21:30:26,622 - basicLogger - INFO - Response for event add_lap (id: c2b26198-3365-4b85-bbd8-7959717b78c6) has status 201 (via Kafka)
+2026-03-30 21:30:26,624 - basicLogger - INFO - Response for event add_lap (id: c2b26198-3365-4b85-bbd8-7959717b78c6) has status 201 (via Kafka)
+2026-03-30 21:30:26,628 - basicLogger - INFO - Received event add_lap with a trace id of 9d5f549b-f1a2-47b2-a6c1-05c96b18e9bc
+2026-03-30 21:30:26,632 - basicLogger - INFO - Response for event add_lap (id: 982656a7-989a-4fb0-a826-e4e3003aada0) has status 201 (via Kafka)
+2026-03-30 21:30:26,634 - basicLogger - INFO - Response for event add_lap (id: 982656a7-989a-4fb0-a826-e4e3003aada0) has status 201 (via Kafka)
+2026-03-30 21:30:26,638 - basicLogger - INFO - Received event add_lap with a trace id of fe443f6e-7df3-4e55-8c8f-832475440599
+2026-03-30 21:30:26,641 - basicLogger - INFO - Response for event add_lap (id: c406f39c-4b5f-424e-a639-79a4f9af4859) has status 201 (via Kafka)
+2026-03-30 21:30:26,644 - basicLogger - INFO - Response for event add_lap (id: c406f39c-4b5f-424e-a639-79a4f9af4859) has status 201 (via Kafka)
+2026-03-30 21:30:26,648 - basicLogger - INFO - Received event add_lap with a trace id of 9a51ec49-ba8c-434a-a6b8-fcd854a491f9
+2026-03-30 21:30:26,651 - basicLogger - INFO - Response for event add_lap (id: 4c6b1b82-a74b-4f57-961c-c1fb883dea8f) has status 201 (via Kafka)
+2026-03-30 21:30:26,654 - basicLogger - INFO - Response for event add_lap (id: 4c6b1b82-a74b-4f57-961c-c1fb883dea8f) has status 201 (via Kafka)
+2026-03-30 21:30:26,659 - basicLogger - INFO - Received event add_lap with a trace id of 4a0ebc0e-cdc7-4ac0-86df-b86395e89428
+2026-03-30 21:30:26,662 - basicLogger - INFO - Response for event add_lap (id: 9f06b889-f83e-485c-8508-f16573d64e2b) has status 201 (via Kafka)
+2026-03-30 21:30:26,666 - basicLogger - INFO - Response for event add_lap (id: 9f06b889-f83e-485c-8508-f16573d64e2b) has status 201 (via Kafka)
+2026-03-30 21:30:26,670 - basicLogger - INFO - Received event add_lap with a trace id of 042c2460-4f2e-4b6b-b5e6-79b59c0a05e5
+2026-03-30 21:30:26,676 - basicLogger - INFO - Response for event add_lap (id: 79efd138-8ee8-444c-81eb-5adef13c1c86) has status 201 (via Kafka)
+2026-03-30 21:30:26,683 - basicLogger - INFO - Response for event add_lap (id: 79efd138-8ee8-444c-81eb-5adef13c1c86) has status 201 (via Kafka)
+2026-03-30 21:30:26,688 - basicLogger - INFO - Received event add_lap with a trace id of ad8780d0-0c9b-4444-b08c-99ee4dbed295
+2026-03-30 21:30:26,693 - basicLogger - INFO - Response for event add_lap (id: 448fcc61-9d80-4d42-a097-b1ffc18bc915) has status 201 (via Kafka)
+2026-03-30 21:30:26,697 - basicLogger - INFO - Response for event add_lap (id: 448fcc61-9d80-4d42-a097-b1ffc18bc915) has status 201 (via Kafka)
+2026-03-30 21:30:26,700 - basicLogger - INFO - Received event add_lap with a trace id of c74bf838-e671-494e-8bcd-eccc55223b4b
+2026-03-30 21:30:26,704 - basicLogger - INFO - Response for event add_lap (id: 1296b4c3-6a96-4434-8b5a-a599ba9dadc9) has status 201 (via Kafka)
+2026-03-30 21:30:26,707 - basicLogger - INFO - Response for event add_lap (id: 1296b4c3-6a96-4434-8b5a-a599ba9dadc9) has status 201 (via Kafka)
+2026-03-30 21:30:26,711 - basicLogger - INFO - Received event add_lap with a trace id of c77e852b-2736-4252-a96a-55b87b2bc1f2
+2026-03-30 21:30:26,718 - basicLogger - INFO - Response for event add_lap (id: ea7c7528-2868-4c05-b304-79b9d229f998) has status 201 (via Kafka)
+2026-03-30 21:30:26,721 - basicLogger - INFO - Response for event add_lap (id: ea7c7528-2868-4c05-b304-79b9d229f998) has status 201 (via Kafka)
+2026-03-30 21:30:26,724 - basicLogger - INFO - Received event add_lap with a trace id of 35ef283b-8f42-4e37-9596-e276c989b051
+2026-03-30 21:30:26,728 - basicLogger - INFO - Response for event add_lap (id: 99046280-b034-4809-aac9-71b6872fcb28) has status 201 (via Kafka)
+2026-03-30 21:30:26,730 - basicLogger - INFO - Response for event add_lap (id: 99046280-b034-4809-aac9-71b6872fcb28) has status 201 (via Kafka)
+2026-03-30 21:30:26,733 - basicLogger - INFO - Received event add_lap with a trace id of e9de5c40-ffc9-48b3-ae7a-266371724aa4
+2026-03-30 21:30:26,736 - basicLogger - INFO - Response for event add_lap (id: 9a5b49f7-f76d-4e05-a352-44d2f72c3680) has status 201 (via Kafka)
+2026-03-30 21:30:26,739 - basicLogger - INFO - Response for event add_lap (id: 9a5b49f7-f76d-4e05-a352-44d2f72c3680) has status 201 (via Kafka)
+2026-03-30 21:30:26,742 - basicLogger - INFO - Received event add_lap with a trace id of 62769fef-9686-43a8-8abb-25c898af45e5
+2026-03-30 21:30:26,745 - basicLogger - INFO - Response for event add_lap (id: 164f7528-8072-4896-afb4-4b1e2e4df811) has status 201 (via Kafka)
+2026-03-30 21:30:26,747 - basicLogger - INFO - Response for event add_lap (id: 164f7528-8072-4896-afb4-4b1e2e4df811) has status 201 (via Kafka)
+2026-03-30 21:30:26,751 - basicLogger - INFO - Received event add_lap with a trace id of 5ab9b7f9-1c6a-4e86-b872-654ace97041a
+2026-03-30 21:30:26,755 - basicLogger - INFO - Response for event add_lap (id: da093236-2964-4bb3-9828-df18b32895b8) has status 201 (via Kafka)
+2026-03-30 21:30:26,757 - basicLogger - INFO - Response for event add_lap (id: da093236-2964-4bb3-9828-df18b32895b8) has status 201 (via Kafka)
+2026-03-30 21:30:26,764 - basicLogger - INFO - Received event add_lap with a trace id of a8c8c913-16f8-43fa-b576-0997635643db
+2026-03-30 21:30:26,766 - basicLogger - INFO - Response for event add_lap (id: d0701b7e-51d7-4c24-bd68-17e4d708ccb0) has status 201 (via Kafka)
+2026-03-30 21:30:26,769 - basicLogger - INFO - Response for event add_lap (id: d0701b7e-51d7-4c24-bd68-17e4d708ccb0) has status 201 (via Kafka)
+2026-03-30 21:30:26,772 - basicLogger - INFO - Received event add_lap with a trace id of ce04c26a-1473-4c24-9c03-6fae3f0f5271
+2026-03-30 21:30:26,775 - basicLogger - INFO - Response for event add_lap (id: 8a42107d-7a70-4cb7-bcd5-0da52815a73e) has status 201 (via Kafka)
+2026-03-30 21:30:26,777 - basicLogger - INFO - Response for event add_lap (id: 8a42107d-7a70-4cb7-bcd5-0da52815a73e) has status 201 (via Kafka)
+2026-03-30 21:30:26,780 - basicLogger - INFO - Received event add_lap with a trace id of 0701e7a1-962e-4d6b-9352-70efaef6d2be
+2026-03-30 21:30:26,784 - basicLogger - INFO - Response for event add_lap (id: 9663605c-8ead-49be-a3cf-cc894428f801) has status 201 (via Kafka)
+2026-03-30 21:30:26,786 - basicLogger - INFO - Response for event add_lap (id: 9663605c-8ead-49be-a3cf-cc894428f801) has status 201 (via Kafka)
+2026-03-30 21:30:26,789 - basicLogger - INFO - Received event add_lap with a trace id of 0b4034ed-88d6-4dfa-8baf-22c02d528e43
+2026-03-30 21:30:26,793 - basicLogger - INFO - Response for event add_lap (id: 3d43cd88-8dbd-4d1a-89c9-3b23cbadc0c2) has status 201 (via Kafka)
+2026-03-30 21:30:26,795 - basicLogger - INFO - Response for event add_lap (id: 3d43cd88-8dbd-4d1a-89c9-3b23cbadc0c2) has status 201 (via Kafka)
+2026-03-30 21:30:26,798 - basicLogger - INFO - Received event add_lap with a trace id of 792a3e1a-f872-4131-bdad-a1f385d853e8
+2026-03-30 21:30:26,802 - basicLogger - INFO - Response for event add_lap (id: 95f81a6a-456c-4cb0-84a2-dbf77fcba226) has status 201 (via Kafka)
+2026-03-30 21:30:26,804 - basicLogger - INFO - Response for event add_lap (id: 95f81a6a-456c-4cb0-84a2-dbf77fcba226) has status 201 (via Kafka)
+2026-03-30 21:30:26,807 - basicLogger - INFO - Received event add_lap with a trace id of e4a5643d-53d8-4e5a-ae5d-529a7dd9b29d
+2026-03-30 21:30:26,810 - basicLogger - INFO - Response for event add_lap (id: 60b8f152-c9fe-4632-a935-9951a64755be) has status 201 (via Kafka)
+2026-03-30 21:30:26,814 - basicLogger - INFO - Response for event add_lap (id: 60b8f152-c9fe-4632-a935-9951a64755be) has status 201 (via Kafka)
+2026-03-30 21:30:26,819 - basicLogger - INFO - Received event add_lap with a trace id of 4ab36fc1-a58c-4003-9271-ef5762be9a0d
+2026-03-30 21:30:26,823 - basicLogger - INFO - Response for event add_lap (id: a0da9b3c-bfcb-4ac7-9664-ce8d227120ae) has status 201 (via Kafka)
+2026-03-30 21:30:26,825 - basicLogger - INFO - Response for event add_lap (id: a0da9b3c-bfcb-4ac7-9664-ce8d227120ae) has status 201 (via Kafka)
+2026-03-30 21:30:26,829 - basicLogger - INFO - Received event add_lap with a trace id of eea4b2e6-e8a0-4650-825b-44859373c269
+2026-03-30 21:30:26,832 - basicLogger - INFO - Response for event add_lap (id: 9f68917d-ef16-40f0-8d74-05a574365d99) has status 201 (via Kafka)
+2026-03-30 21:30:26,835 - basicLogger - INFO - Response for event add_lap (id: 9f68917d-ef16-40f0-8d74-05a574365d99) has status 201 (via Kafka)
+2026-03-30 21:30:26,838 - basicLogger - INFO - Received event add_lap with a trace id of 88d59a2e-f41d-47bf-ad63-3965d870badb
+2026-03-30 21:30:26,841 - basicLogger - INFO - Response for event add_lap (id: 621f9ada-1161-44cf-929c-1be07af931dd) has status 201 (via Kafka)
+2026-03-30 21:30:26,844 - basicLogger - INFO - Response for event add_lap (id: 621f9ada-1161-44cf-929c-1be07af931dd) has status 201 (via Kafka)
+2026-03-30 21:30:26,847 - basicLogger - INFO - Received event add_lap with a trace id of a3154c67-89e5-4aa2-a21c-e63401626c0f
+2026-03-30 21:30:26,850 - basicLogger - INFO - Response for event add_lap (id: 4aa0130b-b48b-40e5-b4d6-8abd3e5b477b) has status 201 (via Kafka)
+2026-03-30 21:30:26,853 - basicLogger - INFO - Response for event add_lap (id: 4aa0130b-b48b-40e5-b4d6-8abd3e5b477b) has status 201 (via Kafka)
+2026-03-30 21:30:26,856 - basicLogger - INFO - Received event add_lap with a trace id of 310dc6a5-1af9-4901-84dc-05f04c35d960
+2026-03-30 21:30:26,859 - basicLogger - INFO - Response for event add_lap (id: f494a27c-53f2-40d4-834d-5cf5d5230721) has status 201 (via Kafka)
+2026-03-30 21:30:26,861 - basicLogger - INFO - Response for event add_lap (id: f494a27c-53f2-40d4-834d-5cf5d5230721) has status 201 (via Kafka)
+2026-03-30 21:30:26,865 - basicLogger - INFO - Received event add_lap with a trace id of dd64e3b2-7dab-4a98-b02b-810760bdd78f
+2026-03-30 21:30:26,867 - basicLogger - INFO - Response for event add_lap (id: 5d98b79b-0a8f-4fe0-9f92-6838d3185390) has status 201 (via Kafka)
+2026-03-30 21:30:26,869 - basicLogger - INFO - Response for event add_lap (id: 5d98b79b-0a8f-4fe0-9f92-6838d3185390) has status 201 (via Kafka)
+2026-03-30 21:30:26,873 - basicLogger - INFO - Received event add_lap with a trace id of e5600c5b-4a58-4240-8e5a-49e64acf20da
+2026-03-30 21:30:26,876 - basicLogger - INFO - Response for event add_lap (id: fbfc8015-8bfe-44e5-a523-85ae41fed45e) has status 201 (via Kafka)
+2026-03-30 21:30:26,878 - basicLogger - INFO - Response for event add_lap (id: fbfc8015-8bfe-44e5-a523-85ae41fed45e) has status 201 (via Kafka)
+2026-03-30 21:30:26,882 - basicLogger - INFO - Received event add_lap with a trace id of 27e7f783-7809-4f7f-8953-613a3d779e30
+2026-03-30 21:30:26,885 - basicLogger - INFO - Response for event add_lap (id: 84ad14da-bf0d-4fa7-ac21-91518d44c349) has status 201 (via Kafka)
+2026-03-30 21:30:26,888 - basicLogger - INFO - Response for event add_lap (id: 84ad14da-bf0d-4fa7-ac21-91518d44c349) has status 201 (via Kafka)
+2026-03-30 21:30:26,895 - basicLogger - INFO - Received event add_lap with a trace id of ab148173-0498-44f9-a637-8383ad979169
+2026-03-30 21:30:26,899 - basicLogger - INFO - Response for event add_lap (id: a92a6eaf-c725-4c2b-8001-504d764bf0f4) has status 201 (via Kafka)
+2026-03-30 21:30:26,902 - basicLogger - INFO - Response for event add_lap (id: a92a6eaf-c725-4c2b-8001-504d764bf0f4) has status 201 (via Kafka)
+2026-03-30 21:30:26,905 - basicLogger - INFO - Received event add_lap with a trace id of 793fbe85-4d45-4fe6-b799-914bada4e77e
+2026-03-30 21:30:26,908 - basicLogger - INFO - Response for event add_lap (id: 2cc70eab-d3cd-4e34-88c1-ba1af9b1aaa3) has status 201 (via Kafka)
+2026-03-30 21:30:26,910 - basicLogger - INFO - Response for event add_lap (id: 2cc70eab-d3cd-4e34-88c1-ba1af9b1aaa3) has status 201 (via Kafka)
+2026-03-30 21:30:26,913 - basicLogger - INFO - Received event add_lap with a trace id of 43302fe4-5531-40c3-a36f-db6c1080203e
+2026-03-30 21:30:26,916 - basicLogger - INFO - Response for event add_lap (id: dd56882a-77f0-41b1-adf4-be9f7796e72c) has status 201 (via Kafka)
+2026-03-30 21:30:26,919 - basicLogger - INFO - Response for event add_lap (id: dd56882a-77f0-41b1-adf4-be9f7796e72c) has status 201 (via Kafka)
+2026-03-30 21:30:26,922 - basicLogger - INFO - Received event add_lap with a trace id of 73829f1a-c7ac-4741-b6f0-5bcba7ae8674
+2026-03-30 21:30:26,924 - basicLogger - INFO - Response for event add_lap (id: a0c83fb8-0c29-4263-a76f-d2d3a3616b31) has status 201 (via Kafka)
+2026-03-30 21:30:26,927 - basicLogger - INFO - Response for event add_lap (id: a0c83fb8-0c29-4263-a76f-d2d3a3616b31) has status 201 (via Kafka)
+2026-03-30 21:30:26,929 - basicLogger - INFO - Received event add_lap with a trace id of 6b8995d0-a36a-4153-9cd2-a1563c1fdb6d
+2026-03-30 21:30:26,932 - basicLogger - INFO - Response for event add_lap (id: 4a7c43f1-7aa1-43b9-a486-3db57a2b1ee4) has status 201 (via Kafka)
+2026-03-30 21:30:26,935 - basicLogger - INFO - Response for event add_lap (id: 4a7c43f1-7aa1-43b9-a486-3db57a2b1ee4) has status 201 (via Kafka)
+2026-03-30 21:30:26,939 - basicLogger - INFO - Received event add_lap with a trace id of 6f8e8976-cbd1-46d6-94b0-52f3719df636
+2026-03-30 21:30:26,942 - basicLogger - INFO - Response for event add_lap (id: 695df87a-89b4-4ffd-af9c-a244e2ce71a7) has status 201 (via Kafka)
+2026-03-30 21:30:26,945 - basicLogger - INFO - Response for event add_lap (id: 695df87a-89b4-4ffd-af9c-a244e2ce71a7) has status 201 (via Kafka)
+2026-03-30 21:30:26,949 - basicLogger - INFO - Received event add_lap with a trace id of e4c5889a-22d5-404b-b4ec-19d522a34aea
+2026-03-30 21:30:26,951 - basicLogger - INFO - Response for event add_lap (id: b99948f2-3759-4067-b20e-edf2fb37b77e) has status 201 (via Kafka)
+2026-03-30 21:30:26,953 - basicLogger - INFO - Response for event add_lap (id: b99948f2-3759-4067-b20e-edf2fb37b77e) has status 201 (via Kafka)
+2026-03-30 21:30:26,956 - basicLogger - INFO - Received event add_lap with a trace id of b8b5ecd1-293c-41a3-9405-e9748fd8eeb4
+2026-03-30 21:30:26,959 - basicLogger - INFO - Response for event add_lap (id: 572e660b-6d57-4689-b40d-93f21ee807a9) has status 201 (via Kafka)
+2026-03-30 21:30:26,961 - basicLogger - INFO - Response for event add_lap (id: 572e660b-6d57-4689-b40d-93f21ee807a9) has status 201 (via Kafka)
+2026-03-30 21:30:26,964 - basicLogger - INFO - Received event add_lap with a trace id of faafa4a6-0587-4fdf-be31-c266d4d5647f
+2026-03-30 21:30:26,968 - basicLogger - INFO - Response for event add_lap (id: 338e43a4-3348-48b1-aba7-2a19afd686e8) has status 201 (via Kafka)
+2026-03-30 21:30:26,971 - basicLogger - INFO - Response for event add_lap (id: 338e43a4-3348-48b1-aba7-2a19afd686e8) has status 201 (via Kafka)
+2026-03-30 21:30:26,974 - basicLogger - INFO - Received event add_lap with a trace id of fcb74256-94d1-4245-be4a-cf0e51486c46
+2026-03-30 21:30:26,978 - basicLogger - INFO - Response for event add_lap (id: 8a408a1c-e81b-482a-8edf-84f76ae6dd34) has status 201 (via Kafka)
+2026-03-30 21:30:26,982 - basicLogger - INFO - Response for event add_lap (id: 8a408a1c-e81b-482a-8edf-84f76ae6dd34) has status 201 (via Kafka)
+2026-03-30 21:30:26,985 - basicLogger - INFO - Received event add_sector with a trace id of 333dcf8f-e681-4d60-a69c-1bf04476c799
+2026-03-30 21:30:26,988 - basicLogger - INFO - Response for event add_sector (id: edbb2079-23f8-405a-b930-8d2075f93c61) has status 201 (via Kafka)
+2026-03-30 21:30:26,991 - basicLogger - INFO - Response for event add_sector (id: edbb2079-23f8-405a-b930-8d2075f93c61) has status 201 (via Kafka)
+2026-03-30 21:30:26,995 - basicLogger - INFO - Received event add_sector with a trace id of be011cf0-b367-45bc-9633-eb0ed6e5e9c7
+2026-03-30 21:30:26,999 - basicLogger - INFO - Response for event add_sector (id: 19616e3e-093a-4af3-bc80-be022fd37da3) has status 201 (via Kafka)
+2026-03-30 21:30:27,002 - basicLogger - INFO - Response for event add_sector (id: 19616e3e-093a-4af3-bc80-be022fd37da3) has status 201 (via Kafka)
+2026-03-30 21:30:27,005 - basicLogger - INFO - Received event add_sector with a trace id of feb3cbcf-e5d7-4282-a68d-7a12eb4cea30
+2026-03-30 21:30:27,009 - basicLogger - INFO - Response for event add_sector (id: 764d4f22-998c-431e-a8a3-50f9e3c88b03) has status 201 (via Kafka)
+2026-03-30 21:30:27,014 - basicLogger - INFO - Response for event add_sector (id: 764d4f22-998c-431e-a8a3-50f9e3c88b03) has status 201 (via Kafka)
+2026-03-30 21:30:27,017 - basicLogger - INFO - Received event add_sector with a trace id of c983594b-b0ea-4d96-93cb-703104baec29
+2026-03-30 21:30:27,021 - basicLogger - INFO - Response for event add_sector (id: d41430e2-6bc6-4fbc-8dbc-087beebda59f) has status 201 (via Kafka)
+2026-03-30 21:30:27,023 - basicLogger - INFO - Response for event add_sector (id: d41430e2-6bc6-4fbc-8dbc-087beebda59f) has status 201 (via Kafka)
+2026-03-30 21:30:27,026 - basicLogger - INFO - Received event add_sector with a trace id of 5a6fd39e-137f-4beb-a265-e29129a6ec33
+2026-03-30 21:30:27,028 - basicLogger - INFO - Response for event add_sector (id: 20469c2b-611f-4b4e-b037-5bfff087280b) has status 201 (via Kafka)
+2026-03-30 21:30:27,031 - basicLogger - INFO - Response for event add_sector (id: 20469c2b-611f-4b4e-b037-5bfff087280b) has status 201 (via Kafka)
+2026-03-30 21:30:27,033 - basicLogger - INFO - Received event add_sector with a trace id of 6ce2b830-4909-48d5-b833-8b8e0554b7eb
+2026-03-30 21:30:27,036 - basicLogger - INFO - Response for event add_sector (id: 602189cc-64c6-40b4-9c5b-ee1ea9a85995) has status 201 (via Kafka)
+2026-03-30 21:30:27,039 - basicLogger - INFO - Response for event add_sector (id: 602189cc-64c6-40b4-9c5b-ee1ea9a85995) has status 201 (via Kafka)
+2026-03-30 21:30:27,043 - basicLogger - INFO - Received event add_sector with a trace id of 9aeffe3e-63b2-4b5c-ba79-feab6ecbb211
+2026-03-30 21:30:27,046 - basicLogger - INFO - Response for event add_sector (id: 4ca1019f-9537-4508-83d2-0261f4d9419f) has status 201 (via Kafka)
+2026-03-30 21:30:27,048 - basicLogger - INFO - Response for event add_sector (id: 4ca1019f-9537-4508-83d2-0261f4d9419f) has status 201 (via Kafka)
+2026-03-30 21:30:27,051 - basicLogger - INFO - Received event add_sector with a trace id of 58745b38-aa88-46ff-b0bf-89dd99f1fe61
+2026-03-30 21:30:27,054 - basicLogger - INFO - Response for event add_sector (id: 9fc2a09e-5169-45dd-8654-f8f253ad1357) has status 201 (via Kafka)
+2026-03-30 21:30:27,056 - basicLogger - INFO - Response for event add_sector (id: 9fc2a09e-5169-45dd-8654-f8f253ad1357) has status 201 (via Kafka)
+2026-03-30 21:30:27,061 - basicLogger - INFO - Received event add_sector with a trace id of b7af73c9-6229-4dac-bdda-edf767cbde22
+2026-03-30 21:30:27,064 - basicLogger - INFO - Response for event add_sector (id: d603b023-34a3-4071-a641-689bc735897b) has status 201 (via Kafka)
+2026-03-30 21:30:27,066 - basicLogger - INFO - Response for event add_sector (id: d603b023-34a3-4071-a641-689bc735897b) has status 201 (via Kafka)
+2026-03-30 21:30:27,069 - basicLogger - INFO - Received event add_sector with a trace id of 3ec837a6-f606-4fd6-bf46-7b5fb2983181
+2026-03-30 21:30:27,072 - basicLogger - INFO - Response for event add_sector (id: 2573c27a-bfeb-4700-9417-a514e6159a4f) has status 201 (via Kafka)
+2026-03-30 21:30:27,074 - basicLogger - INFO - Response for event add_sector (id: 2573c27a-bfeb-4700-9417-a514e6159a4f) has status 201 (via Kafka)
+2026-03-30 21:30:27,077 - basicLogger - INFO - Received event add_sector with a trace id of a748e7b4-5646-4fba-8b1d-b2362e764c80
+2026-03-30 21:30:27,080 - basicLogger - INFO - Response for event add_sector (id: cb23b132-eec8-412e-8231-99477ea052e5) has status 201 (via Kafka)
+2026-03-30 21:30:27,082 - basicLogger - INFO - Response for event add_sector (id: cb23b132-eec8-412e-8231-99477ea052e5) has status 201 (via Kafka)
+2026-03-30 21:30:27,085 - basicLogger - INFO - Received event add_sector with a trace id of 31848c7e-0588-42d0-9eac-c36bda3050f2
+2026-03-30 21:30:27,087 - basicLogger - INFO - Response for event add_sector (id: a6b1980d-8a38-418d-8a68-2dcae552eb95) has status 201 (via Kafka)
+2026-03-30 21:30:27,090 - basicLogger - INFO - Response for event add_sector (id: a6b1980d-8a38-418d-8a68-2dcae552eb95) has status 201 (via Kafka)
+2026-03-30 21:30:27,094 - basicLogger - INFO - Received event add_sector with a trace id of 0bb509f7-7ca0-4e89-aeae-58e552318aa6
+2026-03-30 21:30:27,097 - basicLogger - INFO - Response for event add_sector (id: 2538c430-838b-4838-a057-6762d06ff044) has status 201 (via Kafka)
+2026-03-30 21:30:27,099 - basicLogger - INFO - Response for event add_sector (id: 2538c430-838b-4838-a057-6762d06ff044) has status 201 (via Kafka)
+2026-03-30 21:30:27,102 - basicLogger - INFO - Received event add_sector with a trace id of 8114d4f9-6832-4f64-b4a5-d494488e0de3
+2026-03-30 21:30:27,105 - basicLogger - INFO - Response for event add_sector (id: 7391404c-9c78-4203-8ced-1a39c10ad47f) has status 201 (via Kafka)
+2026-03-30 21:30:27,107 - basicLogger - INFO - Response for event add_sector (id: 7391404c-9c78-4203-8ced-1a39c10ad47f) has status 201 (via Kafka)
+2026-03-30 21:30:27,110 - basicLogger - INFO - Received event add_sector with a trace id of 6a313c21-fb0e-4699-92ca-600d471bb1f1
+2026-03-30 21:30:27,113 - basicLogger - INFO - Response for event add_sector (id: 966aca4d-3976-4c16-9948-3ede878034d7) has status 201 (via Kafka)
+2026-03-30 21:30:27,115 - basicLogger - INFO - Response for event add_sector (id: 966aca4d-3976-4c16-9948-3ede878034d7) has status 201 (via Kafka)
+2026-03-30 21:30:27,118 - basicLogger - INFO - Received event add_sector with a trace id of 71fa4b87-da18-4ebf-8866-8aa574383e2e
+2026-03-30 21:30:27,121 - basicLogger - INFO - Response for event add_sector (id: 3f46fc21-8124-43e9-98d2-232859acfd8c) has status 201 (via Kafka)
+2026-03-30 21:30:27,123 - basicLogger - INFO - Response for event add_sector (id: 3f46fc21-8124-43e9-98d2-232859acfd8c) has status 201 (via Kafka)
+2026-03-30 21:30:27,126 - basicLogger - INFO - Received event add_sector with a trace id of 3e8ea4a7-00c6-477c-93ec-4796ba20e2ec
+2026-03-30 21:30:27,128 - basicLogger - INFO - Response for event add_sector (id: c014094e-0691-4d5c-be2b-9b71318fcba7) has status 201 (via Kafka)
+2026-03-30 21:30:27,131 - basicLogger - INFO - Response for event add_sector (id: c014094e-0691-4d5c-be2b-9b71318fcba7) has status 201 (via Kafka)
+2026-03-30 21:30:27,133 - basicLogger - INFO - Received event add_sector with a trace id of 876c46fd-ecfc-47a4-b988-592724519971
+2026-03-30 21:30:27,136 - basicLogger - INFO - Response for event add_sector (id: 05d964e5-5b53-4e1a-aedd-92457e7b4032) has status 201 (via Kafka)
+2026-03-30 21:30:27,138 - basicLogger - INFO - Response for event add_sector (id: 05d964e5-5b53-4e1a-aedd-92457e7b4032) has status 201 (via Kafka)
+2026-03-30 21:30:27,141 - basicLogger - INFO - Received event add_sector with a trace id of 5582c4c0-43f0-4247-84e3-a9ba27768638
+2026-03-30 21:30:27,143 - basicLogger - INFO - Response for event add_sector (id: 7d04f3b1-ff08-4e89-b7aa-c458e563d7f6) has status 201 (via Kafka)
+2026-03-30 21:30:27,145 - basicLogger - INFO - Response for event add_sector (id: 7d04f3b1-ff08-4e89-b7aa-c458e563d7f6) has status 201 (via Kafka)
+2026-03-30 21:30:27,148 - basicLogger - INFO - Received event add_sector with a trace id of aa2c1c19-a15a-427c-9bbb-d76e1263ede1
+2026-03-30 21:30:27,152 - basicLogger - INFO - Response for event add_sector (id: a9fb59ab-fb0b-4331-b256-e2309cc3599a) has status 201 (via Kafka)
+2026-03-30 21:30:27,154 - basicLogger - INFO - Response for event add_sector (id: a9fb59ab-fb0b-4331-b256-e2309cc3599a) has status 201 (via Kafka)
+2026-03-30 21:30:27,156 - basicLogger - INFO - Received event add_sector with a trace id of 4d3f36c9-e9ec-4f90-b6fc-cf2cf0f862fa
+2026-03-30 21:30:27,159 - basicLogger - INFO - Response for event add_sector (id: 9d63b446-7084-4811-bcaa-7936cc689569) has status 201 (via Kafka)
+2026-03-30 21:30:27,161 - basicLogger - INFO - Response for event add_sector (id: 9d63b446-7084-4811-bcaa-7936cc689569) has status 201 (via Kafka)
+2026-03-30 21:30:27,163 - basicLogger - INFO - Received event add_sector with a trace id of c05e4384-3b17-415f-b0c0-6b4ce42959cc
+2026-03-30 21:30:27,166 - basicLogger - INFO - Response for event add_sector (id: 3078403b-b03f-4fa2-b6d2-85e25e1f6b2c) has status 201 (via Kafka)
+2026-03-30 21:30:27,168 - basicLogger - INFO - Response for event add_sector (id: 3078403b-b03f-4fa2-b6d2-85e25e1f6b2c) has status 201 (via Kafka)
+2026-03-30 21:30:27,171 - basicLogger - INFO - Received event add_sector with a trace id of 56a9aee0-9ded-4737-9c7f-58cad5778c7f
+2026-03-30 21:30:27,173 - basicLogger - INFO - Response for event add_sector (id: 386505cc-ebe1-4a43-897f-2a3022b839d1) has status 201 (via Kafka)
+2026-03-30 21:30:27,175 - basicLogger - INFO - Response for event add_sector (id: 386505cc-ebe1-4a43-897f-2a3022b839d1) has status 201 (via Kafka)
+2026-03-30 21:30:27,178 - basicLogger - INFO - Received event add_sector with a trace id of 43b4b579-1fa0-4abe-ade3-66285f4eab7d
+2026-03-30 21:30:27,180 - basicLogger - INFO - Response for event add_sector (id: fa6012bb-abf2-4871-8593-e45ecb88fc8f) has status 201 (via Kafka)
+2026-03-30 21:30:27,182 - basicLogger - INFO - Response for event add_sector (id: fa6012bb-abf2-4871-8593-e45ecb88fc8f) has status 201 (via Kafka)
+2026-03-30 21:30:27,185 - basicLogger - INFO - Received event add_sector with a trace id of 94c432fb-052a-4062-ad91-3a965d0f0a69
+2026-03-30 21:30:27,188 - basicLogger - INFO - Response for event add_sector (id: aa38fde1-7714-47eb-a074-730ed17c660e) has status 201 (via Kafka)
+2026-03-30 21:30:27,190 - basicLogger - INFO - Response for event add_sector (id: aa38fde1-7714-47eb-a074-730ed17c660e) has status 201 (via Kafka)
+2026-03-30 21:30:27,193 - basicLogger - INFO - Received event add_sector with a trace id of ce8eafca-d804-4aa2-8d0a-aeb85b731881
+2026-03-30 21:30:27,195 - basicLogger - INFO - Response for event add_sector (id: e7ce9021-147b-4bba-9fb7-fd7083abaa8c) has status 201 (via Kafka)
+2026-03-30 21:30:27,198 - basicLogger - INFO - Response for event add_sector (id: e7ce9021-147b-4bba-9fb7-fd7083abaa8c) has status 201 (via Kafka)
+2026-03-30 21:30:27,201 - basicLogger - INFO - Received event add_sector with a trace id of 2ca500f9-f8b7-449d-bdea-49704fa6f611
+2026-03-30 21:30:27,203 - basicLogger - INFO - Response for event add_sector (id: d98b0b63-c9c2-4e62-bd43-f36cb19eb8c8) has status 201 (via Kafka)
+2026-03-30 21:30:27,205 - basicLogger - INFO - Response for event add_sector (id: d98b0b63-c9c2-4e62-bd43-f36cb19eb8c8) has status 201 (via Kafka)
+2026-03-30 21:30:27,208 - basicLogger - INFO - Received event add_sector with a trace id of 91a362da-383c-4ab1-80ea-532b05a6c815
+2026-03-30 21:30:27,211 - basicLogger - INFO - Response for event add_sector (id: 07109f49-4ab7-438d-b715-c9d593fdb984) has status 201 (via Kafka)
+2026-03-30 21:30:27,213 - basicLogger - INFO - Response for event add_sector (id: 07109f49-4ab7-438d-b715-c9d593fdb984) has status 201 (via Kafka)
+2026-03-30 21:30:27,216 - basicLogger - INFO - Received event add_sector with a trace id of a1ddcb8e-56a7-4b1f-b520-ea79af514caa
+2026-03-30 21:30:27,218 - basicLogger - INFO - Response for event add_sector (id: 58974bab-0d5b-4348-b7df-4b5b542f3ddc) has status 201 (via Kafka)
+2026-03-30 21:30:27,220 - basicLogger - INFO - Response for event add_sector (id: 58974bab-0d5b-4348-b7df-4b5b542f3ddc) has status 201 (via Kafka)
+2026-03-30 21:30:27,223 - basicLogger - INFO - Received event add_sector with a trace id of ba5218ce-6f60-45e3-bb1a-006bbd1bb1b1
+2026-03-30 21:30:27,225 - basicLogger - INFO - Response for event add_sector (id: 97053cdb-d38e-4c10-b628-cb885cf32850) has status 201 (via Kafka)
+2026-03-30 21:30:27,228 - basicLogger - INFO - Response for event add_sector (id: 97053cdb-d38e-4c10-b628-cb885cf32850) has status 201 (via Kafka)
+2026-03-30 21:30:27,230 - basicLogger - INFO - Received event add_sector with a trace id of 5de58d1b-eef7-4e83-a696-47f723bfeadc
+2026-03-30 21:30:27,233 - basicLogger - INFO - Response for event add_sector (id: 0781de95-c05c-4507-8df9-7f0f75294600) has status 201 (via Kafka)
+2026-03-30 21:30:27,235 - basicLogger - INFO - Response for event add_sector (id: 0781de95-c05c-4507-8df9-7f0f75294600) has status 201 (via Kafka)
+2026-03-30 21:30:27,237 - basicLogger - INFO - Received event add_sector with a trace id of f75fd83a-1d0a-44f8-a37c-ac006746f7c0
+2026-03-30 21:30:27,240 - basicLogger - INFO - Response for event add_sector (id: 181f3b00-b46f-40d1-8bfd-27e2e94b8b8e) has status 201 (via Kafka)
+2026-03-30 21:30:27,242 - basicLogger - INFO - Response for event add_sector (id: 181f3b00-b46f-40d1-8bfd-27e2e94b8b8e) has status 201 (via Kafka)
+2026-03-30 21:30:27,245 - basicLogger - INFO - Received event add_sector with a trace id of e91f6669-ee24-439d-bb05-9d624ef193ba
+2026-03-30 21:30:27,247 - basicLogger - INFO - Response for event add_sector (id: 56443424-3c8f-4755-b744-2b5d32085d5b) has status 201 (via Kafka)
+2026-03-30 21:30:27,250 - basicLogger - INFO - Response for event add_sector (id: 56443424-3c8f-4755-b744-2b5d32085d5b) has status 201 (via Kafka)
+2026-03-30 21:30:27,253 - basicLogger - INFO - Received event add_sector with a trace id of 06f2c650-b937-4ef4-a504-641162027554
+2026-03-30 21:30:27,256 - basicLogger - INFO - Response for event add_sector (id: 9070ad9f-2ea4-4240-8230-756b163af1ed) has status 201 (via Kafka)
+2026-03-30 21:30:27,259 - basicLogger - INFO - Response for event add_sector (id: 9070ad9f-2ea4-4240-8230-756b163af1ed) has status 201 (via Kafka)
+2026-03-30 21:30:27,261 - basicLogger - INFO - Received event add_sector with a trace id of 55e12bad-bd08-452d-a0b1-a8d3c1db9a61
+2026-03-30 21:30:27,264 - basicLogger - INFO - Response for event add_sector (id: 2ffdfa50-18a3-4147-93c9-01597ba0e455) has status 201 (via Kafka)
+2026-03-30 21:30:27,266 - basicLogger - INFO - Response for event add_sector (id: 2ffdfa50-18a3-4147-93c9-01597ba0e455) has status 201 (via Kafka)
+2026-03-30 21:30:27,269 - basicLogger - INFO - Received event add_sector with a trace id of 97b21397-6ada-462e-8b4f-b5761eef0c7d
+2026-03-30 21:30:27,272 - basicLogger - INFO - Response for event add_sector (id: 76fbee52-b633-47d2-8d08-5c404962058a) has status 201 (via Kafka)
+2026-03-30 21:30:27,274 - basicLogger - INFO - Response for event add_sector (id: 76fbee52-b633-47d2-8d08-5c404962058a) has status 201 (via Kafka)
+2026-03-30 21:30:27,277 - basicLogger - INFO - Received event add_sector with a trace id of f7600d37-0cce-4340-be7a-ee6dae43b4cd
+2026-03-30 21:30:27,280 - basicLogger - INFO - Response for event add_sector (id: a92446e2-359a-45b0-bc18-7b32edaef244) has status 201 (via Kafka)
+2026-03-30 21:30:27,282 - basicLogger - INFO - Response for event add_sector (id: a92446e2-359a-45b0-bc18-7b32edaef244) has status 201 (via Kafka)
+2026-03-30 21:30:27,285 - basicLogger - INFO - Received event add_sector with a trace id of 43a1490e-a810-4cef-b990-3b3f4c9e36c9
+2026-03-30 21:30:27,288 - basicLogger - INFO - Response for event add_sector (id: 9f52f647-0e68-45f2-82e0-89c8721ed527) has status 201 (via Kafka)
+2026-03-30 21:30:27,291 - basicLogger - INFO - Response for event add_sector (id: 9f52f647-0e68-45f2-82e0-89c8721ed527) has status 201 (via Kafka)
+2026-03-30 21:30:27,294 - basicLogger - INFO - Received event add_sector with a trace id of ed3c2aac-b81a-4f11-b909-7e189eb44365
+2026-03-30 21:30:27,297 - basicLogger - INFO - Response for event add_sector (id: c4895391-cd2c-48c5-8a00-df732e12a9a3) has status 201 (via Kafka)
+2026-03-30 21:30:27,300 - basicLogger - INFO - Response for event add_sector (id: c4895391-cd2c-48c5-8a00-df732e12a9a3) has status 201 (via Kafka)
+2026-03-30 21:30:27,303 - basicLogger - INFO - Received event add_sector with a trace id of 1c306060-22d9-4c3f-b662-82dc7d14d3ea
+2026-03-30 21:30:27,305 - basicLogger - INFO - Response for event add_sector (id: b269fb32-96bb-4c3c-94b3-b7cf3d4269c2) has status 201 (via Kafka)
+2026-03-30 21:30:27,309 - basicLogger - INFO - Response for event add_sector (id: b269fb32-96bb-4c3c-94b3-b7cf3d4269c2) has status 201 (via Kafka)
+2026-03-30 21:30:27,312 - basicLogger - INFO - Received event add_sector with a trace id of c8809714-94a2-42f7-b5a2-8837214ebcf0
+2026-03-30 21:30:27,315 - basicLogger - INFO - Response for event add_sector (id: be617695-b456-4dfb-8180-08465c0caa95) has status 201 (via Kafka)
+2026-03-30 21:30:27,317 - basicLogger - INFO - Response for event add_sector (id: be617695-b456-4dfb-8180-08465c0caa95) has status 201 (via Kafka)
+2026-03-30 21:30:27,320 - basicLogger - INFO - Received event add_lap with a trace id of 0359714b-81c5-4c75-a5ab-24a5ead366a9
+2026-03-30 21:30:27,324 - basicLogger - INFO - Response for event add_lap (id: 0f63b40b-2669-4c78-94f7-072747c3042b) has status 201 (via Kafka)
+2026-03-30 21:30:27,328 - basicLogger - INFO - Response for event add_lap (id: 0f63b40b-2669-4c78-94f7-072747c3042b) has status 201 (via Kafka)
+2026-03-30 21:30:27,332 - basicLogger - INFO - Received event add_lap with a trace id of 9b83965f-3821-4722-a81a-dc66635b04a7
+2026-03-30 21:30:27,336 - basicLogger - INFO - Response for event add_lap (id: a3c7f41a-69b3-458f-8257-d3c6a4c773ed) has status 201 (via Kafka)
+2026-03-30 21:30:27,338 - basicLogger - INFO - Response for event add_lap (id: a3c7f41a-69b3-458f-8257-d3c6a4c773ed) has status 201 (via Kafka)
+2026-03-30 21:30:27,342 - basicLogger - INFO - Received event add_lap with a trace id of 2b16a273-0bb9-4e52-bbc0-0a566561ca46
+2026-03-30 21:30:27,345 - basicLogger - INFO - Response for event add_lap (id: 9083b867-a9c3-4c20-a805-1d7ce34c55fd) has status 201 (via Kafka)
+2026-03-30 21:30:27,348 - basicLogger - INFO - Response for event add_lap (id: 9083b867-a9c3-4c20-a805-1d7ce34c55fd) has status 201 (via Kafka)
+2026-03-30 21:30:27,351 - basicLogger - INFO - Received event add_lap with a trace id of a058ff55-eb10-4298-885a-5935c96bbd84
+2026-03-30 21:30:27,355 - basicLogger - INFO - Response for event add_lap (id: d989622a-c24d-4e10-8e90-43b4e0cdcfb4) has status 201 (via Kafka)
+2026-03-30 21:30:27,357 - basicLogger - INFO - Response for event add_lap (id: d989622a-c24d-4e10-8e90-43b4e0cdcfb4) has status 201 (via Kafka)
+2026-03-30 21:30:27,360 - basicLogger - INFO - Received event add_lap with a trace id of c2d7b8ed-13dc-485e-9686-1153f1ff3c1e
+2026-03-30 21:30:27,364 - basicLogger - INFO - Response for event add_lap (id: 987aee7c-a651-41a0-9429-7868b572971b) has status 201 (via Kafka)
+2026-03-30 21:30:27,366 - basicLogger - INFO - Response for event add_lap (id: 987aee7c-a651-41a0-9429-7868b572971b) has status 201 (via Kafka)
+2026-03-30 21:30:27,369 - basicLogger - INFO - Received event add_lap with a trace id of 8c7065f6-283d-497e-b7bd-526eea9b191a
+2026-03-30 21:30:27,373 - basicLogger - INFO - Response for event add_lap (id: ee7046f5-d1bd-474f-88af-e044f1826b54) has status 201 (via Kafka)
+2026-03-30 21:30:27,376 - basicLogger - INFO - Response for event add_lap (id: ee7046f5-d1bd-474f-88af-e044f1826b54) has status 201 (via Kafka)
+2026-03-30 21:30:27,379 - basicLogger - INFO - Received event add_lap with a trace id of dbd96fc6-fa05-44ff-bfce-ad9de4ee2a30
+2026-03-30 21:30:27,383 - basicLogger - INFO - Response for event add_lap (id: 524fd204-b8a6-48b3-a397-1718476d3b22) has status 201 (via Kafka)
+2026-03-30 21:30:27,386 - basicLogger - INFO - Response for event add_lap (id: 524fd204-b8a6-48b3-a397-1718476d3b22) has status 201 (via Kafka)
+2026-03-30 21:30:27,390 - basicLogger - INFO - Received event add_lap with a trace id of 1e076ed0-24fc-472e-92f4-10d2cbe48295
+2026-03-30 21:30:27,394 - basicLogger - INFO - Response for event add_lap (id: c102c9f2-e714-4b8d-82e6-eeade7fb88cd) has status 201 (via Kafka)
+2026-03-30 21:30:27,398 - basicLogger - INFO - Response for event add_lap (id: c102c9f2-e714-4b8d-82e6-eeade7fb88cd) has status 201 (via Kafka)
+2026-03-30 21:30:27,401 - basicLogger - INFO - Received event add_lap with a trace id of 162e493a-bda6-4fde-b1f9-e0cb87cedb31
+2026-03-30 21:30:27,405 - basicLogger - INFO - Response for event add_lap (id: e8501344-f798-4778-8b78-782e77916fc5) has status 201 (via Kafka)
+2026-03-30 21:30:27,407 - basicLogger - INFO - Response for event add_lap (id: e8501344-f798-4778-8b78-782e77916fc5) has status 201 (via Kafka)
+2026-03-30 21:30:27,410 - basicLogger - INFO - Received event add_lap with a trace id of 0b35d9db-2762-4627-bb22-f44423c7c751
+2026-03-30 21:30:27,413 - basicLogger - INFO - Response for event add_lap (id: 48713ab6-bbab-4cc9-9e17-a883bb025c02) has status 201 (via Kafka)
+2026-03-30 21:30:27,415 - basicLogger - INFO - Response for event add_lap (id: 48713ab6-bbab-4cc9-9e17-a883bb025c02) has status 201 (via Kafka)
+2026-03-30 21:30:27,418 - basicLogger - INFO - Received event add_lap with a trace id of 44e95233-6921-4327-a98d-165634410d2d
+2026-03-30 21:30:27,421 - basicLogger - INFO - Response for event add_lap (id: fdf4b5c8-5293-4165-9e75-0ab9bc298b24) has status 201 (via Kafka)
+2026-03-30 21:30:27,423 - basicLogger - INFO - Response for event add_lap (id: fdf4b5c8-5293-4165-9e75-0ab9bc298b24) has status 201 (via Kafka)
+2026-03-30 21:30:27,426 - basicLogger - INFO - Received event add_lap with a trace id of b319b49c-9311-4e61-b982-6b6242faf22a
+2026-03-30 21:30:27,429 - basicLogger - INFO - Response for event add_lap (id: 74642cbf-86a0-4aa0-b2e1-8e989b52bda0) has status 201 (via Kafka)
+2026-03-30 21:30:27,431 - basicLogger - INFO - Response for event add_lap (id: 74642cbf-86a0-4aa0-b2e1-8e989b52bda0) has status 201 (via Kafka)
+2026-03-30 21:30:27,435 - basicLogger - INFO - Received event add_lap with a trace id of f4a75462-b7ad-4175-8128-d6afce740fa9
+2026-03-30 21:30:27,437 - basicLogger - INFO - Response for event add_lap (id: f1b4638d-06ad-40d7-8dd4-dd15f5668ea7) has status 201 (via Kafka)
+2026-03-30 21:30:27,439 - basicLogger - INFO - Response for event add_lap (id: f1b4638d-06ad-40d7-8dd4-dd15f5668ea7) has status 201 (via Kafka)
+2026-03-30 21:30:27,442 - basicLogger - INFO - Received event add_lap with a trace id of 8812984f-09e6-4f4c-ab88-a45877603eca
+2026-03-30 21:30:27,445 - basicLogger - INFO - Response for event add_lap (id: 3043fba0-df5a-4e19-ad44-ca5c49876d4b) has status 201 (via Kafka)
+2026-03-30 21:30:27,447 - basicLogger - INFO - Response for event add_lap (id: 3043fba0-df5a-4e19-ad44-ca5c49876d4b) has status 201 (via Kafka)
+2026-03-30 21:30:27,450 - basicLogger - INFO - Received event add_lap with a trace id of b0ed8491-7c68-42e4-8f62-6bc63bbc926e
+2026-03-30 21:30:27,453 - basicLogger - INFO - Response for event add_lap (id: 0ef8f002-51ab-46da-8ac6-34de6179f6d2) has status 201 (via Kafka)
+2026-03-30 21:30:27,455 - basicLogger - INFO - Response for event add_lap (id: 0ef8f002-51ab-46da-8ac6-34de6179f6d2) has status 201 (via Kafka)
+2026-03-30 21:30:27,459 - basicLogger - INFO - Received event add_lap with a trace id of a125f385-f7be-4adf-a098-f80f0c1933ff
+2026-03-30 21:30:27,461 - basicLogger - INFO - Response for event add_lap (id: 10270fb1-a858-414c-9456-8d27533fb120) has status 201 (via Kafka)
+2026-03-30 21:30:27,463 - basicLogger - INFO - Response for event add_lap (id: 10270fb1-a858-414c-9456-8d27533fb120) has status 201 (via Kafka)
+2026-03-30 21:30:27,470 - basicLogger - INFO - Received event add_lap with a trace id of 5eff96ab-a038-419d-9f86-81ac31c969a8
+2026-03-30 21:30:27,473 - basicLogger - INFO - Response for event add_lap (id: db11eb59-d853-4f57-b51e-efe9a4e2975b) has status 201 (via Kafka)
+2026-03-30 21:30:27,475 - basicLogger - INFO - Response for event add_lap (id: db11eb59-d853-4f57-b51e-efe9a4e2975b) has status 201 (via Kafka)
+2026-03-30 21:30:27,478 - basicLogger - INFO - Received event add_lap with a trace id of 69872d0d-914e-4177-bf16-3877c4ec6f1a
+2026-03-30 21:30:27,480 - basicLogger - INFO - Response for event add_lap (id: da769ca8-ee71-45b4-a30e-ee4bd391e746) has status 201 (via Kafka)
+2026-03-30 21:30:27,482 - basicLogger - INFO - Response for event add_lap (id: da769ca8-ee71-45b4-a30e-ee4bd391e746) has status 201 (via Kafka)
+2026-03-30 21:30:27,485 - basicLogger - INFO - Received event add_lap with a trace id of b8993579-c9a8-48d6-8443-cee8c95ca579
+2026-03-30 21:30:27,488 - basicLogger - INFO - Response for event add_lap (id: 826461f0-1916-43bd-8a42-efa67d852b63) has status 201 (via Kafka)
+2026-03-30 21:30:27,490 - basicLogger - INFO - Response for event add_lap (id: 826461f0-1916-43bd-8a42-efa67d852b63) has status 201 (via Kafka)
+2026-03-30 21:30:27,493 - basicLogger - INFO - Received event add_lap with a trace id of 9792b0ac-356a-4c81-9b83-e6034530ef7d
+2026-03-30 21:30:27,496 - basicLogger - INFO - Response for event add_lap (id: b3eed346-8e4d-4705-b3f8-7fed2e379d4b) has status 201 (via Kafka)
+2026-03-30 21:30:27,498 - basicLogger - INFO - Response for event add_lap (id: b3eed346-8e4d-4705-b3f8-7fed2e379d4b) has status 201 (via Kafka)
+2026-03-30 21:30:27,500 - basicLogger - INFO - Received event add_lap with a trace id of 85574c11-53f9-41d5-8c4e-a4becbe6c801
+2026-03-30 21:30:27,503 - basicLogger - INFO - Response for event add_lap (id: a81ba517-b56d-4cc2-b689-f739ed1fd431) has status 201 (via Kafka)
+2026-03-30 21:30:27,506 - basicLogger - INFO - Response for event add_lap (id: a81ba517-b56d-4cc2-b689-f739ed1fd431) has status 201 (via Kafka)
+2026-03-30 21:30:27,508 - basicLogger - INFO - Received event add_lap with a trace id of 9d56906f-e599-4f49-8ff3-b57eb5260272
+2026-03-30 21:30:27,511 - basicLogger - INFO - Response for event add_lap (id: 80378122-a21b-41d2-bd88-a8a52ef17bff) has status 201 (via Kafka)
+2026-03-30 21:30:27,513 - basicLogger - INFO - Response for event add_lap (id: 80378122-a21b-41d2-bd88-a8a52ef17bff) has status 201 (via Kafka)
+2026-03-30 21:30:27,516 - basicLogger - INFO - Received event add_lap with a trace id of af1d9a90-b5e3-4a5b-bd56-cc3c4926952b
+2026-03-30 21:30:27,519 - basicLogger - INFO - Response for event add_lap (id: 3fbaad9e-0f19-4a97-906b-a5800af4975a) has status 201 (via Kafka)
+2026-03-30 21:30:27,521 - basicLogger - INFO - Response for event add_lap (id: 3fbaad9e-0f19-4a97-906b-a5800af4975a) has status 201 (via Kafka)
+2026-03-30 21:30:27,523 - basicLogger - INFO - Received event add_lap with a trace id of 7bbafa2b-3dcd-475a-9bff-3673ebee6ba9
+2026-03-30 21:30:27,526 - basicLogger - INFO - Response for event add_lap (id: e16a50bd-dcd1-494c-bca7-03e141323692) has status 201 (via Kafka)
+2026-03-30 21:30:27,528 - basicLogger - INFO - Response for event add_lap (id: e16a50bd-dcd1-494c-bca7-03e141323692) has status 201 (via Kafka)
+2026-03-30 21:30:27,531 - basicLogger - INFO - Received event add_lap with a trace id of 94f49492-cca4-4fc5-b343-1728af545853
+2026-03-30 21:30:27,533 - basicLogger - INFO - Response for event add_lap (id: daf9a2de-ac0b-4a6c-a0a4-a34684061ec8) has status 201 (via Kafka)
+2026-03-30 21:30:27,535 - basicLogger - INFO - Response for event add_lap (id: daf9a2de-ac0b-4a6c-a0a4-a34684061ec8) has status 201 (via Kafka)
+2026-03-30 21:30:27,538 - basicLogger - INFO - Received event add_lap with a trace id of dbd3811b-8935-4a1a-b18a-c8322bdfbcef
+2026-03-30 21:30:27,541 - basicLogger - INFO - Response for event add_lap (id: 94f5d628-6f6c-4508-9e9d-de5e634976e4) has status 201 (via Kafka)
+2026-03-30 21:30:27,544 - basicLogger - INFO - Response for event add_lap (id: 94f5d628-6f6c-4508-9e9d-de5e634976e4) has status 201 (via Kafka)
+2026-03-30 21:30:27,547 - basicLogger - INFO - Received event add_lap with a trace id of 4707a810-a7df-409c-805d-864c645b710e
+2026-03-30 21:30:27,550 - basicLogger - INFO - Response for event add_lap (id: e6646e62-a879-478f-b89f-6189dd84f1fe) has status 201 (via Kafka)
+2026-03-30 21:30:27,553 - basicLogger - INFO - Response for event add_lap (id: e6646e62-a879-478f-b89f-6189dd84f1fe) has status 201 (via Kafka)
+2026-03-30 21:30:27,556 - basicLogger - INFO - Received event add_lap with a trace id of 3c0b28ae-685f-496d-b69a-21cf85a5d026
+2026-03-30 21:30:27,559 - basicLogger - INFO - Response for event add_lap (id: ce2a9a72-cd34-4413-a2aa-70304958df43) has status 201 (via Kafka)
+2026-03-30 21:30:27,561 - basicLogger - INFO - Response for event add_lap (id: ce2a9a72-cd34-4413-a2aa-70304958df43) has status 201 (via Kafka)
+2026-03-30 21:30:27,564 - basicLogger - INFO - Received event add_lap with a trace id of 7a7c22fd-5dab-452b-bc87-dd02ac71fb51
+2026-03-30 21:30:27,567 - basicLogger - INFO - Response for event add_lap (id: 0a127c8a-fe40-495d-9ff8-9e6e0802ae1e) has status 201 (via Kafka)
+2026-03-30 21:30:27,569 - basicLogger - INFO - Response for event add_lap (id: 0a127c8a-fe40-495d-9ff8-9e6e0802ae1e) has status 201 (via Kafka)
+2026-03-30 21:30:27,571 - basicLogger - INFO - Received event add_lap with a trace id of 752ed573-3ffd-4bf3-a91c-a2ecf932a567
+2026-03-30 21:30:27,574 - basicLogger - INFO - Response for event add_lap (id: 112baa05-6eaa-4853-bbe0-7a5ac2a817c0) has status 201 (via Kafka)
+2026-03-30 21:30:27,576 - basicLogger - INFO - Response for event add_lap (id: 112baa05-6eaa-4853-bbe0-7a5ac2a817c0) has status 201 (via Kafka)
+2026-03-30 21:30:27,579 - basicLogger - INFO - Received event add_lap with a trace id of 828baa7e-f7bb-49de-8a76-e5d7846dd892
+2026-03-30 21:30:27,582 - basicLogger - INFO - Response for event add_lap (id: d162a5ed-1e43-46ca-a21c-6e896f84fcd3) has status 201 (via Kafka)
+2026-03-30 21:30:27,584 - basicLogger - INFO - Response for event add_lap (id: d162a5ed-1e43-46ca-a21c-6e896f84fcd3) has status 201 (via Kafka)
+2026-03-30 21:30:27,588 - basicLogger - INFO - Received event add_lap with a trace id of f125f715-e51c-48e8-aaa3-183dd70a89e5
+2026-03-30 21:30:27,593 - basicLogger - INFO - Response for event add_lap (id: 02543516-ac70-4004-be94-5bc414130568) has status 201 (via Kafka)
+2026-03-30 21:30:27,595 - basicLogger - INFO - Response for event add_lap (id: 02543516-ac70-4004-be94-5bc414130568) has status 201 (via Kafka)
+2026-03-30 21:30:27,599 - basicLogger - INFO - Received event add_lap with a trace id of 4f02a116-95d9-4ab7-8e84-5dd7b832fcc3
+2026-03-30 21:30:27,602 - basicLogger - INFO - Response for event add_lap (id: e67284e8-8017-4741-9d14-18ea33ef4321) has status 201 (via Kafka)
+2026-03-30 21:30:27,605 - basicLogger - INFO - Response for event add_lap (id: e67284e8-8017-4741-9d14-18ea33ef4321) has status 201 (via Kafka)
+2026-03-30 21:30:27,608 - basicLogger - INFO - Received event add_lap with a trace id of 3623c467-7f2b-4d7f-b81d-760e13e22327
+2026-03-30 21:30:27,611 - basicLogger - INFO - Response for event add_lap (id: a4b965cb-ce15-4739-b5bc-3008d7a1138a) has status 201 (via Kafka)
+2026-03-30 21:30:27,613 - basicLogger - INFO - Response for event add_lap (id: a4b965cb-ce15-4739-b5bc-3008d7a1138a) has status 201 (via Kafka)
+2026-03-30 21:30:27,616 - basicLogger - INFO - Received event add_lap with a trace id of b6850fef-d0d9-4589-822e-2f2c38e9127c
+2026-03-30 21:30:27,619 - basicLogger - INFO - Response for event add_lap (id: a3d8183c-f7db-4e7a-ae80-ce18a60a1222) has status 201 (via Kafka)
+2026-03-30 21:30:27,621 - basicLogger - INFO - Response for event add_lap (id: a3d8183c-f7db-4e7a-ae80-ce18a60a1222) has status 201 (via Kafka)
+2026-03-30 21:30:27,625 - basicLogger - INFO - Received event add_lap with a trace id of 444339b2-0b24-485d-9630-f840d4202b4e
+2026-03-30 21:30:27,628 - basicLogger - INFO - Response for event add_lap (id: 8f713cb4-705c-4862-92a0-a14e38de1701) has status 201 (via Kafka)
+2026-03-30 21:30:27,630 - basicLogger - INFO - Response for event add_lap (id: 8f713cb4-705c-4862-92a0-a14e38de1701) has status 201 (via Kafka)
+2026-03-30 21:30:27,633 - basicLogger - INFO - Received event add_lap with a trace id of 4d868572-2b0a-42fa-b481-cee3e8f8c4fe
+2026-03-30 21:30:27,637 - basicLogger - INFO - Response for event add_lap (id: 26e4051b-e51e-4bef-b018-bb793eabcc3d) has status 201 (via Kafka)
+2026-03-30 21:30:27,640 - basicLogger - INFO - Response for event add_lap (id: 26e4051b-e51e-4bef-b018-bb793eabcc3d) has status 201 (via Kafka)
+2026-03-30 21:30:27,643 - basicLogger - INFO - Received event add_lap with a trace id of 8970f1a3-a36c-49d4-9b2d-54a2b6da1ec6
+2026-03-30 21:30:27,646 - basicLogger - INFO - Response for event add_lap (id: b269a25b-6d90-4c50-bba6-411f80389d5e) has status 201 (via Kafka)
+2026-03-30 21:30:27,649 - basicLogger - INFO - Response for event add_lap (id: b269a25b-6d90-4c50-bba6-411f80389d5e) has status 201 (via Kafka)
+2026-03-30 21:30:27,652 - basicLogger - INFO - Received event add_lap with a trace id of f8dff524-44a2-4a09-a317-b97eeed8c234
+2026-03-30 21:30:27,655 - basicLogger - INFO - Response for event add_lap (id: 83744b18-0149-4bf8-ba4c-8d6df2a4c413) has status 201 (via Kafka)
+2026-03-30 21:30:27,658 - basicLogger - INFO - Response for event add_lap (id: 83744b18-0149-4bf8-ba4c-8d6df2a4c413) has status 201 (via Kafka)
+2026-03-30 21:30:27,662 - basicLogger - INFO - Received event add_lap with a trace id of 09bf2aa4-54ac-4bcb-bfcb-0d2e12e24bea
+2026-03-30 21:30:27,666 - basicLogger - INFO - Response for event add_lap (id: a4fdfaad-00af-46aa-882d-07b668d8fd7c) has status 201 (via Kafka)
+2026-03-30 21:30:27,668 - basicLogger - INFO - Response for event add_lap (id: a4fdfaad-00af-46aa-882d-07b668d8fd7c) has status 201 (via Kafka)
+2026-03-30 21:30:27,673 - basicLogger - INFO - Received event add_lap with a trace id of 5f347656-a16b-4b53-a1f6-2778dff33f47
+2026-03-30 21:30:27,676 - basicLogger - INFO - Response for event add_lap (id: abf2e68e-8844-44ef-9b08-cfefea9b09f8) has status 201 (via Kafka)
+2026-03-30 21:30:27,679 - basicLogger - INFO - Response for event add_lap (id: abf2e68e-8844-44ef-9b08-cfefea9b09f8) has status 201 (via Kafka)
+2026-03-30 21:30:27,682 - basicLogger - INFO - Received event add_sector with a trace id of 213d6d94-4fc7-4db3-9acb-ac076f7a0351
+2026-03-30 21:30:27,685 - basicLogger - INFO - Response for event add_sector (id: ae2a771d-0a61-4ba9-aa89-da763b979f85) has status 201 (via Kafka)
+2026-03-30 21:30:27,688 - basicLogger - INFO - Response for event add_sector (id: ae2a771d-0a61-4ba9-aa89-da763b979f85) has status 201 (via Kafka)
+2026-03-30 21:30:27,691 - basicLogger - INFO - Received event add_sector with a trace id of 16f9e0a9-628a-47e2-97ba-fc2e03b3a4d4
+2026-03-30 21:30:27,697 - basicLogger - INFO - Response for event add_sector (id: 326a82a2-6f0c-4002-a458-8708216dc11b) has status 201 (via Kafka)
+2026-03-30 21:30:27,703 - basicLogger - INFO - Response for event add_sector (id: 326a82a2-6f0c-4002-a458-8708216dc11b) has status 201 (via Kafka)
+2026-03-30 21:30:27,709 - basicLogger - INFO - Received event add_sector with a trace id of 5814f52e-134f-4845-b43f-28501c6867e3
+2026-03-30 21:30:27,716 - basicLogger - INFO - Response for event add_sector (id: 4fabf26a-19b5-4000-b473-9b80e5b0c5be) has status 201 (via Kafka)
+2026-03-30 21:30:27,721 - basicLogger - INFO - Response for event add_sector (id: 4fabf26a-19b5-4000-b473-9b80e5b0c5be) has status 201 (via Kafka)
+2026-03-30 21:30:27,727 - basicLogger - INFO - Received event add_sector with a trace id of 93a5321c-752e-48cf-a424-7b0dd409e37c
+2026-03-30 21:30:27,731 - basicLogger - INFO - Response for event add_sector (id: 516fd986-76ad-4c15-be51-dd2a01e79dbf) has status 201 (via Kafka)
+2026-03-30 21:30:27,737 - basicLogger - INFO - Response for event add_sector (id: 516fd986-76ad-4c15-be51-dd2a01e79dbf) has status 201 (via Kafka)
+2026-03-30 21:30:27,748 - basicLogger - INFO - Received event add_sector with a trace id of b31acb66-7c18-4186-84a7-0d6cc54c751a
+2026-03-30 21:30:27,756 - basicLogger - INFO - Response for event add_sector (id: 9df23dae-d961-4829-a672-268f3c211958) has status 201 (via Kafka)
+2026-03-30 21:30:27,762 - basicLogger - INFO - Response for event add_sector (id: 9df23dae-d961-4829-a672-268f3c211958) has status 201 (via Kafka)
+2026-03-30 21:30:27,766 - basicLogger - INFO - Received event add_sector with a trace id of 0d9f8b37-769f-467f-a50d-f00d6b82574d
+2026-03-30 21:30:27,769 - basicLogger - INFO - Response for event add_sector (id: 6e8ac8bf-fb5c-4b8f-85f8-d2b13cd24085) has status 201 (via Kafka)
+2026-03-30 21:30:27,772 - basicLogger - INFO - Response for event add_sector (id: 6e8ac8bf-fb5c-4b8f-85f8-d2b13cd24085) has status 201 (via Kafka)
+2026-03-30 21:30:27,775 - basicLogger - INFO - Received event add_sector with a trace id of 77dbf9b0-6474-4df9-b13d-c1b1ee983d92
+2026-03-30 21:30:27,778 - basicLogger - INFO - Response for event add_sector (id: 60ee36f8-86bb-4646-861d-fdcf8173e383) has status 201 (via Kafka)
+2026-03-30 21:30:27,782 - basicLogger - INFO - Response for event add_sector (id: 60ee36f8-86bb-4646-861d-fdcf8173e383) has status 201 (via Kafka)
+2026-03-30 21:30:27,785 - basicLogger - INFO - Received event add_sector with a trace id of 496444da-a597-4474-9a31-ffe8d6fd84bc
+2026-03-30 21:30:27,787 - basicLogger - INFO - Response for event add_sector (id: e1f04b71-a4e2-4ea8-9bdb-1a3525b1d843) has status 201 (via Kafka)
+2026-03-30 21:30:27,790 - basicLogger - INFO - Response for event add_sector (id: e1f04b71-a4e2-4ea8-9bdb-1a3525b1d843) has status 201 (via Kafka)
+2026-03-30 21:30:27,794 - basicLogger - INFO - Received event add_sector with a trace id of a12d2a84-b4b9-4f4f-bc94-dfe3baba0b9f
+2026-03-30 21:30:27,798 - basicLogger - INFO - Response for event add_sector (id: 1f8494dc-6fb1-4cae-bc79-1403c5f3652b) has status 201 (via Kafka)
+2026-03-30 21:30:27,801 - basicLogger - INFO - Response for event add_sector (id: 1f8494dc-6fb1-4cae-bc79-1403c5f3652b) has status 201 (via Kafka)
+2026-03-30 21:30:27,805 - basicLogger - INFO - Received event add_sector with a trace id of 7530957b-837a-4f7c-98e4-65acd9c7677d
+2026-03-30 21:30:27,807 - basicLogger - INFO - Response for event add_sector (id: 4bcf53cf-8735-4c99-b58b-de7f55b02e45) has status 201 (via Kafka)
+2026-03-30 21:30:27,811 - basicLogger - INFO - Response for event add_sector (id: 4bcf53cf-8735-4c99-b58b-de7f55b02e45) has status 201 (via Kafka)
+2026-03-30 21:30:27,814 - basicLogger - INFO - Received event add_sector with a trace id of a005f231-a713-4cfa-a820-5aada5f7421e
+2026-03-30 21:30:27,817 - basicLogger - INFO - Response for event add_sector (id: c6a26f50-5a25-42f8-9b8b-72d2a78b8ccf) has status 201 (via Kafka)
+2026-03-30 21:30:27,820 - basicLogger - INFO - Response for event add_sector (id: c6a26f50-5a25-42f8-9b8b-72d2a78b8ccf) has status 201 (via Kafka)
+2026-03-30 21:30:27,824 - basicLogger - INFO - Received event add_sector with a trace id of e479c67b-0882-4452-9a1e-42e0d7d5b3ff
+2026-03-30 21:30:27,827 - basicLogger - INFO - Response for event add_sector (id: d7cc2f6e-e3ee-4883-acbb-db8c02d02f87) has status 201 (via Kafka)
+2026-03-30 21:30:27,830 - basicLogger - INFO - Response for event add_sector (id: d7cc2f6e-e3ee-4883-acbb-db8c02d02f87) has status 201 (via Kafka)
+2026-03-30 21:30:27,832 - basicLogger - INFO - Received event add_sector with a trace id of 436b7d8f-09dd-40a9-b886-2af73f39be58
+2026-03-30 21:30:27,835 - basicLogger - INFO - Response for event add_sector (id: fefc948e-25d2-44a6-add9-d4ee01d4c4bc) has status 201 (via Kafka)
+2026-03-30 21:30:27,837 - basicLogger - INFO - Response for event add_sector (id: fefc948e-25d2-44a6-add9-d4ee01d4c4bc) has status 201 (via Kafka)
+2026-03-30 21:30:27,840 - basicLogger - INFO - Received event add_sector with a trace id of 120bc556-b8fe-4c2e-b3dc-a21c1485102e
+2026-03-30 21:30:27,842 - basicLogger - INFO - Response for event add_sector (id: dc6b9828-6e18-4c09-bd45-a2955d945c96) has status 201 (via Kafka)
+2026-03-30 21:30:27,845 - basicLogger - INFO - Response for event add_sector (id: dc6b9828-6e18-4c09-bd45-a2955d945c96) has status 201 (via Kafka)
+2026-03-30 21:30:27,848 - basicLogger - INFO - Received event add_sector with a trace id of 7b7c0d50-0989-4839-aa60-248c5fbe534f
+2026-03-30 21:30:27,850 - basicLogger - INFO - Response for event add_sector (id: de1d2fd1-f48e-4d28-9d58-bcff52a29400) has status 201 (via Kafka)
+2026-03-30 21:30:27,855 - basicLogger - INFO - Response for event add_sector (id: de1d2fd1-f48e-4d28-9d58-bcff52a29400) has status 201 (via Kafka)
+2026-03-30 21:30:27,859 - basicLogger - INFO - Received event add_sector with a trace id of 28b79d6c-7f05-4b09-ade1-3a93b9ab7b55
+2026-03-30 21:30:27,863 - basicLogger - INFO - Response for event add_sector (id: 0236fee0-910e-4e52-ae6c-33a27bd20af1) has status 201 (via Kafka)
+2026-03-30 21:30:27,866 - basicLogger - INFO - Response for event add_sector (id: 0236fee0-910e-4e52-ae6c-33a27bd20af1) has status 201 (via Kafka)
+2026-03-30 21:30:27,869 - basicLogger - INFO - Received event add_sector with a trace id of bd316420-b7a8-41ec-a415-ddcb24a961a0
+2026-03-30 21:30:27,872 - basicLogger - INFO - Response for event add_sector (id: 7576f4fd-b2e7-4a38-8d89-f1322657def4) has status 201 (via Kafka)
+2026-03-30 21:30:27,875 - basicLogger - INFO - Response for event add_sector (id: 7576f4fd-b2e7-4a38-8d89-f1322657def4) has status 201 (via Kafka)
+2026-03-30 21:30:27,879 - basicLogger - INFO - Received event add_sector with a trace id of b4c1af5b-05c9-439b-b068-6588ee18483f
+2026-03-30 21:30:27,882 - basicLogger - INFO - Response for event add_sector (id: af62526e-11f2-4a2a-a642-0a1133b764b9) has status 201 (via Kafka)
+2026-03-30 21:30:27,885 - basicLogger - INFO - Response for event add_sector (id: af62526e-11f2-4a2a-a642-0a1133b764b9) has status 201 (via Kafka)
+2026-03-30 21:30:27,889 - basicLogger - INFO - Received event add_sector with a trace id of c5e58f6e-6184-4920-b08d-fd78bda82caf
+2026-03-30 21:30:27,892 - basicLogger - INFO - Response for event add_sector (id: 0cb10c17-fddd-46fb-acaa-3a7547ec1b04) has status 201 (via Kafka)
+2026-03-30 21:30:27,895 - basicLogger - INFO - Response for event add_sector (id: 0cb10c17-fddd-46fb-acaa-3a7547ec1b04) has status 201 (via Kafka)
+2026-03-30 21:30:27,899 - basicLogger - INFO - Received event add_sector with a trace id of 08226fbd-8421-4ad1-bc6c-d6bd03bf6414
+2026-03-30 21:30:27,902 - basicLogger - INFO - Response for event add_sector (id: 46ab0860-55a8-49a0-aeb6-de0ec0ed5915) has status 201 (via Kafka)
+2026-03-30 21:30:27,905 - basicLogger - INFO - Response for event add_sector (id: 46ab0860-55a8-49a0-aeb6-de0ec0ed5915) has status 201 (via Kafka)
+2026-03-30 21:30:27,908 - basicLogger - INFO - Received event add_sector with a trace id of 27942d0f-d878-4b30-bae8-61391667ccf7
+2026-03-30 21:30:27,911 - basicLogger - INFO - Response for event add_sector (id: 06927eba-b6c3-4631-a42c-706495d8e520) has status 201 (via Kafka)
+2026-03-30 21:30:27,914 - basicLogger - INFO - Response for event add_sector (id: 06927eba-b6c3-4631-a42c-706495d8e520) has status 201 (via Kafka)
+2026-03-30 21:30:27,919 - basicLogger - INFO - Received event add_sector with a trace id of a744a057-3cd8-419f-a8dd-b8c43754f418
+2026-03-30 21:30:27,921 - basicLogger - INFO - Response for event add_sector (id: bf2ca78c-43c1-43b3-8207-801fda2e5eb2) has status 201 (via Kafka)
+2026-03-30 21:30:27,924 - basicLogger - INFO - Response for event add_sector (id: bf2ca78c-43c1-43b3-8207-801fda2e5eb2) has status 201 (via Kafka)
+2026-03-30 21:30:27,929 - basicLogger - INFO - Received event add_sector with a trace id of cf5d1b4b-3892-4c31-9d28-8bc1ee81065c
+2026-03-30 21:30:27,932 - basicLogger - INFO - Response for event add_sector (id: 67468bf1-2db4-45d7-a3de-0dcb53063b05) has status 201 (via Kafka)
+2026-03-30 21:30:27,935 - basicLogger - INFO - Response for event add_sector (id: 67468bf1-2db4-45d7-a3de-0dcb53063b05) has status 201 (via Kafka)
+2026-03-30 21:30:27,938 - basicLogger - INFO - Received event add_sector with a trace id of d6c404d3-1dc8-418e-a230-9d2282185293
+2026-03-30 21:30:27,941 - basicLogger - INFO - Response for event add_sector (id: 78874c44-e6bb-4b04-847c-213e04e4e880) has status 201 (via Kafka)
+2026-03-30 21:30:27,944 - basicLogger - INFO - Response for event add_sector (id: 78874c44-e6bb-4b04-847c-213e04e4e880) has status 201 (via Kafka)
+2026-03-30 21:30:27,948 - basicLogger - INFO - Received event add_sector with a trace id of eda89fb0-cace-4f09-ab94-20076f8b0b0c
+2026-03-30 21:30:27,951 - basicLogger - INFO - Response for event add_sector (id: 0f349fb1-cbba-40d1-b72b-43e452813967) has status 201 (via Kafka)
+2026-03-30 21:30:27,953 - basicLogger - INFO - Response for event add_sector (id: 0f349fb1-cbba-40d1-b72b-43e452813967) has status 201 (via Kafka)
+2026-03-30 21:30:27,958 - basicLogger - INFO - Received event add_sector with a trace id of cc8165a8-24ef-497d-bd05-165752d8b843
+2026-03-30 21:30:27,961 - basicLogger - INFO - Response for event add_sector (id: fb1e26bd-1a7d-4409-b4c0-84e8c718e851) has status 201 (via Kafka)
+2026-03-30 21:30:27,964 - basicLogger - INFO - Response for event add_sector (id: fb1e26bd-1a7d-4409-b4c0-84e8c718e851) has status 201 (via Kafka)
+2026-03-30 21:30:27,967 - basicLogger - INFO - Received event add_sector with a trace id of 3680e9e7-f72a-43cf-b43c-36cad2a9b5d0
+2026-03-30 21:30:27,969 - basicLogger - INFO - Response for event add_sector (id: 87f49500-596f-418f-a913-23fd2a36b359) has status 201 (via Kafka)
+2026-03-30 21:30:27,973 - basicLogger - INFO - Response for event add_sector (id: 87f49500-596f-418f-a913-23fd2a36b359) has status 201 (via Kafka)
+2026-03-30 21:30:27,977 - basicLogger - INFO - Received event add_sector with a trace id of 2cacb74f-8f65-41c5-b19e-4a306a0bddb5
+2026-03-30 21:30:27,982 - basicLogger - INFO - Response for event add_sector (id: 3d1d010c-8cd4-4369-8c0e-836571e7a8e1) has status 201 (via Kafka)
+2026-03-30 21:30:27,985 - basicLogger - INFO - Response for event add_sector (id: 3d1d010c-8cd4-4369-8c0e-836571e7a8e1) has status 201 (via Kafka)
+2026-03-30 21:30:27,989 - basicLogger - INFO - Received event add_sector with a trace id of 54489790-ccbf-4dc8-aa61-bfc18da54ee4
+2026-03-30 21:30:27,992 - basicLogger - INFO - Response for event add_sector (id: 2f458103-87c9-4f10-a887-2065097f0c45) has status 201 (via Kafka)
+2026-03-30 21:30:27,995 - basicLogger - INFO - Response for event add_sector (id: 2f458103-87c9-4f10-a887-2065097f0c45) has status 201 (via Kafka)
+2026-03-30 21:30:27,999 - basicLogger - INFO - Received event add_sector with a trace id of 97785a4d-d03f-4ea6-8793-a5a24c07a6fb
+2026-03-30 21:30:28,001 - basicLogger - INFO - Response for event add_sector (id: ae9fd651-e682-4b7e-a79c-3739931f2806) has status 201 (via Kafka)
+2026-03-30 21:30:28,004 - basicLogger - INFO - Response for event add_sector (id: ae9fd651-e682-4b7e-a79c-3739931f2806) has status 201 (via Kafka)
+2026-03-30 21:30:28,008 - basicLogger - INFO - Received event add_sector with a trace id of 2a830dc5-2fc2-4266-b7b5-866120f60fdd
+2026-03-30 21:30:28,010 - basicLogger - INFO - Response for event add_sector (id: 414b4331-98f8-431b-9c4b-7aa61c1d086b) has status 201 (via Kafka)
+2026-03-30 21:30:28,012 - basicLogger - INFO - Response for event add_sector (id: 414b4331-98f8-431b-9c4b-7aa61c1d086b) has status 201 (via Kafka)
+2026-03-30 21:30:28,016 - basicLogger - INFO - Received event add_sector with a trace id of f69d6449-f769-40b5-af0f-bed1705f606f
+2026-03-30 21:30:28,020 - basicLogger - INFO - Response for event add_sector (id: d303bc8f-fa69-411b-9e78-126c5df387ce) has status 201 (via Kafka)
+2026-03-30 21:30:28,022 - basicLogger - INFO - Response for event add_sector (id: d303bc8f-fa69-411b-9e78-126c5df387ce) has status 201 (via Kafka)
+2026-03-30 21:30:28,025 - basicLogger - INFO - Received event add_sector with a trace id of 37a04022-df8a-4645-b5d7-48aab63fb09e
+2026-03-30 21:30:28,027 - basicLogger - INFO - Response for event add_sector (id: 4c468b22-73f3-429c-8ac4-2ff94867996a) has status 201 (via Kafka)
+2026-03-30 21:30:28,030 - basicLogger - INFO - Response for event add_sector (id: 4c468b22-73f3-429c-8ac4-2ff94867996a) has status 201 (via Kafka)
+2026-03-30 21:30:28,033 - basicLogger - INFO - Received event add_sector with a trace id of 54f80981-4d9e-46aa-af15-08c16035482d
+2026-03-30 21:30:28,036 - basicLogger - INFO - Response for event add_sector (id: aeae2c8c-110f-483e-84c4-9b01dbde19e2) has status 201 (via Kafka)
+2026-03-30 21:30:28,038 - basicLogger - INFO - Response for event add_sector (id: aeae2c8c-110f-483e-84c4-9b01dbde19e2) has status 201 (via Kafka)
+2026-03-30 21:30:28,041 - basicLogger - INFO - Received event add_sector with a trace id of 0702cfe6-8fa7-4708-b0ed-6942a278c268
+2026-03-30 21:30:28,044 - basicLogger - INFO - Response for event add_sector (id: ad88befc-0e90-4381-a652-d76625e7c4dc) has status 201 (via Kafka)
+2026-03-30 21:30:28,046 - basicLogger - INFO - Response for event add_sector (id: ad88befc-0e90-4381-a652-d76625e7c4dc) has status 201 (via Kafka)
+2026-03-30 21:30:28,049 - basicLogger - INFO - Received event add_sector with a trace id of e90872ae-a755-41d6-96fb-ee94c65e723c
+2026-03-30 21:30:28,052 - basicLogger - INFO - Response for event add_sector (id: 0763b886-1ace-4602-a3b9-bbc7955953dc) has status 201 (via Kafka)
+2026-03-30 21:30:28,054 - basicLogger - INFO - Response for event add_sector (id: 0763b886-1ace-4602-a3b9-bbc7955953dc) has status 201 (via Kafka)
+2026-03-30 21:30:28,057 - basicLogger - INFO - Received event add_sector with a trace id of f2584d4c-3745-4ff4-81c3-304346803fe7
+2026-03-30 21:30:28,059 - basicLogger - INFO - Response for event add_sector (id: 3f90c95e-9263-4bf2-9713-a1f6ba0cf5df) has status 201 (via Kafka)
+2026-03-30 21:30:28,061 - basicLogger - INFO - Response for event add_sector (id: 3f90c95e-9263-4bf2-9713-a1f6ba0cf5df) has status 201 (via Kafka)
+2026-03-30 21:30:28,064 - basicLogger - INFO - Received event add_sector with a trace id of 79970b3a-0797-4bd7-9dc6-337e79395714
+2026-03-30 21:30:28,066 - basicLogger - INFO - Response for event add_sector (id: dac43de3-1c77-469e-bb74-010c3c906596) has status 201 (via Kafka)
+2026-03-30 21:30:28,068 - basicLogger - INFO - Response for event add_sector (id: dac43de3-1c77-469e-bb74-010c3c906596) has status 201 (via Kafka)
+2026-03-30 21:30:28,070 - basicLogger - INFO - Received event add_sector with a trace id of 2893e3e9-e40a-4fa1-b5e8-19ebe58d1ba2
+2026-03-30 21:30:28,072 - basicLogger - INFO - Response for event add_sector (id: 20f7b31d-37e4-497b-8b55-423a8f8da60a) has status 201 (via Kafka)
+2026-03-30 21:30:28,074 - basicLogger - INFO - Response for event add_sector (id: 20f7b31d-37e4-497b-8b55-423a8f8da60a) has status 201 (via Kafka)
+2026-03-30 21:30:28,076 - basicLogger - INFO - Received event add_sector with a trace id of 00259ed6-f204-49ec-ab16-902be96dc2fe
+2026-03-30 21:30:28,078 - basicLogger - INFO - Response for event add_sector (id: f1f67928-f03d-4943-b9ea-2248ec52ddb9) has status 201 (via Kafka)
+2026-03-30 21:30:28,081 - basicLogger - INFO - Response for event add_sector (id: f1f67928-f03d-4943-b9ea-2248ec52ddb9) has status 201 (via Kafka)
+2026-03-30 21:30:28,083 - basicLogger - INFO - Received event add_sector with a trace id of bab33893-7185-4f2c-9afc-d0669807294f
+2026-03-30 21:30:28,085 - basicLogger - INFO - Response for event add_sector (id: 81405a1b-7402-437e-81d1-9ce29f3ecac2) has status 201 (via Kafka)
+2026-03-30 21:30:28,087 - basicLogger - INFO - Response for event add_sector (id: 81405a1b-7402-437e-81d1-9ce29f3ecac2) has status 201 (via Kafka)
+2026-03-30 21:30:28,090 - basicLogger - INFO - Received event add_lap with a trace id of bc8ff03f-2335-4196-aaf9-55cfaa8e3178
+2026-03-30 21:30:28,091 - basicLogger - INFO - Response for event add_lap (id: fa569aca-41de-4034-a203-fd1f068c5f20) has status 201 (via Kafka)
+2026-03-30 21:30:28,093 - basicLogger - INFO - Response for event add_lap (id: fa569aca-41de-4034-a203-fd1f068c5f20) has status 201 (via Kafka)
+2026-03-30 21:30:28,096 - basicLogger - INFO - Received event add_lap with a trace id of 68a69199-a3a5-4d8b-a630-48cca9e6fbde
+2026-03-30 21:30:28,098 - basicLogger - INFO - Response for event add_lap (id: d117b49d-113e-4bfd-b939-327f48fd072f) has status 201 (via Kafka)
+2026-03-30 21:30:28,100 - basicLogger - INFO - Response for event add_lap (id: d117b49d-113e-4bfd-b939-327f48fd072f) has status 201 (via Kafka)
+2026-03-30 21:30:28,103 - basicLogger - INFO - Received event add_lap with a trace id of 3c4b6a73-e52f-40fc-a9ab-cade3aac9b61
+2026-03-30 21:30:28,105 - basicLogger - INFO - Response for event add_lap (id: aedec16b-d41c-4f08-9e29-e55810969205) has status 201 (via Kafka)
+2026-03-30 21:30:28,107 - basicLogger - INFO - Response for event add_lap (id: aedec16b-d41c-4f08-9e29-e55810969205) has status 201 (via Kafka)
+2026-03-30 21:30:28,110 - basicLogger - INFO - Received event add_lap with a trace id of c1ca63a1-e3da-4087-b68a-8f0b65a0066d
+2026-03-30 21:30:28,112 - basicLogger - INFO - Response for event add_lap (id: ba64a8dd-a60b-4634-bb4b-a4bca5de7c99) has status 201 (via Kafka)
+2026-03-30 21:30:28,115 - basicLogger - INFO - Response for event add_lap (id: ba64a8dd-a60b-4634-bb4b-a4bca5de7c99) has status 201 (via Kafka)
+2026-03-30 21:31:17,209 - basicLogger - INFO - Received event add_lap with a trace id of 4c16d6ba-2fce-4283-83d1-601d42a70870
+2026-03-30 21:31:17,221 - basicLogger - INFO - Response for event add_lap (id: B-202) has status 201 (via Kafka)
+2026-03-30 21:31:17,227 - basicLogger - INFO - Response for event add_lap (id: B-202) has status 201 (via Kafka)
+2026-03-30 21:31:21,650 - basicLogger - INFO - Received event add_lap with a trace id of ada020cc-6a4a-4cb7-996f-9c2c27bf2ebf
+2026-03-30 21:31:21,654 - basicLogger - INFO - Response for event add_lap (id: B-202) has status 201 (via Kafka)
+2026-03-30 21:31:21,657 - basicLogger - INFO - Response for event add_lap (id: B-202) has status 201 (via Kafka)
+2026-03-30 21:31:29,693 - basicLogger - INFO - Received event add_sector with a trace id of 03142c26-88d2-4d71-8299-2ee58d8204d7
+2026-03-30 21:31:29,698 - basicLogger - INFO - Response for event add_sector (id: B-202) has status 201 (via Kafka)
+2026-03-30 21:31:29,702 - basicLogger - INFO - Response for event add_sector (id: B-202) has status 201 (via Kafka)

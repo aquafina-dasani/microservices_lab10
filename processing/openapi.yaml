@@ -1,0 +1,56 @@
+openapi: 3.0.3
+info:
+  title: Stats API
+  version: "1.0.0"
+  description: This API provides race stats
+  contact:
+    email: ncao5@my.bcit.ca
+paths:
+  /stats:
+    get:
+      summary: Gets the race stats
+      operationId: app.get_stats
+      description: Gets aggregated Lap and Sector stats
+      responses:
+        '200':
+          description: Successfully returned a RaceStats object
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RaceStats'
+        '404':
+          description: Stats do not exist
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    RaceStats:
+      required:
+        - num_laps
+        - num_sectors
+        - max_lap_speed
+        - min_sector_time
+        - last_updated
+      properties:
+        laps:
+          type: integer
+          example: 20
+        sectors:
+          type: integer
+          example: 100
+        max_lap_speed:
+          type: number
+          example: 255.55
+        min_sector_time:
+          type: number
+          example: 100.00
+        last_updated:
+          type: string
+          format: date-time
+          example: "2026-01-21T09:12:33.001Z"
+      type: object

@@ -1,0 +1,10 @@
+version: 1
+datastore:
+  filename: /data/data.json
+scheduler:
+  interval: 5
+eventstores:
+  lap_event:
+    url: http://storage:8090/race/laps
+  sector_event:
+    url: http://storage:8090/race/sectors
