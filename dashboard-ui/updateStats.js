@@ -2,11 +2,11 @@
 
 const IP = "localhost"; // localhost OR ec2 public IP
 
-const PROCESSING_STATS_API_URL = "http://localhost:8100/stats"
+const PROCESSING_STATS_API_URL = "/processing/stats"
 const ANALYZER_API_URL = {
-    stats: "http://localhost:8110/stats",
-    sectors: "http://localhost:8110/race/sectors?index=0",
-    laps: "http://localhost:8110/race/laps?index=0"
+    stats: "/analyzer/stats",
+    sectors: "/analyzer/race/sectors?index=0",
+    laps: "/analyzer/race/laps?index=0"
 }
 
 // This function fetches and updates the general statistics

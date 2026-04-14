@@ -7,8 +7,6 @@ services:
   kafka:
     image: wurstmeister/kafka
     command: [start-kafka.sh]
-    ports:
-      - "9092:9092"
     environment:
       KAFKA_ADVERTISED_HOST_NAME: kafka
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
@@ -26,8 +24,6 @@ services:
       MYSQL_USER: ncao5
       MYSQL_PASSWORD: "1220"
       MYSQL_DATABASE: race_db
-    ports:
-      - "3306:3306"
     volumes:
       - mysql_data:/var/lib/mysql
     restart: on-failure
@@ -44,6 +40,19 @@ services:
     volumes:
       - ./config:/config
       - ./logs:/logs
+
+  nginx:
+    image: nginx:latest
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      - ./dashboard-ui:/usr/share/nginx/html:ro
+    depends_on:
+      - receiver
+      - storage
+      - processing
+      - analyzer
 
   storage:
     build:
@@ -63,8 +72,6 @@ services:
       context: processing
       dockerfile: Dockerfile
     restart: on-failure
-    ports:
-      - "8100:8100"
     depends_on:
       - storage
     volumes:
@@ -77,8 +84,6 @@ services:
       context: analyzer
       dockerfile: Dockerfile
     restart: on-failure
-    ports:
-      - "8110:8110"
     depends_on:
       - storage
       - kafka
@@ -92,8 +97,6 @@ services:
     image: dashboard
     build:
       context: ./dashboard-ui
-    ports:
-      - "80:80"
     depends_on:
       - processing
       - analyzer

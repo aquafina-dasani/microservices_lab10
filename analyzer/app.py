@@ -1,3 +1,4 @@
+import os
 import connexion
 import json
 import yaml
@@ -101,15 +102,17 @@ def get_stats():
 
 
 app = connexion.FlaskApp(__name__, specification_dir="")
-app.add_api("openapi.yaml", strict_validation=True, validate_responses=True)
-app.add_middleware(
-    CORSMiddleware,
-    position=MiddlewarePosition.BEFORE_EXCEPTION,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
+app.add_api("openapi.yaml", base_path="/analyzer", strict_validation=True, validate_responses=True)
+
+if "CORS_ALLOW_ALL" in os.environ and os.environ["CORS_ALLOW_ALL"] == "yes":
+    app.add_middleware(
+        CORSMiddleware,
+        position=MiddlewarePosition.BEFORE_EXCEPTION,
+        allow_origins=["*"],
+        allow_credentials=True,
+        allow_methods=["*"],
+        allow_headers=["*"],
+    )
 
 if __name__ == "__main__":
     # Running on 8110 so it doesn't conflict with receiver(8080), storage(8090), or processing(8100)
