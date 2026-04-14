@@ -4,9 +4,12 @@ services:
     image: wurstmeister/zookeeper
     volumes:
       - zookeeper-data:/data
+
   kafka:
     image: wurstmeister/kafka
     command: [start-kafka.sh]
+    # ports:        <-- REMOVED: Now strictly internal
+    #   - "9092:9092"
     environment:
       KAFKA_ADVERTISED_HOST_NAME: kafka
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
@@ -16,6 +19,7 @@ services:
     volumes:
       - kafka-data:/kafka
     restart: on-failure
+
   db:
     image: mysql:latest
     container_name: mysql_race_db
@@ -24,29 +28,21 @@ services:
       MYSQL_USER: ncao5
       MYSQL_PASSWORD: "1220"
       MYSQL_DATABASE: race_db
+    # ports:        <-- REMOVED: Now strictly internal
+    #   - "3306:3306"
     volumes:
       - mysql_data:/var/lib/mysql
     restart: on-failure
 
-  receiver:
-    build:
-      context: receiver
-      dockerfile: Dockerfile
-    restart: on-failure
-    ports:
-      - "8080:8080"
-    depends_on:
-      - kafka
-    volumes:
-      - ./config:/config
-      - ./logs:/logs
-
+  # THE REVERSE PROXY (Your Receptionist)
   nginx:
     image: nginx:latest
     ports:
-      - "80:80"
+      - "80:80"     # THE ONLY OPEN DOOR TO YOUR APP
     volumes:
+      # Plugs in your Nginx routing rules
       - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      # Plugs in your Vanilla JS dashboard HTML/CSS/JS files
       - ./dashboard-ui:/usr/share/nginx/html:ro
     depends_on:
       - receiver
@@ -54,11 +50,30 @@ services:
       - processing
       - analyzer
 
+  receiver:
+    build:
+      context: receiver
+      dockerfile: Dockerfile
+    restart: on-failure
+    # ports:        <-- REMOVED
+    #   - "8080:8080"
+    environment:
+      - CORS_ALLOW_ALL=yes
+    deploy:
+      replicas: 3   # SCALING: Spins up 3 identical receiver containers
+    depends_on:
+      - kafka
+    volumes:
+      - ./config:/config
+      - ./logs:/logs
+
   storage:
     build:
       context: storage
       dockerfile: Dockerfile
     restart: on-failure
+    environment:
+      - CORS_ALLOW_ALL=no
     depends_on:
       - receiver
       - db
@@ -72,6 +87,10 @@ services:
       context: processing
       dockerfile: Dockerfile
     restart: on-failure
+    # ports:        <-- REMOVED
+    #   - "8100:8100"
+    environment:
+      - CORS_ALLOW_ALL=no
     depends_on:
       - storage
     volumes:
@@ -84,6 +103,10 @@ services:
       context: analyzer
       dockerfile: Dockerfile
     restart: on-failure
+    # ports:        <-- REMOVED
+    #   - "8110:8110"
+    environment:
+      - CORS_ALLOW_ALL=no
     depends_on:
       - storage
       - kafka
@@ -92,14 +115,6 @@ services:
       - ./config:/config
       - ./logs:/logs
 
-
-  dashboard:
-    image: dashboard
-    build:
-      context: ./dashboard-ui
-    depends_on:
-      - processing
-      - analyzer
 volumes:
   mysql_data:
   kafka-data:
